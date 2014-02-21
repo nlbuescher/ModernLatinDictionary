@@ -23,6 +23,7 @@
 				03448FC418B7F33B00438B45 /* src */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 /* End PBXGroup section */
 
