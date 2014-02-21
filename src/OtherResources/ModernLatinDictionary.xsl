@@ -36,7 +36,7 @@
 	</xsl:if>
 </xsl:template>
 
-<xsl:template match="*[@d:pr='EC_IPA']">
+<xsl:template match="*[@d:pr='LA-EC_IPA']">
 	<xsl:if test="$pronunciation = '1'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
