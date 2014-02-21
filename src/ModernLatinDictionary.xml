@@ -8,13 +8,13 @@
 	<d:index d:value="Dictionary application"/>
 	<h1>Applicātiō Dictiōnariī</h1>
 	<p>
-		Applicatio to look up dictionary on Mac OS X.<br/>
+		Applicatio ad quaerentem dictionarium in Mac OS X.<br/>
 	</p>
 	<span class="column">
-		The Dictionary application first appeared in Tiger.
+        Applicatio Dictionarii in Tiger primum apparit.
 	</span>
 	<span class="picture">
-		It's application icon looks like below.<br/>
+		Icon applicationis eius aspectus aequalis rei habet.<br/>
 		<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
 	</span>
 </d:entry>
@@ -26,9 +26,8 @@
 	<d:index d:value="make it" d:parental-control="1" d:anchor="xpointer(//*[@id='make_it'])"/>
 	<div d:priority="2"><h1>make</h1></div>
 	<span class="syntax">
-		<span d:pr="US">| māk |</span>
-		<span d:pr="US_IPA">| meɪk |</span>
-		<span d:pr="UK_IPA">| meɪk |</span>
+		<span d:pr="LA_IPA">| meɪk |</span>
+		<span d:pr="EC_IPA">| meɪk |</span>
 	</span>
 	<div>
 		<ol>
@@ -57,7 +56,7 @@
 	<h1>make up one's mind</h1>
 	<ul>
 		<li>
-		make a decision.
+			make a decision.
 		</li>
 	</ul>
 </d:entry>
@@ -72,7 +71,7 @@
 		<ol>
 			<li>Open "Go" menu.</li>
 			<li>Choose "Front/Back Matter" menu item. 
-			If it has sub-menu items, choose one of them.</li>
+				If it has sub-menu items, choose one of them.</li>
 		</ol>
 	</div>
 	<div>
@@ -80,7 +79,7 @@
 		<ol>
 			<li>Prepare this page source as an entry.</li>
 			<li>Add "DCSDictionaryFrontMatterReferenceID" key and its value to the plist of the dictionary.
-			The value should be the string of this page entry id. </li>
+				The value should be the string of this page entry id. </li>
 		</ol>
 	</div>
 	<br/>

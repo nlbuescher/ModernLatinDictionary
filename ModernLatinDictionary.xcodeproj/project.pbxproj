@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		03448FC118B7F33B00438B45 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
+		03448FC218B7F33B00438B45 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		03448FC318B7F33B00438B45 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		03448FC418B7F33B00438B45 /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; path = src; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		03448FB918B7F33B00438B45 = {
+			isa = PBXGroup;
+			children = (
+				03448FC118B7F33B00438B45 /* LICENSE.md */,
+				03448FC218B7F33B00438B45 /* Makefile */,
+				03448FC318B7F33B00438B45 /* README.md */,
+				03448FC418B7F33B00438B45 /* src */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		03448FBE18B7F33B00438B45 /* ModernLatinDictionary */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 03448FC518B7F33B00438B45 /* Build configuration list for PBXLegacyTarget "ModernLatinDictionary" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/Nico/Dropbox/Developer/ModernLatinDictionary;
+			dependencies = (
+			);
+			name = ModernLatinDictionary;
+			passBuildSettingsInEnvironment = 1;
+			productName = ModernLatinDictionary;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		03448FBA18B7F33B00438B45 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = 03448FBD18B7F33B00438B45 /* Build configuration list for PBXProject "ModernLatinDictionary" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 03448FB918B7F33B00438B45;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				03448FBE18B7F33B00438B45 /* ModernLatinDictionary */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		03448FBB18B7F33B00438B45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		03448FBC18B7F33B00438B45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		03448FC618B7F33B00438B45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ModernLatinDictionary;
+			};
+			name = Debug;
+		};
+		03448FC718B7F33B00438B45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ModernLatinDictionary;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		03448FBD18B7F33B00438B45 /* Build configuration list for PBXProject "ModernLatinDictionary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03448FBB18B7F33B00438B45 /* Debug */,
+				03448FBC18B7F33B00438B45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		03448FC518B7F33B00438B45 /* Build configuration list for PBXLegacyTarget "ModernLatinDictionary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03448FC618B7F33B00438B45 /* Debug */,
+				03448FC718B7F33B00438B45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 03448FBA18B7F33B00438B45 /* Project object */;
+}
