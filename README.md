@@ -1,4 +1,4 @@
-Modern-Latin-Dictionary
+Modern Latin Dictionary
 =======================
 
 This is a dictionary project written using Mac OS X, Xcode 5, and the Dictionary
