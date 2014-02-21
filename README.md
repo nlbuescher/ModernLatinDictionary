@@ -2,7 +2,8 @@ Modern Latin Dictionary
 =======================
 
 This is a dictionary project written using Mac OS X, Xcode 5, and the Dictionary
-Developer Tools from Apple.
+Developer Tools from Apple. It is important to not that this is a Latin-language
+Dictionary, not a Latin-English Dictionary. The definitions are all in Latin.
 
 To contribute to this project, you must be running Mac OS X and have downloaded
 the latest "Auxiliary Tools for Xcode" from the Apple developer page; This will
