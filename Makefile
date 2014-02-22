@@ -9,9 +9,9 @@
 # You need to edit these values.
 
 DICT_NAME				=	"Modern Latin Dictionary"
-DICT_SRC_PATH			=	ModernLatinDictionary.xml
-CSS_PATH				=	ModernLatinDictionary.css
-PLIST_PATH				=	ModernLatinInfo.plist
+DICT_SRC_PATH			=	src/ModernLatinDictionary.xml
+CSS_PATH				=	src/ModernLatinDictionary.css
+PLIST_PATH				=	src/ModernLatinInfo.plist
 
 DICT_BUILD_OPTS			=
 # Suppress adding supplementary key.

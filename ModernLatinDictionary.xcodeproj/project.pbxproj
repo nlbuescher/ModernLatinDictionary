@@ -8,12 +8,9 @@
 
 /* Begin PBXFileReference section */
 		03448FC118B7F33B00438B45 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
-		03448FC218B7F33B00438B45 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		03448FC318B7F33B00438B45 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		03B5A3C818B83EE100F2DB52 /* ModernLatinDictionary.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = ModernLatinDictionary.css; sourceTree = "<group>"; };
-		03B5A3C918B83EE100F2DB52 /* ModernLatinDictionary.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ModernLatinDictionary.xml; sourceTree = "<group>"; };
-		03B5A3CA18B83EE100F2DB52 /* ModernLatinInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ModernLatinInfo.plist; sourceTree = "<group>"; };
-		03B5A3CB18B83EE100F2DB52 /* OtherResources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherResources; sourceTree = "<group>"; };
+		03B5A3CC18B96A9A00F2DB52 /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; path = src; sourceTree = "<group>"; };
+		03B5A3CD18B96B0400F2DB52 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,12 +18,9 @@
 			isa = PBXGroup;
 			children = (
 				03448FC118B7F33B00438B45 /* LICENSE.md */,
-				03448FC218B7F33B00438B45 /* Makefile */,
-				03B5A3C818B83EE100F2DB52 /* ModernLatinDictionary.css */,
-				03B5A3C918B83EE100F2DB52 /* ModernLatinDictionary.xml */,
-				03B5A3CA18B83EE100F2DB52 /* ModernLatinInfo.plist */,
-				03B5A3CB18B83EE100F2DB52 /* OtherResources */,
+				03B5A3CD18B96B0400F2DB52 /* Makefile */,
 				03448FC318B7F33B00438B45 /* README.md */,
+				03B5A3CC18B96A9A00F2DB52 /* src */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 1;
