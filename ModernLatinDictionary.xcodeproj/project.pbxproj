@@ -30,7 +30,7 @@
 /* Begin PBXLegacyTarget section */
 		03448FBE18B7F33B00438B45 /* ModernLatinDictionary */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION)";
+			buildArgumentsString = "all install";
 			buildConfigurationList = 03448FC518B7F33B00438B45 /* Build configuration list for PBXLegacyTarget "ModernLatinDictionary" */;
 			buildPhases = (
 			);
@@ -101,7 +101,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx10.9;
 			};
 			name = Debug;
 		};
@@ -114,7 +114,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
-				SDKROOT = macosx10.8;
+				SDKROOT = macosx10.9;
 			};
 			name = Release;
 		};
