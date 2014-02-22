@@ -8,30 +8,30 @@
 
 # You need to edit these values.
 
-DICT_NAME			=	"Modern Latin Dictionary"
-DICT_SRC_PATH		=	src/ModernLatinDictionary.xml
-CSS_PATH			=	src/ModernLatinDictionary.css
-PLIST_PATH			=	src/ModernLatinInfo.plist
+DICT_NAME				=	"Modern Latin Dictionary"
+DICT_SRC_PATH			=	ModernLatinDictionary.xml
+CSS_PATH				=	ModernLatinDictionary.css
+PLIST_PATH				=	ModernLatinInfo.plist
 
-DICT_BUILD_OPTS		=
+DICT_BUILD_OPTS			=
 # Suppress adding supplementary key.
-# DICT_BUILD_OPTS	=	-s 0	# Suppress adding supplementary key.
+# DICT_BUILD_OPTS		=	-s 0	# Suppress adding supplementary key.
 
 ###########################
 
 # The DICT_BUILD_TOOL_DIR value is used also in "build_dict.sh" script.
 # You need to set it when you invoke the script directly.
 
-DICT_BUILD_TOOL_DIR	=	"/Applications/Utilities/Dictionary Development Kit"
-DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
+DICT_BUILD_TOOL_DIR		=	"/Applications/Utilities/Dictionary Development Kit"
+DICT_BUILD_TOOL_BIN		=	"$(DICT_BUILD_TOOL_DIR)/bin"
 
 ###########################
 
 DICT_DEV_KIT_OBJ_DIR	=	./objects
 export	DICT_DEV_KIT_OBJ_DIR
 
-DESTINATION_FOLDER	=	~/Library/Dictionaries
-RM					=	/bin/rm
+DESTINATION_FOLDER		=	~/Library/Dictionaries
+RM						=	/bin/rm
 
 ###########################
 
