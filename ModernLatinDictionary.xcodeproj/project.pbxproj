@@ -101,6 +101,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
+				SDKROOT = macosx10.8;
 			};
 			name = Debug;
 		};
@@ -113,6 +114,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
+				SDKROOT = macosx10.8;
 			};
 			name = Release;
 		};
