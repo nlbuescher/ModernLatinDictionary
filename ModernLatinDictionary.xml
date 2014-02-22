@@ -28,7 +28,7 @@
 	<div d:priority="2"><h1>make</h1></div>
 	<span class="syntax">
 		<span d:pr="LA_IPA">| meɪk |</span>
-		<span d:pr="EC_IPA">| meɪk |</span>
+		<span d:pr="LA-EC_IPA">| meɪk |</span>
 	</span>
 	<div>
 		<ol>

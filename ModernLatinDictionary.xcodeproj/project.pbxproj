@@ -10,7 +10,6 @@
 		03448FC118B7F33B00438B45 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
 		03448FC218B7F33B00438B45 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		03448FC318B7F33B00438B45 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		03B5A3C718B83EE100F2DB52 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		03B5A3C818B83EE100F2DB52 /* ModernLatinDictionary.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = ModernLatinDictionary.css; sourceTree = "<group>"; };
 		03B5A3C918B83EE100F2DB52 /* ModernLatinDictionary.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ModernLatinDictionary.xml; sourceTree = "<group>"; };
 		03B5A3CA18B83EE100F2DB52 /* ModernLatinInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ModernLatinInfo.plist; sourceTree = "<group>"; };
@@ -21,7 +20,6 @@
 		03448FB918B7F33B00438B45 = {
 			isa = PBXGroup;
 			children = (
-				03B5A3C718B83EE100F2DB52 /* Images */,
 				03448FC118B7F33B00438B45 /* LICENSE.md */,
 				03448FC218B7F33B00438B45 /* Makefile */,
 				03B5A3C818B83EE100F2DB52 /* ModernLatinDictionary.css */,
