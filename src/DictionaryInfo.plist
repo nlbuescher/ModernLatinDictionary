@@ -11,23 +11,19 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
-	<string>Copyright © 2007 Apple Inc.</string>
+	<string>Copyright © 2014 Nicola Buescher</string>
 	<key>DCSDictionaryManufacturerName</key>
-	<string>Apple Inc.</string>
+	<string>Nicola Buescher</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
-	<string>ModernLatinDictionary_prefs.html</string>
+	<string>Dictionary_prefs.html</string>
 	<key>DCSDictionaryXSL</key>
-	<string>ModernLatinDictionary.xsl</string>
+	<string>Dictionary.xsl</string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
 		<key>pronunciation</key>
 		<string>0</string>
-		<key>display-column</key>
-		<string>1</string>
-		<key>display-picture</key>
-		<string>1</string>
 		<key>version</key>
 		<string>1</string>
 	</dict>

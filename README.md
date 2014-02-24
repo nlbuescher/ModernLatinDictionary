@@ -15,4 +15,3 @@ use that directory.
 Guidelines:
   1. Normal Latin text does not have macrons; Only the dictionary entries
   themselves include macrons.
-  2. 

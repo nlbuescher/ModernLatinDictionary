@@ -44,23 +44,6 @@
 	</xsl:if>
 </xsl:template>
 
-<xsl:template match="span[@class='column']">
-	<xsl:if test="$display-column = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-<xsl:template match="span[@class='picture']">
-	<xsl:if test="$display-picture = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-
 <!--
  Default rule for all other tags
 -->

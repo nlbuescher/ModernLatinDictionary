@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- This is a sample dictionary source file.
- It can be built using Dictionary Development Kit.
+ Latin-English
+ Terms in Latin; definitions in English.
 -->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 <d:entry id="applicatio_dictionarium" d:title="Applicatio Dictionarium">
-	<d:index d:value="Applicatio Dictionarium"/>
-	<d:index d:value="Dictionary.app"/>
+	<d:index d:value="Applicatio Dictionarium"/>	<!-- Nominative		-->
+	<d:index d:value="Applicationis Dictionarii"/>	<!-- Genitive		-->
+	<d:index d:value="Applicationi Dictionario"/>	<!-- Dative			-->
+	<d:index d:value="Applicationem Dictionarium"/>	<!-- Accusative		-->
+	<d:index d:value="Applicatione Dictionario"/>	<!-- Ablative		-->
+	<d:index d:value="Applicatio Dictionarium"/>	<!-- Vocative		-->
+	<d:index d:value="Applicatione Dictionarii"/>	<!-- Locative		-->
+	<d:index d:value="Dictionary.app"/>				<!-- Proper Name	-->
 	<h1>Applicātiō Dictiōnārium</h1>
 	<p>
-		Applicatio ad quaerentem dictionario in Mac OS X.<br/>
+		Application for looking up dictionary entries in Mac OS X.<br/>
 	</p>
 	<span class="column">
-		Applicatio Dictionarium in Tiger primum apparit.
+		The Dictionary Application first appeared in Tiger.
 	</span>
 	<span class="picture">
-		Icon applicationis eius videtur ut iconi subter.<br/>
-		<img src="Images/internal_dictionary.png" alt="Dictionary.app Icon"></img>
+		Its application icon looks like below.<br/>
+		<img src="Images/dictionary.png" alt="Dictionary.app Icon"></img>
 	</span>
 </d:entry>
 <d:entry id="make_1" d:title="make">
@@ -27,8 +33,8 @@
 	<d:index d:value="make it" d:parental-control="1" d:anchor="xpointer(//*[@id='make_it'])"/>
 	<div d:priority="2"><h1>make</h1></div>
 	<span class="syntax">
-		<span d:pr="LA_IPA">| meɪk |</span>
-		<span d:pr="LA-EC_IPA">| meɪk |</span>
+		<span d:pr="LA-SP_IPA">| meɪk |</span>
+		<span d:pr="LA-VA_IPA">| meɪk |</span>
 	</span>
 	<div>
 		<ol>

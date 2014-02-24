@@ -17,8 +17,8 @@
 		03448FB918B7F33B00438B45 = {
 			isa = PBXGroup;
 			children = (
-				03448FC118B7F33B00438B45 /* LICENSE.md */,
 				03B5A3CD18B96B0400F2DB52 /* Makefile */,
+				03448FC118B7F33B00438B45 /* LICENSE.md */,
 				03448FC318B7F33B00438B45 /* README.md */,
 				03B5A3CC18B96A9A00F2DB52 /* src */,
 			);
@@ -30,7 +30,7 @@
 /* Begin PBXLegacyTarget section */
 		03448FBE18B7F33B00438B45 /* ModernLatinDictionary */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "all install";
+			buildArgumentsString = "all\ninstall";
 			buildConfigurationList = 03448FC518B7F33B00438B45 /* Build configuration list for PBXLegacyTarget "ModernLatinDictionary" */;
 			buildPhases = (
 			);
@@ -48,6 +48,7 @@
 		03448FBA18B7F33B00438B45 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0500;
 			};
 			buildConfigurationList = 03448FBD18B7F33B00438B45 /* Build configuration list for PBXProject "ModernLatinDictionary" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -69,23 +70,21 @@
 		03448FBB18B7F33B00438B45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				COPY_PHASE_STRIP = NO;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
 		03448FBC18B7F33B00438B45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				COPY_PHASE_STRIP = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
@@ -101,7 +100,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
-				SDKROOT = macosx10.9;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
@@ -114,7 +113,7 @@
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ModernLatinDictionary;
-				SDKROOT = macosx10.9;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
