@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
+	<string>Latin</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.dictionary.ModernLatinDictionary</string>
+	<string>com.nicolabuescher.dictionary.ModernLatinDictionary</string>
 	<key>CFBundleName</key>
 	<string>ModernLatinDictionary</string>
 	<key>CFBundleShortVersionString</key>
@@ -17,13 +17,19 @@
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
-	<string>Dictionary_prefs.html</string>
+	<string>MyDictionary_prefs.html</string>
 	<key>DCSDictionaryXSL</key>
-	<string>Dictionary.xsl</string>
+	<string>MyDictionary.xsl</string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
-		<key>pronunciation</key>
+		<key>la_pronunciation</key>
 		<string>0</string>
+		<key>en_pronunciation</key>
+		<string>0</string>
+		<key>display-column</key>
+		<string>1</string>
+		<key>display-picture</key>
+		<string>1</string>
 		<key>version</key>
 		<string>1</string>
 	</dict>

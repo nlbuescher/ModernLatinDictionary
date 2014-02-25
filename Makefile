@@ -8,12 +8,12 @@
 
 # You need to edit these values.
 
-DICT_NAME				=	"Modern Latin Dictionary"
-DICT_SRC_PATH			=	src/Dictionary.xml
-CSS_PATH				=	src/Dictionary.css
-PLIST_PATH				=	src/DictionaryInfo.plist
+DICT_NAME		=	"Modern Latin Dictionary"
+DICT_SRC_PATH		=	MyDictionary.xml
+CSS_PATH		=	MyDictionary.css
+PLIST_PATH		=	MyInfo.plist
 
-DICT_BUILD_OPTS			=
+DICT_BUILD_OPTS		=
 # Suppress adding supplementary key.
 # DICT_BUILD_OPTS		=	-s 0	# Suppress adding supplementary key.
 
@@ -22,22 +22,23 @@ DICT_BUILD_OPTS			=
 # The DICT_BUILD_TOOL_DIR value is used also in "build_dict.sh" script.
 # You need to set it when you invoke the script directly.
 
-DICT_BUILD_TOOL_DIR		=	"/Applications/Utilities/Dictionary Development Kit"
-DICT_BUILD_TOOL_BIN		=	"$(DICT_BUILD_TOOL_DIR)/bin"
+DICT_BUILD_TOOL_DIR	=	"/Applications/Utilities/Dictionary Development Kit"
+DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
 
 ###########################
 
 DICT_DEV_KIT_OBJ_DIR	=	./objects
 export	DICT_DEV_KIT_OBJ_DIR
 
-DESTINATION_FOLDER		=	~/Library/Dictionaries
-RM						=	/bin/rm
+DESTINATION_FOLDER	=	~/Library/Dictionaries
+RM			=	/bin/rm
 
 ###########################
 
 all:
 	"$(DICT_BUILD_TOOL_BIN)/build_dict.sh" $(DICT_BUILD_OPTS) $(DICT_NAME) $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
 	echo "Done."
+
 
 install:
 	echo "Installing into $(DESTINATION_FOLDER)".
