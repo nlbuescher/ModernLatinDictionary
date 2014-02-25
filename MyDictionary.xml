@@ -73,7 +73,7 @@
 	<d:index d:value="vocāmus"	d:title="vocō, vocāre, vocāvī, vocātum"/>	<!--	1st Person	Plural		Present			Active	Indicative	-->
 	<d:index d:value="vocātis"	d:title="vocō, vocāre, vocāvī, vocātum"/>	<!--	2nd Person	Plural		Present			Active	Indicative	-->
 	<d:index d:value="vocant"	d:title="vocō, vocāre, vocāvī, vocātum"/>	<!--	3rd Person	Plural		Present			Active	Indicative	-->
-	<!-- Add mor conjugations -->
+	<!-- Add more conjugations -->
 	<div d:priority="2"><h1>applicō, applicāre, applicāvī, applicātum</h1></div>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈwɔkoː / wɔˈkaːrɛ / wɔˈkaːwiː / wɔˈkaːtũ |</span>
