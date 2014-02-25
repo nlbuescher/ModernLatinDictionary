@@ -83,49 +83,13 @@
 		<ol>
 			<li>
 				<!-- Add definitions -->
-				<span d:priority="2"> : <i>Mother made her a beautiful dress</i>
-				</span>
-				.
-			</li>
-			<li>
-				Cause to be or become
-				<span d:priority="2"> : <i>The news made me happy</i>
-				</span>
-				.
+				<span d:priority="2"> : <i><!-- example --></i>
+				</span>.
 			</li>
 		</ol>
 	</div>
-	<table>
-		<tr>
-			<th></th>
-			<th>Unum</th>
-			<th>Plures</th>
-		</tr>
-		<tr>
-			<th>Nominativum</th>
-			<td>Applicātiō Dictiōnārium</td>
-			<td>Applicātiōnēs Dictiōnāria</td>
-		</tr>
-		<tr>
-			<th>Genitivum</th>
-			<td>Applicātiōnis Dictiōnāriī</td>
-			<td>Applicātiōnum Dictiōnāriōrum</td>
-		</tr>
-		<tr>
-			<th>Dativum</th>
-			<td>Applicātiōnī Dictiōnāriō</td>
-			<td>Applicātiōnibus Dictiōnāriīs</td>
-		</tr>
-		<tr>
-			<th>Accusativum</th>
-			<td>Applicātiōnem Dictiōnārium</td>
-			<td>Applicātiōnēs Dictiōnāria</td>
-		</tr>
-		<tr>
-			<th>Ablativum</th>
-			<td>Applicātiōne Dictiōnāriō</td>
-			<td>Applicātiōnibus Dictiōnāriīs</td>
-		</tr>
+	<!-- Fix table to show conjugations -->
+	<table d:priority="2">
 		<tr>
 			<th>Vocativum</th>
 			<td>Applicātiō Dictiōnārium</td>
