@@ -23,22 +23,55 @@ span.column {
 }
 
 table {
-	margin: 2em 2em 2em 0;
+	margin: 2em 2em 0 0;
+	width: 100%;
 	font-family: sans-serif;
-	border: solid 2px #909090;
+	background-color: #F0F0F0;
 	border-collapse: collapse;
 }
 
 th {
-	padding: .3em;
+	padding: .5em;
 	font-style: italic;
-	border: solid 2px #909090;
+	border: solid 2px #F0F0F0;
 	border-collapse: collapse;
-	background-color: #EBD699;
+	background-color: #C0C0C0;
+}
+
+th.indicative {
+	padding: .5em;
+	font-style: italic;
+	border: solid 2px #F0F0F0;
+	border-collapse: collapse;
+	background-color: #C0CFE4;
+}
+
+th.subjunctive {
+	padding: .5em;
+	font-style: italic;
+	border: solid 2px #F0F0F0;
+	border-collapse: collapse;
+	background-color: #C0E4C0;
+}
+
+th.imperative {
+	padding: .5em;
+	font-style: italic;
+	border: solid 2px #F0F0F0;
+	border-collapse: collapse;
+	background-color: #E4D4C0;
+}
+
+th.infinitive {
+	padding: .5em;
+	font-style: italic;
+	border: solid 2px #F0F0F0;
+	border-collapse: collapse;
+	background-color: #E2E4C0;
 }
 
 td {
-	padding: .3em;
-	border: solid 2px #909090;
+	padding: .5em;
+	border: solid 2px #F0F0F0;
 	border-collapse: collapse;
 }

@@ -10,7 +10,7 @@
 		03448FC118B7F33B00438B45 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
 		03448FC318B7F33B00438B45 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		03B5A3CD18B96B0400F2DB52 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		03F5188618BC660200A8E731 /* MyDictionary.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = MyDictionary.css; sourceTree = "<group>"; };
+		03F5188618BC660200A8E731 /* MyDictionary.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = MyDictionary.css; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.css; };
 		03F5188718BC660200A8E731 /* MyDictionary.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = MyDictionary.xml; sourceTree = "<group>"; };
 		03F5188818BC660200A8E731 /* MyInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = MyInfo.plist; sourceTree = "<group>"; };
 		03F5188918BC660200A8E731 /* OtherResources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherResources; sourceTree = "<group>"; };
