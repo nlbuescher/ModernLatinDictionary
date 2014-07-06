@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- Latin - English
--->
+ Latin - English -->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
 <!-- IMPORTANT!
@@ -28,10 +27,11 @@
 	<d:index d:value=""	d:title=""/> <!--| Ablative     | Plural   |-->
 	<d:index d:value=""	d:title=""/> <!--| Vocative     | Plural   |-->
 	<!--–––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<h1>Nom, Gen, <i>gender.</i></h1>
-	<span class="syntax">
-		<span d:pr="SP_IPA">| Classical Latin IPA |</span>
-		<span d:pr="VA_IPA">| Ecclesiastical Latin IPA |</span>
+	<span class="title">Nom, Gen, <i>gender.</i>
+		<span class="syntax">
+			<span d:pr="SP_IPA">| Classical Latin IPA |</span>
+			<span d:pr="VA_IPA">| Ecclesiastical Latin IPA |</span>
+		</span>
 	</span>
 	<p>
 		definition<br/>
@@ -76,7 +76,7 @@
 </d:entry>
 
 <!-- Blank Verb Template -->
-<d:entry id="verb_template"						d:title="Verb Template">
+<d:entry id="verb_template" d:title="Verb Template">
 	<!--–––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
 	<!--     Search TermDisplay Name <!––| Person     | Number   | Tense          | Voice    | Mood        |-->
 	<!--–––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
@@ -167,7 +167,7 @@
 	<d:index d:value=""	d:title=""/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
 	<d:index d:value=""	d:title=""/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
 	<d:index d:value=""	d:title=""/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<!-- Feminine –––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Feminine –––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
 	<d:index d:value=""	d:title=""/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
 	<d:index d:value=""	d:title=""/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
 	<d:index d:value=""	d:title=""/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
@@ -371,21 +371,19 @@
 	<d:index d:value=""	d:title=""/> <!--| 2nd Person | Singular | Present        | Passive  | Indicative  |-->
 	<d:index d:value=""	d:title=""/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->
 	<!--–––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<h1>1st, 2nd, 3rd, and 4th principle parts</h1>
-	<span class="syntax">
-		<span d:pr="SP_IPA">| Classical Latin IPA |</span>
-		<span d:pr="VA_IPA">| Ecclesiastical Latin IPA |</span>
+	<span class="title">1st, 2nd, 3rd, and 4th principle parts
+		<span class="syntax">
+			<span d:pr="SP_IPA">| Classical Latin IPA |</span>
+			<span d:pr="VA_IPA">| Ecclesiastical Latin IPA |</span>
+		</span>
 	</span>
 	<div>
 		<ol>
 			<li>
-				Definition.
-				<span d:priority="2"> : <i>Example sentence</i>
-				</span>.
+				Definition.<span d:priority="2"> : <i>Example sentence</i></span>.
 			</li>
 		</ol>
 	</div>
-	<!-- Fix table to show conjugations -->
 	<table d:priority="2">
 		<tr>
 			<th class="indicative" colspan="2" rowspan="2">Indicative</th>
@@ -683,75 +681,6 @@
 </d:entry>
 
 <!-- A -->
-<d:entry id="applicatio_dictionarium"				d:title="Applicātiō Dictiōnārium">
-	<!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<!--     Search Term							Display Name						<!––| Case         | Number   |-->
-	<!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<d:index d:value="Dictionary.app"				d:title="Applicātiō Dictiōnārium"/> <!--| Indeclinable | Singular |-->
-	<!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<d:index d:value="Applicātiō Dictiōnārium"		d:title="Applicātiō Dictiōnārium"/> <!--| Nominative   | Singular |-->
-	<d:index d:value="Applicātiōnis Dictiōnāriī"	d:title="Applicātiō Dictiōnārium"/> <!--| Genitive     | Singular |-->
-	<d:index d:value="Applicātiōnī Dictiōnāriō"		d:title="Applicātiō Dictiōnārium"/> <!--| Dative       | Singular |-->
-	<d:index d:value="Applicātiōnem Dictiōnārium"	d:title="Applicātiō Dictiōnārium"/> <!--| Accusative   | Singular |-->
-	<d:index d:value="Applicātiōne Dictiōnāriō"		d:title="Applicātiō Dictiōnārium"/> <!--| Ablative     | Singular |-->
-	<d:index d:value="Applicātiō Dictiōnārium"		d:title="Applicātiō Dictiōnārium"/> <!--| Vocative     | Singular |-->
-	<!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<d:index d:value="Applicātiōnēs Dictiōnāria"	d:title="Applicātiō Dictiōnārium"/> <!--| Nominative   | Plural   |-->
-	<d:index d:value="Applicātiōnum Dictiōnāriōrum"	d:title="Applicātiō Dictiōnārium"/> <!--| Genitive     | Plural   |-->
-	<d:index d:value="Applicātiōnibus Dictiōnāriīs"	d:title="Applicātiō Dictiōnārium"/> <!--| Dative       | Plural   |-->
-	<d:index d:value="Applicātiōnēs Dictiōnāria"	d:title="Applicātiō Dictiōnārium"/> <!--| Accusative   | Plural   |-->
-	<d:index d:value="Applicātiōnibus Dictiōnāriīs"	d:title="Applicātiō Dictiōnārium"/> <!--| Ablative     | Plural   |-->
-	<d:index d:value="Applicātiōnēs Dictiōnāria"	d:title="Applicātiō Dictiōnārium"/> <!--| Vocative     | Plural   |-->
-	<!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<h1>Applicātiō Dictiōnārium, Applicātiōnis Dictiōnāriī, <i>n.</i></h1>
-	<p>
-		The Dictionary Application for looking at dictionaries in Mac OS X.<br/>
-	</p>
-	<span class="column">
-		It first appeared in Tiger.<br/>
-	</span>
-	<span class="picture">
-		Its application icon looks like below.<br/>
-		<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
-	</span>
-	<table d:priority="2">
-		<tr>
-			<th></th>
-			<th>Singular</th>
-			<th>Plural</th>
-		</tr>
-		<tr>
-			<th>Nominative</th>
-			<td>Applicātiō Dictiōnārium</td>
-			<td>Applicātiōnēs Dictiōnāria</td>
-		</tr>
-		<tr>
-			<th>Genitive</th>
-			<td>Applicātiōnis Dictiōnāriī</td>
-			<td>Applicātiōnum Dictiōnāriōrum</td>
-		</tr>
-		<tr>
-			<th>Dative</th>
-			<td>Applicātiōnī Dictiōnāriō</td>
-			<td>Applicātiōnibus Dictiōnāriīs</td>
-		</tr>
-		<tr>
-			<th>Accusative</th>
-			<td>Applicātiōnem Dictiōnārium</td>
-			<td>Applicātiōnēs Dictiōnāria</td>
-		</tr>
-		<tr>
-			<th>Ablative</th>
-			<td>Applicātiōne Dictiōnāriō</td>
-			<td>Applicātiōnibus Dictiōnāriīs</td>
-		</tr>
-		<tr>
-			<th>Vocative</th>
-			<td>Applicātiō Dictiōnārium</td>
-			<td>Applicātiōnēs Dictiōnāria</td>
-		</tr>
-	</table>
-</d:entry>
 
 <!-- B -->
 
@@ -776,14 +705,55 @@
 	<d:index d:value="kafibus"	d:title="kafis"/> <!--| Ablative     | Plural   |-->
 	<d:index d:value="kafēs"	d:title="kafis"/> <!--| Vocative     | Plural   |-->
 	<!--––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
-	<h1>kafis, kafis, <i>f.</i></h1>
-	<p>
-		Coffee.<br/>
-	</p>
-	<span class="picture">
-		Its application icon looks like below.<br/>
-		<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
+	<span class="title">kafis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈka.fis |</span>
+		<span d:pr="VA_IPA">| ˈka.fɪs |</span>
 	</span>
+	<br/>
+	<p>3rd decl. i-stem noun (<b>kafis</b>, <b>f.</b>)</p>
+	<ol>
+		<li>
+			coffee
+		</li>
+	</ol>
+	<p>ORIGIN Greek, from <b>καφές 'coffee'</b></p>
+</d:entry>
+
+<!-- T -->
+<d:entry id="tsa"				d:title="tsa">
+	<!-- FIX IT! -->
+	<!--––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
+	<!--     Search Term		Display Name	<!––| Case         | Number   |-->
+	<!--––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
+	<d:index d:value="thē"		d:title="thē"/> <!--| Nominative   | Singular |-->
+	<d:index d:value="thēs"		d:title="thē"/> <!--| Genitive     | Singular |-->
+	<d:index d:value="thae"		d:title="thē"/> <!--| Dative       | Singular |-->
+	<d:index d:value="thēn"		d:title="thē"/> <!--| Accusative   | Singular |-->
+	<d:index d:value="thē"		d:title="thē"/> <!--| Ablative     | Singular |-->
+	<d:index d:value="thē"		d:title="thē"/> <!--| Vocative     | Singular |-->
+	<!--––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
+	<d:index d:value="thae"		d:title="thē"/> <!--| Nominative   | Plural   |-->
+	<d:index d:value="thārum"	d:title="thē"/> <!--| Genitive     | Plural   |-->
+	<d:index d:value="thīs"		d:title="thē"/> <!--| Dative       | Plural   |-->
+	<d:index d:value="thās"		d:title="thē"/> <!--| Accusative   | Plural   |-->
+	<d:index d:value="thīs"		d:title="thē"/> <!--| Ablative     | Plural   |-->
+	<d:index d:value="thae"		d:title="thē"/> <!--| Vocative     | Plural   |-->
+	<!--––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––––+––––––––––+-->
+	<span class="title">thē </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈtʰɛː |</span>
+	</span>
+	<br/>
+	<p>irreg. noun (<b>thēs</b>, <b>f.</b>)</p>
+	<ol>
+		<li>
+			tea
+		</li>
+	</ol>
+	<p>ORIGIN French, from <b>thé 'tea'</b>, based on Chinese <b>茶 (chá) 'tea'</b></p>
+	<br/>
+	<p>DECLENSION Based on Greek noun forms ending in 'ē'</p>
 	<table d:priority="2">
 		<tr>
 			<th></th>
@@ -792,642 +762,351 @@
 		</tr>
 		<tr>
 			<th>Nominative</th>
-			<td>kafis</td>
-			<td>kafēs</td>
+			<td>thē</td>
+			<td>thae</td>
 		</tr>
 		<tr>
 			<th>Genitive</th>
-			<td>kafis</td>
-			<td>kafium</td>
+			<td>thēs</td>
+			<td>thārum</td>
 		</tr>
 		<tr>
 			<th>Dative</th>
-			<td>kafi</td>
-			<td>kafibus</td>
+			<td>thae</td>
+			<td>thīs</td>
 		</tr>
 		<tr>
 			<th>Accusative</th>
-			<td>kafem</td>
-			<td>kafēs</td>
+			<td>thēn</td>
+			<td>thās</td>
 		</tr>
 		<tr>
 			<th>Ablative</th>
-			<td>kafe</td>
-			<td>kafibus</td>
+			<td>thē</td>
+			<td>thīs</td>
 		</tr>
 		<tr>
 			<th>Vocative</th>
-			<td>kafis</td>
-			<td>kafēs</td>
+			<td>thē</td>
+			<td>thae</td>
 		</tr>
 	</table>
 </d:entry>
 
 <!-- V -->
-<d:entry id="voco"						d:title="vocō">
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!--     Search Term				Display Name	 <!––| Person     | Number   | Tense          | Voice    | Mood        |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Indicative Mood ––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Active Voice –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocō"				d:title="vocō"/> <!--| 1st Person | Singular | Present        | Active   | Indicative  |-->
-	<d:index d:value="vocās"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Active   | Indicative  |-->
-	<d:index d:value="vocat"			d:title="vocō"/> <!--| 3rd Person | Singular | Present        | Active   | Indicative  |-->
-	<d:index d:value="vocāmus"			d:title="vocō"/> <!--| 1st Person | Plural   | Present        | Active   | Indicative  |-->
-	<d:index d:value="vocātis"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Active   | Indicative  |-->
-	<d:index d:value="vocant"			d:title="vocō"/> <!--| 3rd Person | Plural   | Present        | Active   | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocābam"			d:title="vocō"/> <!--| 1st Person | Singular | Imperfect      | Active   | Indicative  |-->
-	<d:index d:value="vocābās"			d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Active   | Indicative  |-->
-	<d:index d:value="vocābat"			d:title="vocō"/> <!--| 3rd Person | Singular | Imperfect      | Active   | Indicative  |-->
-	<d:index d:value="vocābāmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Imperfect      | Active   | Indicative  |-->
-	<d:index d:value="vocābātis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Imperfect      | Active   | Indicative  |-->
-	<d:index d:value="vocābant"			d:title="vocō"/> <!--| 3rd Person | Plural   | Imperfect      | Active   | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocābō"			d:title="vocō"/> <!--| 1st Person | Singular | Future         | Active   | Indicative  |-->
-	<d:index d:value="vocābis"			d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Active   | Indicative  |-->
-	<d:index d:value="vocābit"			d:title="vocō"/> <!--| 3rd Person | Singular | Future         | Active   | Indicative  |-->
-	<d:index d:value="vocābimus"		d:title="vocō"/> <!--| 1st Person | Plural   | Future         | Active   | Indicative  |-->
-	<d:index d:value="vocābitis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Future         | Active   | Indicative  |-->
-	<d:index d:value="vocābunt"			d:title="vocō"/> <!--| 3rd Person | Plural   | Future         | Active   | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāvī"			d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocāvistī"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocāvit"			d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocāvimus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocāvistis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocāvērunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāveram"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Active   | Indicative  |-->
-	<d:index d:value="vocāverās"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Active   | Indicative  |-->
-	<d:index d:value="vocāverat"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Active   | Indicative  |-->
-	<d:index d:value="vocāverāmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Active   | Indicative  |-->
-	<d:index d:value="vocāverātis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Active   | Indicative  |-->
-	<d:index d:value="vocāverant"		d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Active   | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāverō"			d:title="vocō"/> <!--| 1st Person | Singular | Future Perfect | Active   | Indicative  |-->
-	<d:index d:value="vocāveris"		d:title="vocō"/> <!--| 2nd Person | Singular | Future Perfect | Active   | Indicative  |-->
-	<d:index d:value="vocāverit"		d:title="vocō"/> <!--| 3rd Person | Singular | Future Perfect | Active   | Indicative  |-->
-	<d:index d:value="vocāverimus"		d:title="vocō"/> <!--| 1st Person | Plural   | Future Perfect | Active   | Indicative  |-->
-	<d:index d:value="vocāveritis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Future Perfect | Active   | Indicative  |-->
-	<d:index d:value="vocāverint"		d:title="vocō"/> <!--| 3rd Person | Plural   | Future Perfect | Active   | Indicative  |-->
-	<!-- Passive Voice ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocor"			d:title="vocō"/> <!--| 1st Person | Singular | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocāris"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocātur"			d:title="vocō"/> <!--| 3rd Person | Singular | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocāmur"			d:title="vocō"/> <!--| 1st Person | Plural   | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocāminī"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocantur"			d:title="vocō"/> <!--| 3rd Person | Plural   | Present        | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocābar"			d:title="vocō"/> <!--| 1st Person | Singular | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābāris"		d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābātur"		d:title="vocō"/> <!--| 3rd Person | Singular | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābāmur"		d:title="vocō"/> <!--| 1st Person | Plural   | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābāminī"		d:title="vocō"/> <!--| 2nd Person | Plural   | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābantur"		d:title="vocō"/> <!--| 3rd Person | Plural   | Imperfect      | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocābor"			d:title="vocō"/> <!--| 1st Person | Singular | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocāberis"		d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocābere"			d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocābitur"		d:title="vocō"/> <!--| 3rd Person | Singular | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocābimur"		d:title="vocō"/> <!--| 1st Person | Plural   | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocābiminī"		d:title="vocō"/> <!--| 2nd Person | Plural   | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocābuntur"		d:title="vocō"/> <!--| 3rd Person | Plural   | Future         | Passive  | Indicative  |-->
-	<!-- Perfect System –––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Masculine ––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātus sum"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātus es"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātus est"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātī sumus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātī estis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātī sunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātus eram"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātus erās"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātus erat"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātī erāmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātī erātis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātī erant"		d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātus erō"		d:title="vocō"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātus eris"		d:title="vocō"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātus erit"		d:title="vocō"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātī erimus"	d:title="vocō"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātī eritis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātī erunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<!-- Feminine –––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāta sum"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocāta es"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocāta est"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātae sumus"	d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātae estis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātae sunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāta eram"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erās"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erat"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātae erāmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātae erātis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātae erant"	d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāta erō"		d:title="vocō"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocāta eris"		d:title="vocō"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erit"		d:title="vocō"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātae erimus"	d:title="vocō"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātae eritis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātae erunt"	d:title="vocō"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<!-- Neuter –––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātum sum"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātum es"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocātum est"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocāta sumus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocāta estis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<d:index d:value="vocāta sunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātum eram"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātum erās"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocātum erat"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erāmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erātis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erant"		d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātum erō"		d:title="vocō"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātum eris"		d:title="vocō"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocātum erit"		d:title="vocō"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erimus"	d:title="vocō"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocāta eritis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<d:index d:value="vocāta erunt"		d:title="vocō"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Subjunctive Mood––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Active Voice –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocem"			d:title="vocō"/> <!--| 1st Person | Singular | Present        | Active   | Subjunctive |-->
-	<d:index d:value="vocēs"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Active   | Subjunctive |-->
-	<d:index d:value="vocet"			d:title="vocō"/> <!--| 3rd Person | Singular | Present        | Active   | Subjunctive |-->
-	<d:index d:value="vocēmus"			d:title="vocō"/> <!--| 1st Person | Plural   | Present        | Active   | Subjunctive |-->
-	<d:index d:value="vocētis"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Active   | Subjunctive |-->
-	<d:index d:value="vocent"			d:title="vocō"/> <!--| 3rd Person | Plural   | Present        | Active   | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocārem"			d:title="vocō"/> <!--| 1st Person | Singular | Imperfect      | Active   | Subjunctive |-->
-	<d:index d:value="vocārēs"			d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Active   | Subjunctive |-->
-	<d:index d:value="vocāret"			d:title="vocō"/> <!--| 3rd Person | Singular | Imperfect      | Active   | Subjunctive |-->
-	<d:index d:value="vocārēmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Imperfect      | Active   | Subjunctive |-->
-	<d:index d:value="vocārētis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Imperfect      | Active   | Subjunctive |-->
-	<d:index d:value="vocārent"			d:title="vocō"/> <!--| 3rd Person | Plural   | Imperfect      | Active   | Subjunctive |-->	
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāverim"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Active   | Subjunctive |-->
-	<d:index d:value="vocāverīs"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Active   | Subjunctive |-->
-	<d:index d:value="vocāverit"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Active   | Subjunctive |-->
-	<d:index d:value="vocāverīmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Active   | Subjunctive |-->
-	<d:index d:value="vocāverītis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Active   | Subjunctive |-->
-	<d:index d:value="vocāverint"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāvissem"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Active   | Subjunctive |-->
-	<d:index d:value="vocāvissēs"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Active   | Subjunctive |-->
-	<d:index d:value="vocāvisset"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Active   | Subjunctive |-->
-	<d:index d:value="vocāvissēmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Active   | Subjunctive |-->
-	<d:index d:value="vocāvissētis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Active   | Subjunctive |-->
-	<d:index d:value="vocāvissent"		d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Active   | Subjunctive |-->	
-	<!-- Passive Voice ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocer"			d:title="vocō"/> <!--| 1st Person | Singular | Present        | Passive  | Subjunctive |-->
-	<d:index d:value="vocēris"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Passive  | Subjunctive |-->
-	<d:index d:value="vocētur"			d:title="vocō"/> <!--| 3rd Person | Singular | Present        | Passive  | Subjunctive |-->
-	<d:index d:value="vocēmur"			d:title="vocō"/> <!--| 1st Person | Plural   | Present        | Passive  | Subjunctive |-->
-	<d:index d:value="vocēminī"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Passive  | Subjunctive |-->
-	<d:index d:value="vocentur"			d:title="vocō"/> <!--| 3rd Person | Plural   | Present        | Passive  | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocārer"			d:title="vocō"/> <!--| 1st Person | Singular | Imperfect      | Passive  | Subjunctive |-->
-	<d:index d:value="vocārēris"		d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Subjunctive |-->
-	<d:index d:value="vocārētur"		d:title="vocō"/> <!--| 3rd Person | Singular | Imperfect      | Passive  | Subjunctive |-->
-	<d:index d:value="vocārēmur"		d:title="vocō"/> <!--| 1st Person | Plural   | Imperfect      | Passive  | Subjunctive |-->
-	<d:index d:value="vocārēminī"		d:title="vocō"/> <!--| 2nd Person | Plural   | Imperfect      | Passive  | Subjunctive |-->
-	<d:index d:value="vocārentur"		d:title="vocō"/> <!--| 3rd Person | Plural   | Imperfect      | Passive  | Subjunctive |-->	
-	<!-- Perfect System –––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Masculine ––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātus sim"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātus sīs"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātus sit"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī sīmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī sītis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī sint"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātus essem"	d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātus essēs"	d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātus esset"	d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī essēmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī essētis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātī essent"	d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<!-- Feminine –––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāta sim"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta sīs"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta sit"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae sīmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae sītis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae sint"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāta eram"		d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta erās"		d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta erat"		d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae erāmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae erātis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātae erant"	d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<!-- Neuter –––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātum sim"		d:title="vocō"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātum sīs"		d:title="vocō"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocātum sit"		d:title="vocō"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta sīmus"		d:title="vocō"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta sītis"		d:title="vocō"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta sint"		d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātum essem"	d:title="vocō"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātum essēs"	d:title="vocō"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocātum esset"	d:title="vocō"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta essēmus"	d:title="vocō"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta essētis"	d:title="vocō"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<d:index d:value="vocāta essent"	d:title="vocō"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Imperative Mood ––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Active Voice –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocā"				d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Active   | Imperative  |-->
-	<d:index d:value="vocāte"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Active   | Imperative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātō"			d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Active   | Imperative  |-->
-	<d:index d:value="vocātō"			d:title="vocō"/> <!--| 3rd Person | Singular | Future         | Active   | Imperative  |-->
-	<d:index d:value="vocātōte"			d:title="vocō"/> <!--| 2nd Person | Plural   | Future         | Active   | Imperative  |-->
-	<d:index d:value="vocantō"			d:title="vocō"/> <!--| 3rd Person | Plural   | Future         | Active   | Imperative  |-->
-	<!-- Passive Voice ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāre"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Passive  | Imperative  |-->
-	<d:index d:value="vocāminī"			d:title="vocō"/> <!--| 2nd Person | Plural   | Present        | Passive  | Imperative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocātor"			d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Passive  | Imperative  |-->
-	<d:index d:value="vocātor"			d:title="vocō"/> <!--| 3rd Person | Singular | Future         | Passive  | Imperative  |-->
-	<d:index d:value="vocantor"			d:title="vocō"/> <!--| 3rd Person | Plural   | Future         | Passive  | Imperative  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Infinitive Mood ––––––––––––––––––––––––––––––––<!––| Case       | Number   | Tense          | Voice    | Mood        |-->
-	<!-- Active Voice –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāre"			d:title="vocō"/> <!--|            |          | Present        | Active   | Infinitive  |-->
-	<d:index d:value="vocāvisse"		d:title="vocō"/> <!--|            |          | Perfect        | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrus esse"	d:title="vocō"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrī esse"	d:title="vocō"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrō esse"	d:title="vocō"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrō esse"	d:title="vocō"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūre esse"	d:title="vocō"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrī esse"	d:title="vocō"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrōrum esse"	d:title="vocō"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrīs esse"	d:title="vocō"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrōs esse"	d:title="vocō"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrīs esse"	d:title="vocō"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrī esse"	d:title="vocō"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrae esse"	d:title="vocō"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūrum esse"	d:title="vocō"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
-	<d:index d:value="vocātūra esse"	d:title="vocō"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
-	<!-- Passive Voice ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocārī"			d:title="vocō"/> <!--|            |          | Present        | Passive  | Infinitive  |-->
-	<d:index d:value="vocātus esse"		d:title="vocō"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocātī esse"		d:title="vocō"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocāta esse"		d:title="vocō"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocātae esse"		d:title="vocō"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocātum esse"		d:title="vocō"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocāta esse"		d:title="vocō"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
-	<d:index d:value="vocātum īrī"		d:title="vocō"/> <!--|            |          | Future         | Passive  | Infinitive  |-->
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<!-- Alternative Forms ––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<d:index d:value="vocāvēre"			d:title="vocō"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Indicative  |-->
-	<d:index d:value="vocābāre"			d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->
-	<d:index d:value="vocābere"			d:title="vocō"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
-	<d:index d:value="vocēre"			d:title="vocō"/> <!--| 2nd Person | Singular | Present        | Passive  | Indicative  |-->
-	<d:index d:value="vocārēre"			d:title="vocō"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->	
-	<!--–––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
-	<h1>vocō, vocāre, vocāvī, vocātum</h1>
+<d:entry id="voco"						d:title="vocāre">
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!--     Search Term				Display Name	   <!––| Person     | Number   | Tense          | Voice    | Mood        |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Indicative Mood ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Active Voice –––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocō"				d:title="vocāre"/> <!--| 1st Person | Singular | Present        | Active   | Indicative  |-->
+	<d:index d:value="vocās"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Active   | Indicative  |-->
+	<d:index d:value="vocat"			d:title="vocāre"/> <!--| 3rd Person | Singular | Present        | Active   | Indicative  |-->
+	<d:index d:value="vocāmus"			d:title="vocāre"/> <!--| 1st Person | Plural   | Present        | Active   | Indicative  |-->
+	<d:index d:value="vocātis"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Active   | Indicative  |-->
+	<d:index d:value="vocant"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Present        | Active   | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocābam"			d:title="vocāre"/> <!--| 1st Person | Singular | Imperfect      | Active   | Indicative  |-->
+	<d:index d:value="vocābās"			d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Active   | Indicative  |-->
+	<d:index d:value="vocābat"			d:title="vocāre"/> <!--| 3rd Person | Singular | Imperfect      | Active   | Indicative  |-->
+	<d:index d:value="vocābāmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Imperfect      | Active   | Indicative  |-->
+	<d:index d:value="vocābātis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Imperfect      | Active   | Indicative  |-->
+	<d:index d:value="vocābant"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Imperfect      | Active   | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocābō"			d:title="vocāre"/> <!--| 1st Person | Singular | Future         | Active   | Indicative  |-->
+	<d:index d:value="vocābis"			d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Active   | Indicative  |-->
+	<d:index d:value="vocābit"			d:title="vocāre"/> <!--| 3rd Person | Singular | Future         | Active   | Indicative  |-->
+	<d:index d:value="vocābimus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Future         | Active   | Indicative  |-->
+	<d:index d:value="vocābitis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Future         | Active   | Indicative  |-->
+	<d:index d:value="vocābunt"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Future         | Active   | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāvī"			d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocāvistī"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocāvit"			d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocāvimus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocāvistis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocāvērunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāveram"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Active   | Indicative  |-->
+	<d:index d:value="vocāverās"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Active   | Indicative  |-->
+	<d:index d:value="vocāverat"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Active   | Indicative  |-->
+	<d:index d:value="vocāverāmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Active   | Indicative  |-->
+	<d:index d:value="vocāverātis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Active   | Indicative  |-->
+	<d:index d:value="vocāverant"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Active   | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāverō"			d:title="vocāre"/> <!--| 1st Person | Singular | Future Perfect | Active   | Indicative  |-->
+	<d:index d:value="vocāveris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Future Perfect | Active   | Indicative  |-->
+	<d:index d:value="vocāverit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Future Perfect | Active   | Indicative  |-->
+	<d:index d:value="vocāverimus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Future Perfect | Active   | Indicative  |-->
+	<d:index d:value="vocāveritis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Future Perfect | Active   | Indicative  |-->
+	<d:index d:value="vocāverint"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Future Perfect | Active   | Indicative  |-->
+	<!-- Passive Voice ––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocor"			d:title="vocāre"/> <!--| 1st Person | Singular | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocāris"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocātur"			d:title="vocāre"/> <!--| 3rd Person | Singular | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocāmur"			d:title="vocāre"/> <!--| 1st Person | Plural   | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocāminī"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocantur"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Present        | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocābar"			d:title="vocāre"/> <!--| 1st Person | Singular | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābāris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābātur"		d:title="vocāre"/> <!--| 3rd Person | Singular | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābāmur"		d:title="vocāre"/> <!--| 1st Person | Plural   | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābāminī"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābantur"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Imperfect      | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocābor"			d:title="vocāre"/> <!--| 1st Person | Singular | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocāberis"		d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocābere"			d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocābitur"		d:title="vocāre"/> <!--| 3rd Person | Singular | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocābimur"		d:title="vocāre"/> <!--| 1st Person | Plural   | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocābiminī"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocābuntur"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Future         | Passive  | Indicative  |-->
+	<!-- Perfect System –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Masculine ––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātus sum"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātus es"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātus est"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātī sumus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātī estis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātī sunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātus eram"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātus erās"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātus erat"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātī erāmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātī erātis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātī erant"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātus erō"		d:title="vocāre"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātus eris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātus erit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātī erimus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātī eritis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātī erunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<!-- Feminine –––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāta sum"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocāta es"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocāta est"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātae sumus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātae estis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātae sunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāta eram"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erās"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erat"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātae erāmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātae erātis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātae erant"	d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāta erō"		d:title="vocāre"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocāta eris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātae erimus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātae eritis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātae erunt"	d:title="vocāre"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<!-- Neuter –––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātum sum"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātum es"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocātum est"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocāta sumus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocāta estis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<d:index d:value="vocāta sunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātum eram"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātum erās"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocātum erat"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erāmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erātis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erant"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātum erō"		d:title="vocāre"/> <!--| 1st Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātum eris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocātum erit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erimus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocāta eritis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<d:index d:value="vocāta erunt"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Future Perfect | Passive  | Indicative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Subjunctive Mood––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Active Voice –––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocem"			d:title="vocāre"/> <!--| 1st Person | Singular | Present        | Active   | Subjunctive |-->
+	<d:index d:value="vocēs"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Active   | Subjunctive |-->
+	<d:index d:value="vocet"			d:title="vocāre"/> <!--| 3rd Person | Singular | Present        | Active   | Subjunctive |-->
+	<d:index d:value="vocēmus"			d:title="vocāre"/> <!--| 1st Person | Plural   | Present        | Active   | Subjunctive |-->
+	<d:index d:value="vocētis"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Active   | Subjunctive |-->
+	<d:index d:value="vocent"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Present        | Active   | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocārem"			d:title="vocāre"/> <!--| 1st Person | Singular | Imperfect      | Active   | Subjunctive |-->
+	<d:index d:value="vocārēs"			d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Active   | Subjunctive |-->
+	<d:index d:value="vocāret"			d:title="vocāre"/> <!--| 3rd Person | Singular | Imperfect      | Active   | Subjunctive |-->
+	<d:index d:value="vocārēmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Imperfect      | Active   | Subjunctive |-->
+	<d:index d:value="vocārētis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Imperfect      | Active   | Subjunctive |-->
+	<d:index d:value="vocārent"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Imperfect      | Active   | Subjunctive |-->	
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāverim"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Active   | Subjunctive |-->
+	<d:index d:value="vocāverīs"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Active   | Subjunctive |-->
+	<d:index d:value="vocāverit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Active   | Subjunctive |-->
+	<d:index d:value="vocāverīmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Active   | Subjunctive |-->
+	<d:index d:value="vocāverītis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Active   | Subjunctive |-->
+	<d:index d:value="vocāverint"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāvissem"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Active   | Subjunctive |-->
+	<d:index d:value="vocāvissēs"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Active   | Subjunctive |-->
+	<d:index d:value="vocāvisset"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Active   | Subjunctive |-->
+	<d:index d:value="vocāvissēmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Active   | Subjunctive |-->
+	<d:index d:value="vocāvissētis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Active   | Subjunctive |-->
+	<d:index d:value="vocāvissent"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Active   | Subjunctive |-->	
+	<!-- Passive Voice ––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocer"			d:title="vocāre"/> <!--| 1st Person | Singular | Present        | Passive  | Subjunctive |-->
+	<d:index d:value="vocēris"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Passive  | Subjunctive |-->
+	<d:index d:value="vocētur"			d:title="vocāre"/> <!--| 3rd Person | Singular | Present        | Passive  | Subjunctive |-->
+	<d:index d:value="vocēmur"			d:title="vocāre"/> <!--| 1st Person | Plural   | Present        | Passive  | Subjunctive |-->
+	<d:index d:value="vocēminī"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Passive  | Subjunctive |-->
+	<d:index d:value="vocentur"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Present        | Passive  | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocārer"			d:title="vocāre"/> <!--| 1st Person | Singular | Imperfect      | Passive  | Subjunctive |-->
+	<d:index d:value="vocārēris"		d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Subjunctive |-->
+	<d:index d:value="vocārētur"		d:title="vocāre"/> <!--| 3rd Person | Singular | Imperfect      | Passive  | Subjunctive |-->
+	<d:index d:value="vocārēmur"		d:title="vocāre"/> <!--| 1st Person | Plural   | Imperfect      | Passive  | Subjunctive |-->
+	<d:index d:value="vocārēminī"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Imperfect      | Passive  | Subjunctive |-->
+	<d:index d:value="vocārentur"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Imperfect      | Passive  | Subjunctive |-->	
+	<!-- Perfect System –––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Masculine ––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātus sim"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātus sīs"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātus sit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī sīmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī sītis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī sint"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātus essem"	d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātus essēs"	d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātus esset"	d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī essēmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī essētis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātī essent"	d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<!-- Feminine –––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāta sim"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta sīs"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta sit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae sīmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae sītis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae sint"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāta eram"		d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta erās"		d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta erat"		d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae erāmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae erātis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātae erant"	d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<!-- Neuter –––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātum sim"		d:title="vocāre"/> <!--| 1st Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātum sīs"		d:title="vocāre"/> <!--| 2nd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocātum sit"		d:title="vocāre"/> <!--| 3rd Person | Singular | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta sīmus"		d:title="vocāre"/> <!--| 1st Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta sītis"		d:title="vocāre"/> <!--| 2nd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta sint"		d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Passive  | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātum essem"	d:title="vocāre"/> <!--| 1st Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātum essēs"	d:title="vocāre"/> <!--| 2nd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocātum esset"	d:title="vocāre"/> <!--| 3rd Person | Singular | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta essēmus"	d:title="vocāre"/> <!--| 1st Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta essētis"	d:title="vocāre"/> <!--| 2nd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<d:index d:value="vocāta essent"	d:title="vocāre"/> <!--| 3rd Person | Plural   | Pluperfect     | Passive  | Subjunctive |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Imperative Mood ––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Active Voice –––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocā"				d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Active   | Imperative  |-->
+	<d:index d:value="vocāte"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Active   | Imperative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātō"			d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Active   | Imperative  |-->
+	<d:index d:value="vocātō"			d:title="vocāre"/> <!--| 3rd Person | Singular | Future         | Active   | Imperative  |-->
+	<d:index d:value="vocātōte"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Future         | Active   | Imperative  |-->
+	<d:index d:value="vocantō"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Future         | Active   | Imperative  |-->
+	<!-- Passive Voice ––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāre"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Passive  | Imperative  |-->
+	<d:index d:value="vocāminī"			d:title="vocāre"/> <!--| 2nd Person | Plural   | Present        | Passive  | Imperative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātor"			d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Passive  | Imperative  |-->
+	<d:index d:value="vocātor"			d:title="vocāre"/> <!--| 3rd Person | Singular | Future         | Passive  | Imperative  |-->
+	<d:index d:value="vocantor"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Future         | Passive  | Imperative  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Infinitive Mood ––––––––––––––––––––––––––––––––––<!––| Case       | Number   | Tense          | Voice    | Mood        |-->
+	<!-- Active Voice –––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāre"			d:title="vocāre"/> <!--|            |          | Present        | Active   | Infinitive  |-->
+	<d:index d:value="vocāvisse"		d:title="vocāre"/> <!--|            |          | Perfect        | Active   | Infinitive  |-->
+	<!-- Macsculine –––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūrus esse"	d:title="vocāre"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrī esse"	d:title="vocāre"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrō esse"	d:title="vocāre"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrum esse"	d:title="vocāre"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrō esse"	d:title="vocāre"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūre esse"	d:title="vocāre"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūrī esse"	d:title="vocāre"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrōrum esse"	d:title="vocāre"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrōs esse"	d:title="vocāre"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrī esse"	d:title="vocāre"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
+	<!-- Feminine –––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūra esse"	d:title="vocāre"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrae esse"	d:title="vocāre"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrae esse"	d:title="vocāre"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūram esse"	d:title="vocāre"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrā esse"	d:title="vocāre"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūra esse"	d:title="vocāre"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūrae esse"	d:title="vocāre"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrārum esse"	d:title="vocāre"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrās esse"	d:title="vocāre"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrae esse"	d:title="vocāre"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
+	<!-- Neuter –––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūrum esse"	d:title="vocāre"/> <!--| Nominative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrī esse"	d:title="vocāre"/> <!--| Genitive   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrō esse"	d:title="vocāre"/> <!--| Dative     | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrum esse"	d:title="vocāre"/> <!--| Accusative | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrō esse"	d:title="vocāre"/> <!--| Ablative   | Singular | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrum esse"	d:title="vocāre"/> <!--| Vocative   | Singular | Future         | Active   | Infinitive  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocātūra esse"	d:title="vocāre"/> <!--| Nominative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrōrum esse"	d:title="vocāre"/> <!--| Genitive   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Dative     | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūra esse"	d:title="vocāre"/> <!--| Accusative | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūrīs esse"	d:title="vocāre"/> <!--| Ablative   | Plural   | Future         | Active   | Infinitive  |-->
+	<d:index d:value="vocātūra esse"	d:title="vocāre"/> <!--| Vocative   | Plural   | Future         | Active   | Infinitive  |-->
+	<!-- Passive Voice ––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocārī"			d:title="vocāre"/> <!--|            |          | Present        | Passive  | Infinitive  |-->
+	<d:index d:value="vocātus esse"		d:title="vocāre"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocātī esse"		d:title="vocāre"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocāta esse"		d:title="vocāre"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocātae esse"		d:title="vocāre"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocātum esse"		d:title="vocāre"/> <!--|            | Singular | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocāta esse"		d:title="vocāre"/> <!--|            | Plural   | Perfect        | Passive  | Infinitive  |-->
+	<d:index d:value="vocātum īrī"		d:title="vocāre"/> <!--|            |          | Future         | Passive  | Infinitive  |-->
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<!-- Alternative Forms ––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<d:index d:value="vocāvēre"			d:title="vocāre"/> <!--| 3rd Person | Plural   | Perfect        | Active   | Indicative  |-->
+	<d:index d:value="vocābāre"			d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->
+	<d:index d:value="vocābere"			d:title="vocāre"/> <!--| 2nd Person | Singular | Future         | Passive  | Indicative  |-->
+	<d:index d:value="vocēre"			d:title="vocāre"/> <!--| 2nd Person | Singular | Present        | Passive  | Indicative  |-->
+	<d:index d:value="vocārēre"			d:title="vocāre"/> <!--| 2nd Person | Singular | Imperfect      | Passive  | Indicative  |-->	
+	<!--–––––––––––––––––––––––––––––––––––––––––––––––––––<!––+––––––––––––+––––––––––+––––––––––––––––+––––––––––+–––––––––––––+-->
+	<span class="title">vocāre </span>
 	<span class="syntax">
-		<span d:pr="SP_IPA">| ˈwɔkoː / wɔˈkaːrɛ / wɔˈkaːwiː / wɔˈkaːtũ |</span>
-		<span d:pr="VA_IPA">| ˈvɔko / vɔˈkarɛ / vɔˈkaviː / vɔˈkatʊm |</span>
+		<span d:pr="SP_IPA">| wɔˈkaːrɛ |</span>
+		<span d:pr="VA_IPA">| vɔˈkarɛ |</span>
 	</span>
-	<div>
-		<ol>
-			<li>
-				Test definition.
-				<span d:priority="2"> : <i>voco</i>
-				</span>.
-			</li>
-		</ol>
-	</div>
-	<!-- Fix table to show conjugations -->
-	<table d:priority="2">
-		<tr>
-			<th class="indicative" colspan="2" rowspan="2">Indicative</th>
-			<th class="indicative" colspan="3">Singular</th>
-			<th class="indicative" colspan="3">Plural</th>
-		</tr>
-		<tr>
-			<th class="indicative">1st</th>
-			<th class="indicative">2nd</th>
-			<th class="indicative">3rd</th>
-			<th class="indicative">1st</th>
-			<th class="indicative">2nd</th>
-			<th class="indicative">3rd</th>
-		</tr>
-		<tr>
-			<th class="indicative" rowspan="6">Active</th>
-			<th class="indicative">Present</th>
-			<td>vocō</td>
-			<td>vocās</td>
-			<td>vocat</td>
-			<td>vocāmus</td>
-			<td>vocātis</td>
-			<td>vocant</td>
-		</tr>
-		<tr>
-			<th class="indicative">Imperfect</th>
-			<td>vocābam</td>
-			<td>vocābās</td>
-			<td>vocābat</td>
-			<td>vocābāmus</td>
-			<td>vocābātis</td>
-			<td>vocābant</td>
-		</tr>
-		<tr>
-			<th class="indicative">Future</th>
-			<td>vocābo</td>
-			<td>vocābis</td>
-			<td>vocābit</td>
-			<td>vocābimus</td>
-			<td>vocābitis</td>
-			<td>vocābunt</td>
-		</tr>
-		<tr>
-			<th class="indicative">Perfect</th>
-			<td>vocāvī</td>
-			<td>vocāvistī</td>
-			<td>vocāvit</td>
-			<td>vocāvimus</td>
-			<td>vocāvistis</td>
-			<td>vocāvērunt</td>
-		</tr>
-		<tr>
-			<th class="indicative">Pluperfect</th>
-			<td>vocāveram</td>
-			<td>vocāverās</td>
-			<td>vocāverat</td>
-			<td>vocāverāmus</td>
-			<td>vocāverātis</td>
-			<td>vocāverant</td>
-		</tr>
-		<tr>
-			<th class="indicative">Future Perfect</th>
-			<td>vocāverō</td>
-			<td>vocāveris</td>
-			<td>vocāverit</td>
-			<td>vocāverimus</td>
-			<td>vocāveritis</td>
-			<td>vocāverint</td>
-		</tr>
-		<tr>
-			<th class="indicative" rowspan="6">Passive</th>
-			<th class="indicative">Present</th>
-			<td>vocor</td>
-			<td>vocāris</td>
-			<td>vocātur</td>
-			<td>vocāmur</td>
-			<td>vocāminī</td>
-			<td>vocantur</td>
-		</tr>
-		<tr>
-			<th class="indicative">Imperfect</th>
-			<td>vocābar</td>
-			<td>vocābāris</td>
-			<td>vocābātur</td>
-			<td>vocābāmur</td>
-			<td>vocābāminī</td>
-			<td>vocābantur</td>
-		</tr>
-		<tr>
-			<th class="indicative">Future</th>
-			<td>vocābor</td>
-			<td>vocāberis</td>
-			<td>vocābitur</td>
-			<td>vocābimus</td>
-			<td>vocābiminī</td>
-			<td>vocābuntur</td>
-		</tr>
-		<tr>
-			<th class="indicative">Perfect</th>
-			<td>vocātus sum</td>
-			<td>vocātus es</td>
-			<td>vocātus est</td>
-			<td>vocātus sumus</td>
-			<td>vocātus estis</td>
-			<td>vocātus sunt</td>
-		</tr>
-		<tr>
-			<th class="indicative">Pluperfect</th>
-			<td>vocātus eram</td>
-			<td>vocātus erās</td>
-			<td>vocātus erat</td>
-			<td>vocātus erāmus</td>
-			<td>vocātus erātis</td>
-			<td>vocātus erant</td>
-		</tr>
-		<tr>
-			<th class="indicative">Future Perfect</th>
-			<td>vocātus erō</td>
-			<td>vocātus eris</td>
-			<td>vocātus erit</td>
-			<td>vocātus erimus</td>
-			<td>vocātus eritis</td>
-			<td>vocātus erunt</td>
-		</tr>
-		<tr>
-			<th class="subjunctive" colspan="2" rowspan="2">Subjunctive</th>
-			<th class="subjunctive" colspan="3">Singular</th>
-			<th class="subjunctive" colspan="3">Plural</th>
-		</tr>
-		<tr>
-			<th class="subjunctive">1st</th>
-			<th class="subjunctive">2nd</th>
-			<th class="subjunctive">3rd</th>
-			<th class="subjunctive">1st</th>
-			<th class="subjunctive">2nd</th>
-			<th class="subjunctive">3rd</th>
-		</tr>
-		<tr>
-			<th class="subjunctive" rowspan="4">Active</th>
-			<th class="subjunctive">Present</th>
-			<td>vocem</td>
-			<td>vocēs</td>
-			<td>vocet</td>
-			<td>vocēmus</td>
-			<td>vocētis</td>
-			<td>vocent</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Imperfect</th>
-			<td>vocārem</td>
-			<td>vocārēs</td>
-			<td>vocāret</td>
-			<td>vocārēmus</td>
-			<td>vocārētis</td>
-			<td>vocārent</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Perfect</th>
-			<td>vocāverim</td>
-			<td>vocāveris</td>
-			<td>vocāverit</td>
-			<td>vocāverimus</td>
-			<td>vocāveritis</td>
-			<td>vocāverint</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Pluperfect</th>
-			<td>vocāvissem</td>
-			<td>vocāvissēs</td>
-			<td>vocāvisset</td>
-			<td>vocāvissēmus</td>
-			<td>vocāvissētis</td>
-			<td>vocāvissent</td>
-		</tr>
-		<tr>
-			<th class="subjunctive" rowspan="4">Passive</th>
-			<th class="subjunctive">Present</th>
-			<td>vocer</td>
-			<td>vocēris</td>
-			<td>vocētur</td>
-			<td>vocēmur</td>
-			<td>vocēminī</td>
-			<td>vocentur</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Imperfect</th>
-			<td>vocārer</td>
-			<td>vocārēris</td>
-			<td>vocārētur</td>
-			<td>vocārēmur</td>
-			<td>vocārēminī</td>
-			<td>vocārentur</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Perfect</th>
-			<td>vocātus sim</td>
-			<td>vocātus sīs</td>
-			<td>vocātus sit</td>
-			<td>vocātus sīmus</td>
-			<td>vocātus sītis</td>
-			<td>vocātus sint</td>
-		</tr>
-		<tr>
-			<th class="subjunctive">Pluperfect</th>
-			<td>vocātus essem</td>
-			<td>vocātus essēs</td>
-			<td>vocātus esset</td>
-			<td>vocātus essēmus</td>
-			<td>vocātus essētis</td>
-			<td>vocātus essent</td>
-		</tr>
-		<tr>
-			<th class="imperative" colspan="2" rowspan="2">Imperative</th>
-			<th class="imperative" colspan="3">Singular</th>
-			<th class="imperative" colspan="3">Plural</th>
-		</tr>
-		<tr>
-			<th class="imperative">1st</th>
-			<th class="imperative">2nd</th>
-			<th class="imperative">3rd</th>
-			<th class="imperative">1st</th>
-			<th class="imperative">2nd</th>
-			<th class="imperative">3rd</th>
-		</tr>
-		<tr>
-			<th class="imperative" rowspan="2">Active</th>
-			<th class="imperative">Present</th>
-			<td>—</td>
-			<td>vocā</td>
-			<td>—</td>
-			<td>—</td>
-			<td>vocāte</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imperative">Future</th>
-			<td>—</td>
-			<td>vocātō</td>
-			<td>vocātō</td>
-			<td>—</td>
-			<td>vocātōte</td>
-			<td>vocāntō</td>
-		</tr>
-		<tr>
-			<th class="imperative" rowspan="2">Passive</th>
-			<th class="imperative">Present</th>
-			<td>—</td>
-			<td>vocāre</td>
-			<td>—</td>
-			<td>—</td>
-			<td>vocāminī</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imperative">Future</th>
-			<td>—</td>
-			<td>vocātor</td>
-			<td>vocātor</td>
-			<td>—</td>
-			<td>—</td>
-			<td>vocāntor</td>
-		</tr>
-		<tr>
-			<th class="infinitive" colspan="2" rowspan="2">Non-finite</th>
-			<th class="infinitive" colspan="3">Active</th>
-			<th class="infinitive" colspan="3">Passive</th>
-		</tr>
-		<tr>
-			<th class="infinitive">Present</th>
-			<th class="infinitive">Perfect</th>
-			<th class="infinitive">Future</th>
-			<th class="infinitive">Present</th>
-			<th class="infinitive">Perfect</th>
-			<th class="infinitive">Future</th>
-		</tr>
-		<tr>
-			<th class="infinitive" colspan="2">Infinitives</th>
-			<td>vocāre</td>
-			<td>vocāvisse</td>
-			<td>vocātūrus esse</td>
-			<td>vocārī</td>
-			<td>vocātus esse</td>
-			<td>vocātum īrī</td>
-		</tr>
-		<tr>
-			<th class="infinitive" colspan="2">Participles</th>
-			<td>vocāns</td>
-			<td>—</td>
-			<td>vocātūrus</td>
-			<td>—</td>
-			<td>vocātus</td>
-			<td>vocandus</td>
-		</tr>
-	</table>
+	<br/>
+	<p>1st conj. verb</p>
+	<ol>
+		<li>to call, summon, invoke.</li>
+		<li>to name, designate<span d:priority="2"> : <i>eum amicum <b>voco</b></i> — <b>I call</b> him a friend</span>.</li>
+		<li>to to bring or put into a state or condition<span d:priority="2"> : <i><b>vocare</b> in dubium</i> — <b>to call</b> into question</span>.</li>
+	</ol>
 </d:entry>
 
 </d:dictionary>
