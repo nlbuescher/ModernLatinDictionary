@@ -41,10 +41,15 @@ table {
 	border-collapse: collapse;
 }
 
+.col {
+	text-align: left;
+}
+
 th {
 	padding: 0.3em;
 	border: solid 2px #F0F0F0;
 	border-collapse: collapse;
+	text-align: right;
 	background-color: #C0C0C0;
 }
 

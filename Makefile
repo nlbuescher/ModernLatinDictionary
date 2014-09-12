@@ -8,14 +8,12 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Modern Latin Dictionary"
-DICT_SRC_PATH		=	MyDictionary.xml
+DICT_NAME		=	"Modern Latin Dictionary (Latin-English)"
+DICT_SRC_PATH	=	MyDictionary.xml
 CSS_PATH		=	MyDictionary.css
 PLIST_PATH		=	MyInfo.plist
 
-DICT_BUILD_OPTS		=
-# Suppress adding supplementary key.
-# DICT_BUILD_OPTS		=	-s 0	# Suppress adding supplementary key.
+# DICT_BUILD_OPTS	=	-s 0	# Suppress adding supplementary key.
 
 ###########################
 
@@ -31,7 +29,7 @@ DICT_DEV_KIT_OBJ_DIR	=	./objects
 export	DICT_DEV_KIT_OBJ_DIR
 
 DESTINATION_FOLDER	=	~/Library/Dictionaries
-RM			=	/bin/rm
+RM					=	/bin/rm
 
 ###########################
 

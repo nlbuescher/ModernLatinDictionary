@@ -13,5 +13,6 @@ Development Kit". You should put the "Dictionary Development Kit" folder into
 use that directory.
 
 Guidelines:
+In general follow the standards set by the existing entries.
   1. Normal Latin text does not have macrons; Only the dictionary entries
   themselves include macrons.
