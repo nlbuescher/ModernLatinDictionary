@@ -3,6 +3,7 @@
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
 <!-- A -->
+<!-- arma -->
 <d:entry id="arma"		d:title="arma">
 	<d:index d:value="arma" d:title="arma"/>
 	<span class="title">arma </span>
@@ -108,8 +109,67 @@
 		</tr>
 	</table>
 </d:entry>
+<d:entry id="armīs"		d:title="armīs">
+	<d:index d:value="armīs" d:title="armīs"/>
+	<span class="title">armīs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈar.miːs |</span>
+		<span d:pr="VA_IPA">| ˈar.mis |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative of <b>arma</b></li>
+		<li>ablative of <b>arma</b></li>
+	</ol>
+	<br />
+	<span class="title">arma </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈar.ma |</span>
+	</span>
+	<br />
+	<p>noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
+	<ol>
+		<li>arms, weapons</li>
+		<li>tools or implements of war</li>
+		<li>armor or equipment</li>
+		<li>(<i>figuratively</i>) means of protection or defense</li>
+	</ol>
+	<p>DECLENSION only has plural forms</p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>armōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>arma</td>
+		</tr>
+	</table>
+</d:entry>
 
 <!-- B -->
+<!-- bellum -->
 <d:entry id="bellum"	d:title="bellum">
 	<d:index d:value="bellum" d:title="bellum"/>
 	<d:index d:value="bellvm" d:title="bellum"/>
@@ -167,8 +227,349 @@
 		</tr>
 	</table>
 </d:entry>
+<d:entry id="bellī"		d:title="bellī">
+	<d:index d:value="bellī" d:title="bellī"/>
+	<span class="title">bellī </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.liː |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.li |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>bellum</b></li>
+		<li>locative singular of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bellō"		d:title="bellō">
+	<d:index d:value="bellō" d:title="bellō"/>
+	<span class="title">bellō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.loː |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lo |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>bellum</b></li>
+		<li>ablative singular of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bella"		d:title="bella">
+	<d:index d:value="bella" d:title="bella"/>
+	<span class="title">bella </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈbɛl.la |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>bellum</b></li>
+		<li>accusative plural of <b>bellum</b></li>
+		<li>vocative plural of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bellōrum"	d:title="bellōrum">
+	<d:index d:value="bellōrum" d:title="bellōrum"/>
+	<d:index d:value="bellōrvm" d:title="bellōrum"/>
+	<span class="title">bellōrum </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| bɛlˈloː.rũ |</span>
+		<span d:pr="LA_IPA">| bɛlˈlo.rum |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>bellum</b></li>
+		<li>accusative plural of <b>bellum</b></li>
+		<li>vocative plural of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bellīs"	d:title="bellīs">
+	<d:index d:value="bellīs" d:title="bellīs"/>
+	<d:index d:value="bellōrvm" d:title="bellōrum"/>
+	<span class="title">bellōrum </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈbɛl.liːs |</span>
+		<span d:pr="LA_IPA">| ˈbɛl.lis |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>bellum</b></li>
+		<li>ablative plural of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+
+<!--fleshed out up to here-->
 
 <!-- C -->
+<!-- caffeum -->
 <d:entry id="caffeum"	d:title="caffeum">
 	<d:index d:value="caffeum"			d:title="caffeum"/>
 	<d:index d:value="caffevm"			d:title="caffeum"/>
@@ -223,6 +624,71 @@
 		</tr>
 	</table>
 </d:entry>
+<d:entry id="caffeī"	d:title="caffeī">
+	<d:index d:value="caffeī"			d:title="caffeī"/>
+	<span class="title">caffeī </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.iː |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.i |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.um |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+
+<!-- canere -->
 <d:entry id="canere"	d:title="canere">
 	<d:index d:value="canere" d:title="canere"/>
 	<span class="title">canere </span>
