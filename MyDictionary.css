@@ -25,7 +25,7 @@ p {
 	margin: 0;
 }
 
-span.column {
+span .column {
 	display: block;
 	border: solid 2px #C0C0C0;
 	margin-left: 1em;
@@ -36,7 +36,7 @@ span.column {
 }
 
 table {
-	margin: 0.5em 2em 0 0;
+	margin: 0em;
 	background-color: #F0F0F0;
 	border-collapse: collapse;
 }
@@ -46,26 +46,31 @@ table {
 }
 
 th {
-	padding: 0.3em;
+	padding: 0 0.2em 0 0.2em;
 	border: solid 2px #F0F0F0;
 	border-collapse: collapse;
-	text-align: right;
+	text-align: left;
+	font-variant: small-caps;
 	background-color: #C0C0C0;
 }
 
-th.indicative {
+#top {
+	text-align: center;
+}
+
+th.ind {
 	background-color: #C0CFE4;
 }
 
-th.subjunctive {
+th.sub {
 	background-color: #C0E4C0;
 }
 
-th.imperative {
+th.imp {
 	background-color: #E4D4C0;
 }
 
-th.infinitive {
+th.inf {
 	background-color: #E2E4C0;
 }
 

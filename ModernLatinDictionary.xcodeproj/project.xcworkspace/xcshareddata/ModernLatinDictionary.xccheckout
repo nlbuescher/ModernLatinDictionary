@@ -14,7 +14,7 @@
 		<string>https://github.com/NLBuescher/ModernLatinDictionary.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ModernLatinDictionary.xcodeproj/project.xcworkspace</string>
+	<string>ModernLatinDictionary.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>515D224C9CCDF0890F70BF2313A20688AF13A5C1</key>

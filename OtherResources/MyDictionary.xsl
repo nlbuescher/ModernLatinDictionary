@@ -6,10 +6,7 @@
 	doctype-public="-//W3C//DTD XHTML 1.1//EN"
 	doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" />
 
-<!--
-	This XSL file is an example to illustrate how to implement dictionary-specific preferences.
-	This file is not necessary if you don't need preference for the dictionary.
-	
+<!--	
 	This XSL does the followings.
 	- Add style to mask unwanted pronunciation formats. 
 	- $pronunciation is externally provided.
