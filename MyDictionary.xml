@@ -57,7 +57,7 @@
 	<span class="title">armōrum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| arˈmoː.rũ |</span>
-		<span d:pr="VA_IPA">| arˈmo.rum |</span>
+		<span d:pr="VA_IPA">| arˈmo.rʊm |</span>
 	</span>
 	<br />
 	<ol>
@@ -176,7 +176,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -243,7 +243,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -310,7 +310,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -377,7 +377,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -434,7 +434,7 @@
 	<span class="title">bellōrum </span>
 	<span class="syntax">
 		<span d:pr="LA_IPA">| bɛlˈloː.rũ |</span>
-		<span d:pr="LA_IPA">| bɛlˈlo.rum |</span>
+		<span d:pr="LA_IPA">| bɛlˈlo.rʊm |</span>
 	</span>
 	<br />
 	<ol>
@@ -446,7 +446,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -514,7 +514,7 @@
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lum |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
@@ -566,17 +566,15 @@
 	</table>
 </d:entry>
 
-<!--fleshed out up to here-->
-
 <!-- C -->
 <!-- caffeum -->
 <d:entry id="caffeum"	d:title="caffeum">
-	<d:index d:value="caffeum"			d:title="caffeum"/>
-	<d:index d:value="caffevm"			d:title="caffeum"/>
+	<d:index d:value="caffeum" d:title="caffeum"/>
+	<d:index d:value="caffevm" d:title="caffeum"/>
 	<span class="title">caffeum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
-		<span d:pr="VA_IPA">| ˈkaf.fɛ.um |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
@@ -625,7 +623,7 @@
 	</table>
 </d:entry>
 <d:entry id="caffeī"	d:title="caffeī">
-	<d:index d:value="caffeī"			d:title="caffeī"/>
+	<d:index d:value="caffeī" d:title="caffeī"/>
 	<span class="title">caffeī </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| kafˈfɛ.iː |</span>
@@ -639,7 +637,263 @@
 	<span class="title">caffeum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
-		<span d:pr="VA_IPA">| ˈkaf.fɛ.um |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeō"	d:title="caffeō">
+	<d:index d:value="caffeō" d:title="caffeō"/>
+	<span class="title">caffeō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.oː |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.o |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>caffeum</b></li>
+		<li>ablative singular of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffea"	d:title="caffea">
+	<d:index d:value="caffea" d:title="caffea"/>
+	<span class="title">caffea </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| kafˈfɛ.a |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>caffeum</b></li>
+		<li>accusative plural of <b>caffeum</b></li>
+		<li>vocative plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeōrum"	d:title="caffeōrum">
+	<d:index d:value="caffeōrum" d:title="caffeōrum"/>
+	<d:index d:value="caffeōrvm" d:title="caffeōrum"/>
+	<span class="title">caffeōrum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kaf.fɛˈoː.rũ |</span>
+		<span d:pr="VA_IPA">| kaf.fɛˈo.rʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeīs"	d:title="caffeīs">
+	<d:index d:value="caffeīs" d:title="caffeīs"/>
+	<span class="title">caffeīs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.iːs |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.is |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>caffeum</b></li>
+		<li>ablative plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
 	</span>
 	<br />
 	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
@@ -1013,6 +1267,7 @@
 <!-- G -->
 
 <!-- H -->
+<!-- homō -->
 <d:entry id="homō"		d:title="homō">
 	<d:index d:value="homō" d:title="homō"/>
 	<span class="title">homō </span>
@@ -1023,7 +1278,443 @@
 	<br />
 	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
 	<ol>
-		<li>a man (<i>not an animal</i>), a human being, a person</li>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominis"	d:title="hominis">
+	<d:index d:value="hominis" d:title="hominis"/>
+	<span class="title">hominis </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɪs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominī"	d:title="hominī">
+	<d:index d:value="hominī" d:title="hominī"/>
+	<span class="title">hominī </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.niː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.ni |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominem"	d:title="hominem">
+	<d:index d:value="hominem" d:title="hominem"/>
+	<span class="title">hominem </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɛ̃ |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nɛm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>accusative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="homine"	d:title="homine">
+	<d:index d:value="homine" d:title="homine"/>
+	<span class="title">homine </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɛ |</span>
+	</span>
+	<br />
+	<ol>
+		<li>ablative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominēs"	d:title="hominēs">
+	<d:index d:value="hominēs" d:title="hominēs"/>
+	<span class="title">hominēs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.mɪ.neːs |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nɛs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>homō</b></li>
+		<li>accusative plural of <b>homō</b></li>
+		<li>vocative plural of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominum"	d:title="hominum">
+	<d:index d:value="hominum" d:title="hominum"/>
+	<span class="title">hominum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.mɪ.nũ |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive plural of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominibus"	d:title="hominibus">
+	<d:index d:value="hominibus" d:title="hominibus"/>
+	<span class="title">hominibus </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| hɔˈmɪ.nɪ.bʊs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>homō</b></li>
+		<li>ablative plural of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
 	</ol>
 	<table d:priority="2">
 		<tr>
@@ -1084,8 +1775,101 @@
 	<d:index d:value="qvis" d:title="quis"/>
 	<span class="title">quis </span>
 	<span class="syntax">
-		<span d:pr="SP_IPA">| kʷis |</span>
-		<span d:pr="VA_IPA">| kwis |</span>
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
+	</span>
+	<br />
+	<p>interrogative pronoun</p>
+	<ol>
+		<li>who?</li>
+		<li>what?</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" rowspan="2"></th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>quōrum</td>
+			<td>quārum</td>
+			<td>quōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>cui</td>
+			<td>cui</td>
+			<td>cui</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>quem</td>
+			<td>quem</td>
+			<td>quid</td>
+			<td>quōs</td>
+			<td>quās</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="cuius"		d:title="cuius">
+	<d:index d:value="cuius" d:title="cuius"/>
+	<d:index d:value="cvivs" d:title="cuius"/>
+	<span class="title">cuius </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| kuj.jʊs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>quis</b></li>
+	</ol>
+	<br />
+	<span class="title">quis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
 	</span>
 	<br />
 	<p>interrogative pronoun</p>
