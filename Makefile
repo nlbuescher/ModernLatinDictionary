@@ -8,7 +8,7 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Modern Latin Dictionary (Latin-English)"
+DICT_NAME		=	"Dictionarium Modernae Linguae Latinae - Latina-Anglicam • Anglica-Latinam (Latin-English)"
 DICT_SRC_PATH	=	MyDictionary.xml
 CSS_PATH		=	MyDictionary.css
 PLIST_PATH		=	MyInfo.plist
