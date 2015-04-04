@@ -14,12 +14,133 @@
 	</span>
 	<br />
 	<p id="desc">noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
+	<p>noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
+	<ol>
+		<li>arms, weapons</li>
+		<li>tools or implements of war</li>
+		<li>armor or equipment</li>
+		<li>(<i>figuratively</i>) means of protection or defense</li>
+	</ol>
+	<p>DECLENSION only has plural forms</p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>armōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>arma</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="armīs"		d:title="armīs">
+	<d:index d:value="armīs" d:title="armīs"/>
+	<span class="title">armīs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈar.miːs |</span>
+		<span d:pr="VA_IPA">| ˈar.mis |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative of <b>arma</b></li>
+		<li>ablative of <b>arma</b></li>
+	</ol>
+	<br />
+	<span class="title">arma </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈar.ma |</span>
+	</span>
+	<br />
+	<p>noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
+	<ol>
+		<li>arms, weapons</li>
+		<li>tools or implements of war</li>
+		<li>armor or equipment</li>
+		<li>(<i>figuratively</i>) means of protection or defense</li>
+	</ol>
+	<p>DECLENSION only has plural forms</p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>armōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>arma</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>armīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>arma</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="armōrum"	d:title="armōrum">
+	<d:index d:value="armōrum" d:title="armōrum"/>
+	<d:index d:value="armōrvm" d:title="armōrum"/>
+	<span class="title">armōrum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| arˈmoː.rũ |</span>
+		<span d:pr="VA_IPA">| arˈmo.rʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive of <b>arma</b></li>
+	</ol>
+>>>>>>> origin/dev
 	<br />
 	<p><b>1</b> arms, weapons</p>
 	<p><b>2</b> tools or implements of war</p>
 	<p><b>3</b> armor or equipment</p>
 	<p><b>4</b> (<i>figuratively</i>) means of protection or defense</p>
 	<br />
+<<<<<<< HEAD
+=======
+	<p>noun, neuter plural, 2<sup>nd</sup> declension</p>
+	<ol>
+		<li>arms, weapons</li>
+		<li>tools or implements of war</li>
+		<li>armor or equipment</li>
+		<li>(<i>figuratively</i>) means of protection or defense</li>
+	</ol>
+>>>>>>> origin/dev
 	<p>DECLENSION only has plural forms</p>
 	<br />
 	<table d:priority="2">
@@ -56,6 +177,7 @@
 </d:entry>
 
 <!-- B -->
+<<<<<<< HEAD
 <d:entry id="bellum"	d:title="bellum">
 	<d:index d:value="bellum"	d:title="bellum"/>
 	<d:index d:value="bellvm"	d:title="bellum"/> <!-- Capital -->
@@ -65,6 +187,21 @@
 	<d:index d:value="bellōrum"	d:title="bellōrum"/>
 	<d:index d:value="bellōrvm"	d:title="bellōrum"/> <!-- Capital -->
 	<d:index d:value="bellīs"	d:title="bellīs"/>
+=======
+<d:entry id="bella"		d:title="bella">
+	<d:index d:value="bella" d:title="bella"/>
+	<span class="title">bella </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈbɛl.la |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>bellum</b></li>
+		<li>accusative plural of <b>bellum</b></li>
+		<li>vocative plural of <b>bellum</b></li>
+	</ol>
+	<br />
+>>>>>>> origin/dev
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
@@ -187,6 +324,7 @@
 	</table>
 	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
 <d:entry id="canere"	d:title="canere">
 	<!-- Present Indicative Active -->
 	<d:index d:value="canō"				d:title="canō"/>
@@ -440,6 +578,21 @@
 	</span>
 	<br />
 	<p id="desc">verb, 3<sup>rd</sup> conjugation (perfect infinitive: <b>cecinisse</b>; supine: <b>cantum</b>)</p>
+=======
+<d:entry id="bellīs"	d:title="bellīs">
+	<d:index d:value="bellīs" d:title="bellīs"/>
+	<d:index d:value="bellōrvm" d:title="bellōrum"/>
+	<span class="title">bellōrum </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈbɛl.liːs |</span>
+		<span d:pr="LA_IPA">| ˈbɛl.lis |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>bellum</b></li>
+		<li>ablative plural of <b>bellum</b></li>
+	</ol>
+>>>>>>> origin/dev
 	<br />
 	<p><i>transitive</i></p>
 	<p class="sub"><b>1</b> to sing, sing of<span d:priority="2"> : "<i>Arma virumque cano</i>" – Arms and a man I sing</span></p>
@@ -493,6 +646,36 @@
 			<td>canētis</td>
 			<td>canent</td>
 		</tr>
+<<<<<<< HEAD
+=======
+	</table>
+</d:entry>
+<d:entry id="bellō"		d:title="bellō">
+	<d:index d:value="bellō" d:title="bellō"/>
+	<span class="title">bellō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.loː |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lo |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>bellum</b></li>
+		<li>ablative singular of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+>>>>>>> origin/dev
 		<tr>
 			<th class="ind">Perfect</th>
 			<td>cecinī</td>
@@ -558,6 +741,642 @@
 			<td>cantī sunt</td>
 		</tr>
 		<tr>
+<<<<<<< HEAD
+=======
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bellōrum"	d:title="bellōrum">
+	<d:index d:value="bellōrum" d:title="bellōrum"/>
+	<d:index d:value="bellōrvm" d:title="bellōrum"/>
+	<span class="title">bellōrum </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| bɛlˈloː.rũ |</span>
+		<span d:pr="LA_IPA">| bɛlˈlo.rʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>bellum</b></li>
+		<li>accusative plural of <b>bellum</b></li>
+		<li>vocative plural of <b>bellum</b></li>
+	</ol>
+	<br />
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="bellum"	d:title="bellum">
+	<d:index d:value="bellum" d:title="bellum"/>
+	<d:index d:value="bellvm" d:title="bellum"/>
+	<span class="title">bellum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
+		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<ol>
+		<li>war</li>
+		<li>(<i>locative</i>) at war</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>bellī</td>
+			<td>bellōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>bellō</td>
+			<td>bellīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>bellum</td>
+			<td>bella</td>
+		</tr>
+		<tr>
+			<th class="sub">Loc</th>
+			<td>bellī</td>
+			<td>—</td>
+		</tr>
+	</table>
+</d:entry>
+
+<!-- C -->
+<d:entry id="caffea"	d:title="caffea">
+	<d:index d:value="caffea" d:title="caffea"/>
+	<span class="title">caffea </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| kafˈfɛ.a |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>caffeum</b></li>
+		<li>accusative plural of <b>caffeum</b></li>
+		<li>vocative plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeī"	d:title="caffeī">
+	<d:index d:value="caffeī" d:title="caffeī"/>
+	<span class="title">caffeī </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.iː |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.i |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeīs"	d:title="caffeīs">
+	<d:index d:value="caffeīs" d:title="caffeīs"/>
+	<span class="title">caffeīs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.iːs |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.is |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>caffeum</b></li>
+		<li>ablative plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeō"	d:title="caffeō">
+	<d:index d:value="caffeō" d:title="caffeō"/>
+	<span class="title">caffeō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kafˈfɛ.oː |</span>
+		<span d:pr="VA_IPA">| kafˈfɛ.o |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>caffeum</b></li>
+		<li>ablative singular of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeōrum"	d:title="caffeōrum">
+	<d:index d:value="caffeōrum" d:title="caffeōrum"/>
+	<d:index d:value="caffeōrvm" d:title="caffeōrum"/>
+	<span class="title">caffeōrum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kaf.fɛˈoː.rũ |</span>
+		<span d:pr="VA_IPA">| kaf.fɛˈo.rʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive plural of <b>caffeum</b></li>
+	</ol>
+	<br />
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="caffeum"	d:title="caffeum">
+	<d:index d:value="caffeum" d:title="caffeum"/>
+	<d:index d:value="caffevm" d:title="caffeum"/>
+	<span class="title">caffeum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+	</span>
+	<br />
+	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
+	<ol>
+		<li>coffee</li>
+		<li>any type of coffee</li>
+	</ol>
+	<p>ORIGIN Italian, from <b>caffè 'coffee'</b></p>
+	<br />
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>caffeum</td>
+			<td>caffea</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="canere"	d:title="canere">
+	<d:index d:value="canere" d:title="canere"/>
+	<span class="title">canere </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈka.nɛ.rɛ |</span>
+	</span>
+	<br />
+	<p>verb, 3<sup>rd</sup> conjugation (perfect infinitive: <b>cecinisse</b>; supine: <b>cantum</b>)</p>
+	<br />
+	<i>transitive</i>
+	<ol>
+		<li>to sing, sing of<span d:priority="2"> : "<i>Arma virumque cano</i>" – Arms and a man I sing</span></li>
+		<li>(<i>in war</i>) to sound (the signal)<span d:priority="2"> : <i>signum (receptui) canere</i> – to sound the signal (for retreat)</span></li>
+	</ol>
+	<i>intransitive</i>
+	<ol>
+		<li>to sing</li>
+		<li>(<i>with abl.</i>) to play (an instrument)<span d:priority="2"> : <i>tibia canere</i> – to play the flute</span>.</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" colspan="2" rowspan="2">Indicative</th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">First</th>
+			<th class="ind" id="top">Second</th>
+			<th class="ind" id="top">Third</th>
+			<th class="ind" id="top">First</th>
+			<th class="ind" id="top">Second</th>
+			<th class="ind" id="top">Third</th>
+		</tr>
+		<tr>
+			<th class="ind" rowspan="6">Active</th>
+			<th class="ind">Present</th>
+			<td>canō</td>
+			<td>canis</td>
+			<td>canit</td>
+			<td>canimus</td>
+			<td>canitis</td>
+			<td>canunt</td>
+		</tr>
+		<tr>
+			<th class="ind">Imperfect</th>
+			<td>canēbam</td>
+			<td>canēbās</td>
+			<td>canēbat</td>
+			<td>canēbāmus</td>
+			<td>canēbātis</td>
+			<td>canēbant</td>
+		</tr>
+		<tr>
+			<th class="ind">Future</th>
+			<td>canam</td>
+			<td>canēs</td>
+			<td>canet</td>
+			<td>canēmus</td>
+			<td>canētis</td>
+			<td>canent</td>
+		</tr>
+		<tr>
+			<th class="ind">Perfect</th>
+			<td>cecinī</td>
+			<td>cecinistī</td>
+			<td>cecinit</td>
+			<td>cecinimus</td>
+			<td>cecinistis</td>
+			<td>cecinērunt</td>
+		</tr>
+		<tr>
+			<th class="ind">Pluperfect</th>
+			<td>cecineram</td>
+			<td>cecinerās</td>
+			<td>cecinerat</td>
+			<td>cecinerāmus</td>
+			<td>cecinerātis</td>
+			<td>cecinerant</td>
+		</tr>
+		<tr>
+			<th class="ind">Future Perfect</th>
+			<td>cecinerim</td>
+			<td>cecineris</td>
+			<td>cecinerit</td>
+			<td>cecinerimus</td>
+			<td>cecineritis</td>
+			<td>cecinerint</td>
+		</tr>
+		<tr>
+			<th class="ind" rowspan="6">Passive</th>
+			<th class="ind">Present</th>
+			<td>canor</td>
+			<td>caneris</td>
+			<td>canitur</td>
+			<td>canimur</td>
+			<td>caniminī</td>
+			<td>canuntur</td>
+		</tr>
+		<tr>
+			<th class="ind">Imperfect</th>
+			<td>canēbar</td>
+			<td>canēbāris</td>
+			<td>canēbātur</td>
+			<td>canēbāmur</td>
+			<td>canēbāminī</td>
+			<td>canēbantur</td>
+		</tr>
+		<tr>
+			<th class="ind">Future</th>
+			<td>canar</td>
+			<td>canēris</td>
+			<td>canētur</td>
+			<td>canēmur</td>
+			<td>canēminī</td>
+			<td>canentur</td>
+		</tr>
+		<tr>
+			<th class="ind">Perfect</th>
+			<td>cantus sum</td>
+			<td>cantus es</td>
+			<td>cantus est</td>
+			<td>cantī sumus</td>
+			<td>cantī estis</td>
+			<td>cantī sunt</td>
+		</tr>
+		<tr>
+>>>>>>> origin/dev
 			<th class="ind">Pluperfect</th>
 			<td>cantus eram</td>
 			<td>cantus erās</td>
@@ -566,6 +1385,8 @@
 			<td>cantī erātis</td>
 			<td>cantī erant</td>
 		</tr>
+<<<<<<< HEAD
+=======
 		<tr>
 			<th class="ind">Future Perfect</th>
 			<td>cantus erō</td>
@@ -612,8 +1433,8 @@
 			<td>cecinerim</td>
 			<td>cecinerīs</td>
 			<td>cecinerit</td>
-			<td>cecinerīmus</td>
-			<td>cecinerītis</td>
+			<td>cecinerimus</td>
+			<td>cecineritis</td>
 			<td>cecinerint</td>
 		</tr>
 		<tr>
@@ -629,7 +1450,7 @@
 			<th class="sub" rowspan="4">Passive</th>
 			<th class="sub">Present</th>
 			<td>canar</td>
-			<td>canāris (canāre)</td>
+			<td>canāris</td>
 			<td>canātur</td>
 			<td>canāmur</td>
 			<td>canāminī</td>
@@ -638,7 +1459,7 @@
 		<tr>
 			<th class="sub">Imperfect</th>
 			<td>canerer</td>
-			<td>canerēris (canerēre)</td>
+			<td>canerēris</td>
 			<td>canerētur</td>
 			<td>canerēmur</td>
 			<td>canerēminī</td>
@@ -745,8 +1566,657 @@
 			<td>canendus</td>
 		</tr>
 	</table>
+</d:entry>
+<d:entry id="cui"		d:title="cui">
+	<d:index d:value="cui" d:title="cui"/>
+	<d:index d:value="cvi" d:title="cui"/>
+	<span class="title">cui </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| kui̯ |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>quis</b></li>
+	</ol>
+	<br />
+	<span class="title">quis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
+	</span>
+	<br />
+	<p>interrogative pronoun</p>
+	<ol>
+		<li>who?</li>
+		<li>what?</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" rowspan="2"></th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>quōrum</td>
+			<td>quārum</td>
+			<td>quōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>cui</td>
+			<td>cui</td>
+			<td>cui</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>quem</td>
+			<td>quem</td>
+			<td>quid</td>
+			<td>quōs</td>
+			<td>quās</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="cuius"		d:title="cuius">
+	<d:index d:value="cuius" d:title="cuius"/>
+	<d:index d:value="cvivs" d:title="cuius"/>
+	<span class="title">cuius </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| kuj.jʊs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>quis</b></li>
+	</ol>
+	<br />
+	<span class="title">quis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
+	</span>
+	<br />
+	<p>interrogative pronoun</p>
+	<ol>
+		<li>who?</li>
+		<li>what?</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" rowspan="2"></th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>quōrum</td>
+			<td>quārum</td>
+			<td>quōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>cui</td>
+			<td>cui</td>
+			<td>cui</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>quem</td>
+			<td>quem</td>
+			<td>quid</td>
+			<td>quōs</td>
+			<td>quās</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+	</table>
+</d:entry>
+
+<!-- D -->
+
+<!-- E -->
+
+<!-- F -->
+
+<!-- G -->
+
+<!-- H -->
+<d:entry id="homine"	d:title="homine">
+	<d:index d:value="homine" d:title="homine"/>
+	<span class="title">homine </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɛ |</span>
+	</span>
+	<br />
+	<ol>
+		<li>ablative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominem"	d:title="hominem">
+	<d:index d:value="hominem" d:title="hominem"/>
+	<span class="title">hominem </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɛ̃ |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nɛm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>accusative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominēs"	d:title="hominēs">
+	<d:index d:value="hominēs" d:title="hominēs"/>
+	<span class="title">hominēs </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.mɪ.neːs |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nɛs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>nominative plural of <b>homō</b></li>
+		<li>accusative plural of <b>homō</b></li>
+		<li>vocative plural of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="hominī"	d:title="hominī">
+	<d:index d:value="hominī" d:title="hominī"/>
+	<span class="title">hominī </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.niː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.ni |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+>>>>>>> origin/dev
+		<tr>
+			<th class="ind">Future Perfect</th>
+			<td>cantus erō</td>
+			<td>cantus eris</td>
+			<td>cantus erit</td>
+			<td>cantī erimus</td>
+			<td>cantī eritis</td>
+			<td>cantī erunt</td>
+		</tr>
+		<tr>
+			<th class="sub" id="top" colspan="2" rowspan="2">Subjunctive</th>
+			<th class="sub" id="top" colspan="3">Singular</th>
+			<th class="sub" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="sub" id="top">First</th>
+			<th class="sub" id="top">Second</th>
+			<th class="sub" id="top">Third</th>
+			<th class="sub" id="top">First</th>
+			<th class="sub" id="top">Second</th>
+			<th class="sub" id="top">Third</th>
+		</tr>
+		<tr>
+			<th class="sub" rowspan="4">Active</th>
+			<th class="sub">Present</th>
+			<td>canam</td>
+			<td>canās</td>
+			<td>canat</td>
+			<td>canāmus</td>
+			<td>canātis</td>
+			<td>canant</td>
+		</tr>
+		<tr>
+			<th class="sub">Imperfect</th>
+			<td>canerem</td>
+			<td>canerēs</td>
+			<td>caneret</td>
+			<td>canerēmus</td>
+			<td>canerētis</td>
+			<td>canerent</td>
+		</tr>
+		<tr>
+			<th class="sub">Perfect</th>
+			<td>cecinerim</td>
+			<td>cecinerīs</td>
+			<td>cecinerit</td>
+			<td>cecinerīmus</td>
+			<td>cecinerītis</td>
+			<td>cecinerint</td>
+		</tr>
+		<tr>
+			<th class="sub">Pluperfect</th>
+			<td>cecinissem</td>
+			<td>cecinissēs</td>
+			<td>cecinisset</td>
+			<td>cecinissēmus</td>
+			<td>cecinissētis</td>
+			<td>cecinissent</td>
+		</tr>
+<<<<<<< HEAD
+=======
+	</table>
+</d:entry>
+<d:entry id="hominibus"	d:title="hominibus">
+	<d:index d:value="hominibus" d:title="hominibus"/>
+	<span class="title">hominibus </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| hɔˈmɪ.nɪ.bʊs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>dative plural of <b>homō</b></li>
+		<li>ablative plural of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+>>>>>>> origin/dev
+		<tr>
+			<th class="sub" rowspan="4">Passive</th>
+			<th class="sub">Present</th>
+			<td>canar</td>
+			<td>canāris (canāre)</td>
+			<td>canātur</td>
+			<td>canāmur</td>
+			<td>canāminī</td>
+			<td>canantur</td>
+		</tr>
+		<tr>
+			<th class="sub">Imperfect</th>
+			<td>canerer</td>
+			<td>canerēris (canerēre)</td>
+			<td>canerētur</td>
+			<td>canerēmur</td>
+			<td>canerēminī</td>
+			<td>canerentur</td>
+		</tr>
+		<tr>
+			<th class="sub">Perfect</th>
+			<td>cantus sim</td>
+			<td>cantus sīs</td>
+			<td>cantus sit</td>
+			<td>cantī sīmus</td>
+			<td>cantī sītis</td>
+			<td>cantī sint</td>
+		</tr>
+		<tr>
+			<th class="sub">Pluperfect</th>
+			<td>cantus essem</td>
+			<td>cantus essēs</td>
+			<td>cantus esset</td>
+			<td>cantī essēmus</td>
+			<td>cantī essētis</td>
+			<td>cantī essent</td>
+		</tr>
+		<tr>
+			<th class="imp" id="top" colspan="2" rowspan="2">Imperative</th>
+			<th class="imp" id="top" colspan="3">Singular</th>
+			<th class="imp" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="imp" id="top">First</th>
+			<th class="imp" id="top">Second</th>
+			<th class="imp" id="top">Third</th>
+			<th class="imp" id="top">First</th>
+			<th class="imp" id="top">Second</th>
+			<th class="imp" id="top">Third</th>
+		</tr>
+		<tr>
+			<th class="imp" rowspan="2">Active</th>
+			<th class="imp">Present</th>
+			<td>—</td>
+			<td>cane</td>
+			<td>—</td>
+			<td>—</td>
+			<td>canite</td>
+			<td>—</td>
+		</tr>
+<<<<<<< HEAD
+=======
+	</table>
+</d:entry>
+<d:entry id="hominis"	d:title="hominis">
+	<d:index d:value="hominis" d:title="hominis"/>
+	<span class="title">hominis </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈhɔ.mɪ.nɪs |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive singular of <b>homō</b></li>
+	</ol>
+	<br />
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+>>>>>>> origin/dev
+		<tr>
+			<th class="imp">Future</th>
+			<td>—</td>
+			<td>canitō</td>
+			<td>canitō</td>
+			<td>—</td>
+			<td>canitōte</td>
+			<td>canuntō</td>
+		</tr>
+		<tr>
+			<th class="imp" rowspan="2">Passive</th>
+			<th class="imp">Present</th>
+			<td>—</td>
+			<td>canere</td>
+			<td>—</td>
+			<td>—</td>
+			<td>caniminī</td>
+			<td>—</td>
+		</tr>
+		<tr>
+			<th class="imp">Future</th>
+			<td>—</td>
+			<td>canitor</td>
+			<td>canitor</td>
+			<td>—</td>
+			<td>—</td>
+			<td>canuntor</td>
+		</tr>
+		<tr>
+			<th class="inf" id="top" colspan="2" rowspan="2">Non-finite</th>
+			<th class="inf" id="top" colspan="3">Active</th>
+			<th class="inf" id="top" colspan="3">Passive</th>
+		</tr>
+		<tr>
+			<th class="inf" id="top">Present</th>
+			<th class="inf" id="top">Perfect</th>
+			<th class="inf" id="top">Future</th>
+			<th class="inf" id="top">Present</th>
+			<th class="inf" id="top">Perfect</th>
+			<th class="inf" id="top">Future</th>
+		</tr>
+		<tr>
+			<th class="inf" colspan="2">Inifintive</th>
+			<td>canere</td>
+			<td>cecinisse</td>
+			<td>cantūrus esse</td>
+			<td>canī</td>
+			<td>cantus esse</td>
+			<td>cantum īrī</td>
+		</tr>
+		<tr>
+			<th class="inf" colspan="2">Participle</th>
+			<td>canēns</td>
+			<td>—</td>
+			<td>cantūrus</td>
+			<td>—</td>
+			<td>cantus</td>
+			<td>canendus</td>
+		</tr>
+	</table>
 	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
 
 <!-- D -->
 
@@ -768,6 +2238,20 @@
 	<d:index d:value="hominvm"		d:title="hominum"/> <!-- Capital -->
 	<d:index d:value="hominibus"	d:title="hominibus"/>
 	<d:index d:value="hominibvs"	d:title="hominibus"/> <!-- Capital -->
+=======
+<d:entry id="hominum"	d:title="hominum">
+	<d:index d:value="hominum" d:title="hominum"/>
+	<span class="title">hominum </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.mɪ.nũ |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɪ.nʊm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>genitive plural of <b>homō</b></li>
+	</ol>
+	<br />
+>>>>>>> origin/dev
 	<span class="title">homō </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
@@ -821,6 +2305,58 @@
 	</table>
 	<br d:priority="2" />
 </d:entry>
+<d:entry id="homō"		d:title="homō">
+	<d:index d:value="homō" d:title="homō"/>
+	<span class="title">homō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɔ |</span>
+	</span>
+	<br />
+	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<ol>
+		<li>a man (<i>not an animal</i>)</li>
+		<li>a human being</li>
+		<li>a person</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind"></th>
+			<th class="ind" id="top">Singular</th>
+			<th class="ind" id="top">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>hominis</td>
+			<td>hominum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>hominī</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>hominem</td>
+			<td>hominēs</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>homine</td>
+			<td>hominibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>homō</td>
+			<td>hominēs</td>
+		</tr>
+	</table>
+</d:entry>
 
 <!-- I -->
 
@@ -837,6 +2373,7 @@
 <!-- P -->
 
 <!-- Q -->
+<<<<<<< HEAD
 <d:entry id="quī"		d:title="quī">
 	<d:index d:value="quī"		d:title="quī"/>
 	<d:index d:value="qvī"		d:title="quī"/> <!-- Capital -->
@@ -867,6 +2404,200 @@
 	<d:index d:value="quās"		d:title="quās"/>
 	<d:index d:value="qvās"		d:title="quās"/> <!-- Capital -->
 	<span class="title">quī </span>
+=======
+<d:entry id="quem"		d:title="quem">
+	<d:index d:value="quem" d:title="quem"/>
+	<d:index d:value="qvem" d:title="quem"/>
+	<span class="title">quem </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɛ̃ |</span>
+		<span d:pr="VA_IPA">| kwɛm |</span>
+	</span>
+	<br />
+	<ol>
+		<li>masculine and feminine accustaive singular of <b>quis</b></li>
+	</ol>
+	<br />
+	<span class="title">quis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
+	</span>
+	<br />
+	<p>interrogative pronoun</p>
+	<ol>
+		<li>who?</li>
+		<li>what?</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" rowspan="2"></th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>quōrum</td>
+			<td>quārum</td>
+			<td>quōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>cui</td>
+			<td>cui</td>
+			<td>cui</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>quem</td>
+			<td>quem</td>
+			<td>quid</td>
+			<td>quōs</td>
+			<td>quās</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="quid"		d:title="quid">
+	<d:index d:value="quid" d:title="quid"/>
+	<d:index d:value="qvid" d:title="quid"/>
+	<span class="title">quid </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪd |</span>
+		<span d:pr="VA_IPA">| kwɪd |</span>
+	</span>
+	<br />
+	<ol>
+		<li>neuter nominative and accusative singular of <b>quis</b></li>
+	</ol>
+	<br />
+	<span class="title">quis </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɪs |</span>
+		<span d:pr="VA_IPA">| kwɪs |</span>
+	</span>
+	<br />
+	<p>interrogative pronoun</p>
+	<ol>
+		<li>who?</li>
+		<li>what?</li>
+	</ol>
+	<table d:priority="2">
+		<tr>
+			<th class="ind" id="top" rowspan="2"></th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
+		</tr>
+		<tr>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+			<th class="ind" id="top">Masculine</th>
+			<th class="ind" id="top">Feminine</th>
+			<th class="ind" id="top">Neuter</th>
+		</tr>
+		<tr>
+			<th class="ind">Nom</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Gen</th>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>cuius</td>
+			<td>quōrum</td>
+			<td>quārum</td>
+			<td>quōrum</td>
+		</tr>
+		<tr>
+			<th class="ind">Dat</th>
+			<td>cui</td>
+			<td>cui</td>
+			<td>cui</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Acc</th>
+			<td>quem</td>
+			<td>quem</td>
+			<td>quid</td>
+			<td>quōs</td>
+			<td>quās</td>
+			<td>quae</td>
+		</tr>
+		<tr>
+			<th class="ind">Abl</th>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quō</td>
+			<td>quibus</td>
+			<td>quibus</td>
+			<td>quibus</td>
+		</tr>
+		<tr>
+			<th class="ind">Voc</th>
+			<td>quis</td>
+			<td>quis</td>
+			<td>quid</td>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quae</td>
+		</tr>
+	</table>
+</d:entry>
+<d:entry id="quis"		d:title="quis">
+	<d:index d:value="quis" d:title="quis"/>
+	<d:index d:value="qvis" d:title="quis"/>
+	<span class="title">quis </span>
+>>>>>>> origin/dev
 	<span class="syntax">
 		<span d:pr="SP_IPA">| kʷiː |</span>
 		<span d:pr="VA_IPA">| kwi |</span>
@@ -952,6 +2683,7 @@
 	</table>
 	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
 <d:entry id="quis"		d:title="quis">
 	<d:index d:value="quis"		d:title="quis"/>
 	<d:index d:value="qvis"		d:title="quis"/> <!-- Capital -->
@@ -981,6 +2713,21 @@
 	<d:index d:value="qvārvm"	d:title="quārum"/> <!-- Capital -->
 	<d:index d:value="quās"		d:title="quās"/>
 	<d:index d:value="qvās"		d:title="quās"/> <!-- Capital -->
+=======
+<d:entry id="quō"		d:title="quō">
+	<d:index d:value="quō" d:title="quō"/>
+	<d:index d:value="qvō" d:title="quō"/>
+	<span class="title">quō </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷoː |</span>
+		<span d:pr="VA_IPA">| kwo |</span>
+	</span>
+	<br />
+	<ol>
+		<li>ablative singular of <b>quis</b></li>
+	</ol>
+	<br />
+>>>>>>> origin/dev
 	<span class="title">quis </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| kʷɪs |</span>
