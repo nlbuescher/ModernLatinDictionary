@@ -4,12 +4,16 @@
 
 <!-- A -->
 <d:entry id="arma"		d:title="arma">
-	<d:index d:value="arma" d:title="arma"/>
+	<d:index d:value="arma"		d:title="arma"/>
+	<d:index d:value="armōrum"	d:title="armōrum"/>
+	<d:index d:value="armōrvm"	d:title="armōrum"/> <!-- Capital -->
+	<d:index d:value="armīs"	d:title="armīs"/>
 	<span class="title">arma </span>
 	<span class="syntax">
 		<span d:pr="LA_IPA">| ˈar.ma |</span>
 	</span>
 	<br />
+	<p id="desc">noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
 	<p>noun, neuter plural, 2<sup>nd</sup> declension (genitive: <b>armōrum</b>)</p>
 	<ol>
 		<li>arms, weapons</li>
@@ -120,12 +124,15 @@
 	<ol>
 		<li>genitive of <b>arma</b></li>
 	</ol>
+>>>>>>> origin/dev
 	<br />
-	<span class="title">arma </span>
-	<span class="syntax">
-		<span d:pr="LA_IPA">| ˈar.ma |</span>
-	</span>
+	<p><b>1</b> arms, weapons</p>
+	<p><b>2</b> tools or implements of war</p>
+	<p><b>3</b> armor or equipment</p>
+	<p><b>4</b> (<i>figuratively</i>) means of protection or defense</p>
 	<br />
+<<<<<<< HEAD
+=======
 	<p>noun, neuter plural, 2<sup>nd</sup> declension</p>
 	<ol>
 		<li>arms, weapons</li>
@@ -133,6 +140,7 @@
 		<li>armor or equipment</li>
 		<li>(<i>figuratively</i>) means of protection or defense</li>
 	</ol>
+>>>>>>> origin/dev
 	<p>DECLENSION only has plural forms</p>
 	<br />
 	<table d:priority="2">
@@ -141,33 +149,45 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>arma</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>armōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>armīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>arma</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>armīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>arma</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 
 <!-- B -->
+<<<<<<< HEAD
+<d:entry id="bellum"	d:title="bellum">
+	<d:index d:value="bellum"	d:title="bellum"/>
+	<d:index d:value="bellvm"	d:title="bellum"/> <!-- Capital -->
+	<d:index d:value="bellī"	d:title="bellī"/>
+	<d:index d:value="bellō"	d:title="bellō"/>
+	<d:index d:value="bella"	d:title="bella"/>
+	<d:index d:value="bellōrum"	d:title="bellōrum"/>
+	<d:index d:value="bellōrvm"	d:title="bellōrum"/> <!-- Capital -->
+	<d:index d:value="bellīs"	d:title="bellīs"/>
+=======
 <d:entry id="bella"		d:title="bella">
 	<d:index d:value="bella" d:title="bella"/>
 	<span class="title">bella </span>
@@ -181,17 +201,20 @@
 		<li>vocative plural of <b>bellum</b></li>
 	</ol>
 	<br />
+>>>>>>> origin/dev
 	<span class="title">bellum </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
 		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
 	</span>
 	<br />
-	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
-	<ol>
-		<li>war</li>
-		<li>(<i>locative</i>) at war</li>
-	</ol>
+	<p id="desc">noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
+	<br />
+	<p><b>1</b> war</p>
+	<p><b>2</b> (<i>locative</i>) at war</p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind"></th>
@@ -199,66 +222,69 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>bellum</td>
 			<td>bella</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>bellī</td>
 			<td>bellōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>bellō</td>
 			<td>bellīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>bellum</td>
 			<td>bella</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>bellō</td>
 			<td>bellīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>bellum</td>
 			<td>bella</td>
 		</tr>
 		<tr>
-			<th class="sub">Loc</th>
+			<th class="sub">Locative</th>
 			<td>bellī</td>
 			<td>—</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
-<d:entry id="bellī"		d:title="bellī">
-	<d:index d:value="bellī" d:title="bellī"/>
-	<span class="title">bellī </span>
+
+<!-- C -->
+<d:entry id="caffeum"	d:title="caffeum">
+	<d:index d:value="caffeum"		d:title="caffeum"/>
+	<d:index d:value="caffevm"		d:title="caffeum"/>		<!-- Capital V form -->
+	<d:index d:value="caffeī"		d:title="caffeī"/>
+	<d:index d:value="caffeō"		d:title="caffeō"/>
+	<d:index d:value="caffea"		d:title="caffea"/>
+	<d:index d:value="caffeōrum"	d:title="caffeōrum"/>
+	<d:index d:value="caffeōrvm"	d:title="caffeōrum"/>	<!-- Capital V form -->
+	<d:index d:value="caffeīs"		d:title="caffeīs"/>
+	<span class="title">caffeum </span>
 	<span class="syntax">
-		<span d:pr="SP_IPA">| ˈbɛl.liː |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.li |</span>
+		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
 	</span>
 	<br />
-	<ol>
-		<li>genitive singular of <b>bellum</b></li>
-		<li>locative singular of <b>bellum</b></li>
-	</ol>
+	<p id="desc">noun, neuter, 2<sup>nd</sup> declension (genitive: <b>caffeī</b>)</p>
 	<br />
-	<span class="title">bellum </span>
-	<span class="syntax">
-		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
-	</span>
+	<p><b>1</b> coffee</p>
+	<p class="sub">• (<i>by extension</i>) any type of coffee<span d:priority="2"> : <i>caffeum Colombiae</i> – Colombian coffee</span></p>
 	<br />
-	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
-	<ol>
-		<li>war</li>
-		<li>(<i>locative</i>) at war</li>
-	</ol>
+	<p>ORIGIN Italian, from <i>caffè <b>'coffee'</b></i></p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind"></th>
@@ -266,42 +292,293 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Nominative</th>
+			<td>caffeum</td>
+			<td>caffea</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>bellī</td>
-			<td>bellōrum</td>
+			<th class="ind">Genitive</th>
+			<td>caffeī</td>
+			<td>caffeōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>bellō</td>
-			<td>bellīs</td>
+			<th class="ind">Dative</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Accusative</th>
+			<td>caffeum</td>
+			<td>caffea</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
-			<td>bellō</td>
-			<td>bellīs</td>
+			<th class="ind">Ablative</th>
+			<td>caffeō</td>
+			<td>caffeīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>bellum</td>
-			<td>bella</td>
-		</tr>
-		<tr>
-			<th class="sub">Loc</th>
-			<td>bellī</td>
-			<td>—</td>
+			<th class="ind">Vocative</th>
+			<td>caffeum</td>
+			<td>caffea</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
+<d:entry id="canere"	d:title="canere">
+	<!-- Present Indicative Active -->
+	<d:index d:value="canō"				d:title="canō"/>
+	<d:index d:value="canis"			d:title="canis"/>
+	<d:index d:value="canit"			d:title="canit"/>
+	<d:index d:value="canimus"			d:title="canimus"/>
+	<d:index d:value="canimvs"			d:title="canimus"/> <!-- Capital -->
+	<d:index d:value="canitis"			d:title="canitis"/>
+	<d:index d:value="canunt"			d:title="canunt"/>
+	
+	<!-- Imperfect Indicative Active -->
+	<d:index d:value="canēbam"			d:title="canēbam"/>
+	<d:index d:value="canēbās"			d:title="canēbās"/>
+	<d:index d:value="canēbat"			d:title="canēbat"/>
+	<d:index d:value="canēbāmus"		d:title="canēbāmus"/>
+	<d:index d:value="canēbāmvs"		d:title="canēbāmus"/> <!-- Capital -->
+	<d:index d:value="canēbātis"		d:title="canēbātis"/>
+	<d:index d:value="canēbant"			d:title="canēbant"/>
+	
+	<!-- Future Indicative Active -->
+	<d:index d:value="canam"			d:title="canam"/>
+	<d:index d:value="canēs"			d:title="canēs"/>
+	<d:index d:value="canet"			d:title="canet"/>
+	<d:index d:value="canēmus"			d:title="canēmus"/>
+	<d:index d:value="canēmvs"			d:title="canēmus"/> <!-- Capital -->
+	<d:index d:value="canētis"			d:title="canētis"/>
+	<d:index d:value="canent"			d:title="canent"/>
+	
+	<!-- Perfect Indicative Active -->
+	<d:index d:value="cecinī"			d:title="cecinī"/>
+	<d:index d:value="cecinistī"		d:title="cecinistī"/>
+	<d:index d:value="cecinit"			d:title="cecinit"/>
+	<d:index d:value="cecinimus"		d:title="cecinimus"/>
+	<d:index d:value="cecinimvs"		d:title="cecinimus"/> <!-- Capital -->
+	<d:index d:value="cecinistis"		d:title="cecinistis"/>
+	<d:index d:value="cecinērunt"		d:title="cecinērunt"/>
+	<d:index d:value="cecinērvnt"		d:title="cecinērunt"/> <!-- Capital -->
+	<d:index d:value="cecinēre"			d:title="cecinēre"/> <!-- Alter. -->
+	
+	<!-- Pluperfect Indicative Active -->
+	<d:index d:value="cecineram"		d:title="cecineram"/>
+	<d:index d:value="cecinerās"		d:title="cecinerās"/>
+	<d:index d:value="cecinerat"		d:title="cecinerat"/>
+	<d:index d:value="cecinerāmus"		d:title="cecinerāmus"/>
+	<d:index d:value="cecinerāmvs"		d:title="cecinerāmus"/> <!-- Capital -->
+	<d:index d:value="cecinerātis"		d:title="cecinerātis"/>
+	<d:index d:value="cecinerant"		d:title="cecinerant"/>
+	
+	<!-- Future Perfect Indicative Active -->
+	<d:index d:value="cecinerim"		d:title="cecinerim"/>
+	<d:index d:value="cecinerīs"		d:title="cecinerīs"/>
+	<d:index d:value="cecinerit"		d:title="cecinerit"/>
+	<d:index d:value="cecinerimus"		d:title="cecinerimus"/>
+	<d:index d:value="cecinerimvs"		d:title="cecinerimus"/> <!-- Capital -->
+	<d:index d:value="cecineritis"		d:title="cecineritis"/>
+	<d:index d:value="cecinerint"		d:title="cecinerint"/>
+	
+	<!-- Present Indicative Passive -->
+	<d:index d:value="canor"			d:title="canor"/>
+	<d:index d:value="caneris"			d:title="caneris"/>
+	<d:index d:value="canere"			d:title="canere"/> <!-- Alter. -->
+	<d:index d:value="canitur"			d:title="canitur"/>
+	<d:index d:value="canitvr"			d:title="canitur"/> <!-- Capital -->
+	<d:index d:value="canimur"			d:title="canimur"/>
+	<d:index d:value="canimvr"			d:title="canimur"/> <!-- Capital -->
+	<d:index d:value="caniminī"			d:title="caniminī"/>
+	<d:index d:value="canuntur"			d:title="canuntur"/>
+	<d:index d:value="canuntvr"			d:title="canuntur"/> <!-- Capital -->
+	
+	<!-- Imperfect Indicative Passive -->
+	<d:index d:value="canēbar"			d:title="canēbar"/>
+	<d:index d:value="canēbāris"		d:title="canēbāris"/>
+	<d:index d:value="canēbāre"			d:title="canēbāre"/> <!-- Alter. -->
+	<d:index d:value="canēbātur"		d:title="canēbātur"/>
+	<d:index d:value="canēbātvr"		d:title="canēbātur"/> <!-- Capital -->
+	<d:index d:value="canēbāmur"		d:title="canēbāmur"/>
+	<d:index d:value="canēbāmvr"		d:title="canēbāmur"/> <!-- Capital -->
+	<d:index d:value="canēbāminī"		d:title="canēbāminī"/>
+	<d:index d:value="canēbantur"		d:title="canēbantur"/>
+	<d:index d:value="canēbantvr"		d:title="canēbantur"/> <!-- Capital -->
+	
+	<!-- Future Indicative Passive -->
+	<d:index d:value="canar"			d:title="canar"/>
+	<d:index d:value="canēris"			d:title="canēris"/>
+	<d:index d:value="canēre"			d:title="canēre"/> <!-- Alter. -->
+	<d:index d:value="canētur"			d:title="canētur"/>
+	<d:index d:value="canētvr"			d:title="canētur"/> <!-- Capital -->
+	<d:index d:value="canēmur"			d:title="canēmur"/>
+	<d:index d:value="canēmvr"			d:title="canēmur"/> <!-- Capital -->
+	<d:index d:value="canēminī"			d:title="canēminī"/>
+	<d:index d:value="canentur"			d:title="canentur"/>
+	<d:index d:value="canentvr"			d:title="canentur"/> <!-- Capital -->
+	
+	<!-- Perfect Indicative Passive -->
+	<d:index d:value="cantus sum"		d:title="cantus sum"/>
+	<d:index d:value="cantvs svm"		d:title="cantus sum"/> <!-- Capital -->
+	<d:index d:value="cantus es"		d:title="cantus es"/>
+	<d:index d:value="cantvs es"		d:title="cantus es"/> <!-- Capital -->
+	<d:index d:value="cantus est"		d:title="cantus est"/>
+	<d:index d:value="cantvs est"		d:title="cantus est"/> <!-- Capital -->
+	<d:index d:value="cantī sumus"		d:title="cantī sumus"/>
+	<d:index d:value="cantī svmvs"		d:title="cantī sumus"/> <!-- Capital -->
+	<d:index d:value="cantī estis"		d:title="cantī estis"/>
+	<d:index d:value="cantī sunt"		d:title="cantī sunt"/>
+	<d:index d:value="cantī svnt"		d:title="cantī sunt"/> <!-- Capital -->
+	
+	<!-- Pluperfect Indicative Passive -->
+	<d:index d:value="cantus eram"		d:title="cantus eram"/>
+	<d:index d:value="cantvs eram"		d:title="cantus eram"/> <!-- Capital -->
+	<d:index d:value="cantus erās"		d:title="cantus erās"/>
+	<d:index d:value="cantvs erās"		d:title="cantus erās"/> <!-- Capital -->
+	<d:index d:value="cantus erat"		d:title="cantus erat"/>
+	<d:index d:value="cantvs erat"		d:title="cantus erat"/> <!-- Capital -->
+	<d:index d:value="cantī erāmus"		d:title="cantī erāmus"/>
+	<d:index d:value="cantī erāmvs"		d:title="cantī erāmus"/> <!-- Capital -->
+	<d:index d:value="cantī erātis"		d:title="cantī erātis"/>
+	<d:index d:value="cantī erant"		d:title="cantī erant"/>
+	
+	<!-- Future Perfect Indicative Passive -->
+	<d:index d:value="cantus erō"		d:title="cantus erō"/>
+	<d:index d:value="cantvs erō"		d:title="cantus erō"/> <!-- Capital -->
+	<d:index d:value="cantus eris"		d:title="cantus eris"/>
+	<d:index d:value="cantvs eris"		d:title="cantus eris"/> <!-- Capital -->
+	<d:index d:value="cantus erit"		d:title="cantus erit"/>
+	<d:index d:value="cantvs erit"		d:title="cantus erit"/> <!-- Capital -->
+	<d:index d:value="cantī erimus"		d:title="cantī erimus"/>
+	<d:index d:value="cantī erimvs"		d:title="cantī erimus"/> <!-- Capital -->
+	<d:index d:value="cantī eritis"		d:title="cantī eritis"/>
+	<d:index d:value="cantī erunt"		d:title="cantī erunt"/>
+	<d:index d:value="cantī ervnt"		d:title="cantī erunt"/> <!-- Capital -->
+	
+	<!-- Present Subjunctive Active -->
+	<d:index d:value="canās"			d:title="canās"/>
+	<d:index d:value="canat"			d:title="canat"/>
+	<d:index d:value="canāmus"			d:title="canāmus"/>
+	<d:index d:value="canāmvs"			d:title="canāmus"/> <!-- Capital -->
+	<d:index d:value="canātis"			d:title="canātis"/>
+	<d:index d:value="canant"			d:title="canant"/>
+	
+	<!-- Imperfect Subjunctive Active -->
+	<d:index d:value="canerem"			d:title="canerem"/>
+	<d:index d:value="canerēs"			d:title="canerēs"/>
+	<d:index d:value="caneret"			d:title="caneret"/>
+	<d:index d:value="canerēmus"		d:title="canerēmus"/>
+	<d:index d:value="canerēmvs"		d:title="canerēmus"/> <!-- Capital -->
+	<d:index d:value="canerētis"		d:title="canerētis"/>
+	<d:index d:value="canerent"			d:title="canerent"/>
+	
+	<!-- Perfect Subjunctive Active -->
+	<d:index d:value="cecinerim"		d:title="cecinerim"/>
+	<d:index d:value="cecinerīs"		d:title="cecinerīs"/>
+	<d:index d:value="cecinerit"		d:title="cecinerit"/>
+	<d:index d:value="cecinerīmus"		d:title="cecinerīmus"/>
+	<d:index d:value="cecinerīmvs"		d:title="cecinerīmus"/> <!-- Capital -->
+	<d:index d:value="cecinerītis"		d:title="cecinerītis"/>
+	<d:index d:value="cecinerint"		d:title="cecinerint"/>
+	
+	<!-- Pluperfect Subjunctive Active -->
+	<d:index d:value="cecinissem"		d:title="cecinissem"/>
+	<d:index d:value="cecinissēs"		d:title="cecinissēs"/>
+	<d:index d:value="cecinisset"		d:title="cecinisset"/>
+	<d:index d:value="cecinissēmus"		d:title="cecinissēmus"/>
+	<d:index d:value="cecinissēmvs"		d:title="cecinissēmus"/> <!-- Capital -->
+	<d:index d:value="cecinissētis"		d:title="cecinissētis"/>
+	<d:index d:value="cecinissent"		d:title="cecinissent"/>
+	
+	<!-- Present Subjunctive Passive -->
+	<d:index d:value="canāris"			d:title="canāris"/>
+	<d:index d:value="canāre"			d:title="canāre"/> <!-- Alter. -->
+	<d:index d:value="canātur"			d:title="canātur"/>
+	<d:index d:value="canātvr"			d:title="canātur"/> <!-- Capital -->
+	<d:index d:value="canāmur"			d:title="canāmur"/>
+	<d:index d:value="canāmvr"			d:title="canāmur"/> <!-- Capital -->
+	<d:index d:value="canāminī"			d:title="canāminī"/>
+	<d:index d:value="canantur"			d:title="canantur"/>
+	<d:index d:value="canantvr"			d:title="canantur"/> <!-- Capital -->
+	
+	<!-- Imperfect Subjunctive Passive -->
+	<d:index d:value="canerer"			d:title="canerer"/>
+	<d:index d:value="canerēris"		d:title="canerēris"/>
+	<d:index d:value="canerēre"			d:title="canerēre"/> <!-- Alter. -->
+	<d:index d:value="canerētur"		d:title="canerētur"/>
+	<d:index d:value="canerētvr"		d:title="canerētur"/> <!-- Capital -->
+	<d:index d:value="canerēmur"		d:title="canerēmur"/>
+	<d:index d:value="canerēmvr"		d:title="canerēmur"/> <!-- Capital -->
+	<d:index d:value="canerēminī"		d:title="canerēminī"/>
+	<d:index d:value="canerentur"		d:title="canerentur"/>
+	<d:index d:value="canerentvr"		d:title="canerentur"/> <!-- Capital -->
+	
+	<!-- Perfect Subjunctive Passive -->
+	<d:index d:value="cantus sim"		d:title="cantus sim"/>
+	<d:index d:value="cantvs sim"		d:title="cantus sim"/> <!-- Capital -->
+	<d:index d:value="cantus sīs"		d:title="cantus sīs"/>
+	<d:index d:value="cantvs sīs"		d:title="cantus sīs"/> <!-- Capital -->
+	<d:index d:value="cantus sit"		d:title="cantus sit"/>
+	<d:index d:value="cantvs sit"		d:title="cantus sit"/> <!-- Capital -->
+	<d:index d:value="cantī sīmus"		d:title="cantī sīmus"/>
+	<d:index d:value="cantī sīmvs"		d:title="cantī sīmus"/> <!-- Capital -->
+	<d:index d:value="cantī sītis"		d:title="cantī sītis"/>
+	<d:index d:value="cantī sint"		d:title="cantī sint"/>
+	
+	<!-- Pluperfect subjunctive Passive -->
+	<d:index d:value="cantus essem"		d:title="cantus essem"/>
+	<d:index d:value="cantvs essem"		d:title="cantus essem"/> <!-- Capital -->
+	<d:index d:value="cantus essēs"		d:title="cantus essēs"/>
+	<d:index d:value="cantvs essēs"		d:title="cantus essēs"/> <!-- Capital -->
+	<d:index d:value="cantus esset"		d:title="cantus esset"/>
+	<d:index d:value="cantvs esset"		d:title="cantus esset"/> <!-- Capital -->
+	<d:index d:value="cantī essēmus"	d:title="cantī essēmus"/>
+	<d:index d:value="cantī essēmvs"	d:title="cantī essēmus"/> <!-- Capital -->
+	<d:index d:value="cantī essētis"	d:title="cantī essētis"/>
+	<d:index d:value="cantī essent"		d:title="cantī essent"/>
+	
+	<!-- Present Imperative Active -->
+	<d:index d:value="cane"				d:title="cane"/>
+	<d:index d:value="canite"			d:title="canite"/>
+	
+	<!-- Future Imperative Active -->
+	<d:index d:value="canitō"			d:title="canitō"/>
+	<d:index d:value="canitōte"			d:title="canitōte"/>
+	<d:index d:value="canuntō"			d:title="canuntō"/>
+	<d:index d:value="canvntō"			d:title="canuntō"/> <!-- Capital -->
+	
+	<!-- Future Imperative Passive -->
+	<d:index d:value="canitor"			d:title="canitor"/>
+	<d:index d:value="canuntor"			d:title="canuntor"/>
+	<d:index d:value="canvntor"			d:title="canuntor"/> <!-- Capital -->
+	
+	<!-- Infinitives -->
+	<d:index d:value="cecinisse"		d:title="cecinisse"/>
+	<d:index d:value="cantūrus esse"	d:title="cantūrus esse"/>
+	<d:index d:value="cantv̄rvs esse"	d:title="cantūrus esse"/> <!-- Capital -->
+	<d:index d:value="canī"				d:title="canī"/>
+	<d:index d:value="cantus esse"		d:title="cantus esse"/>
+	<d:index d:value="cantvs esse"		d:title="cantus esse"/> <!-- Capital -->
+	<d:index d:value="cantum īrī"		d:title="cantum īrī"/>
+	<d:index d:value="cantvm īrī"		d:title="cantum īrī"/> <!-- Capital -->
+	
+	<!-- Participles -->
+	<d:index d:value="canēns"			d:title="canēns"/>
+	<d:index d:value="cantūrus"			d:title="cantūrus"/>
+	<d:index d:value="cantv̄rvs"			d:title="cantūrus"/> <!-- Capital -->
+	<d:index d:value="cantus"			d:title="cantus"/>
+	<d:index d:value="cantvs"			d:title="cantus"/> <!-- Capital -->
+	<d:index d:value="canendus"			d:title="canendus"/>
+	<d:index d:value="canendvs"			d:title="canendus"/> <!-- Capital -->
+	
+	<span class="title">canere </span>
+	<span class="syntax">
+		<span d:pr="LA_IPA">| ˈka.nɛ.rɛ |</span>
+	</span>
+	<br />
+	<p id="desc">verb, 3<sup>rd</sup> conjugation (perfect infinitive: <b>cecinisse</b>; supine: <b>cantum</b>)</p>
+=======
 <d:entry id="bellīs"	d:title="bellīs">
 	<d:index d:value="bellīs" d:title="bellīs"/>
 	<d:index d:value="bellōrvm" d:title="bellōrum"/>
@@ -315,59 +592,62 @@
 		<li>dative plural of <b>bellum</b></li>
 		<li>ablative plural of <b>bellum</b></li>
 	</ol>
+>>>>>>> origin/dev
 	<br />
-	<span class="title">bellum </span>
-	<span class="syntax">
-		<span d:pr="SP_IPA">| ˈbɛl.lũ |</span>
-		<span d:pr="VA_IPA">| ˈbɛl.lʊm |</span>
-	</span>
+	<p><i>transitive</i></p>
+	<p class="sub"><b>1</b> to sing, sing of<span d:priority="2"> : "<i>Arma virumque cano</i>" – Arms and a man I sing</span></p>
+	<p class="sub"><b>2</b> (<i>in war</i>) to sound (the signal)<span d:priority="2"> : <i>signum (receptui) canere</i> – to sound the signal (for retreat)</span></p>
 	<br />
-	<p>noun, neuter, 2<sup>nd</sup> declension (genitive: <b>bellī</b>)</p>
-	<ol>
-		<li>war</li>
-		<li>(<i>locative</i>) at war</li>
-	</ol>
+	<p><i>intransitive</i></p>
+	<p class="sub"><b>1</b> to sing</p>
+	<p class="sub"><b>2</b> (<i>with abl.</i>) to play (an instrument)<span d:priority="2"> : <i>tibia canere</i> – to play the flute</span>.</p>
+	<br />
+	<p d:priority="2">CONJUGATION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singular</th>
-			<th class="ind" id="top">Plural</th>
+			<th class="ind" id="top" colspan="2" rowspan="2">Indicative</th>
+			<th class="ind" id="top" colspan="3">Singular</th>
+			<th class="ind" id="top" colspan="3">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind" id="top">First</th>
+			<th class="ind" id="top">Second</th>
+			<th class="ind" id="top">Third</th>
+			<th class="ind" id="top">First</th>
+			<th class="ind" id="top">Second</th>
+			<th class="ind" id="top">Third</th>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>bellī</td>
-			<td>bellōrum</td>
+			<th class="ind" rowspan="6">Active</th>
+			<th class="ind">Present</th>
+			<td>canō</td>
+			<td>canis</td>
+			<td>canit</td>
+			<td>canimus</td>
+			<td>canitis</td>
+			<td>canunt</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>bellō</td>
-			<td>bellīs</td>
+			<th class="ind">Imperfect</th>
+			<td>canēbam</td>
+			<td>canēbās</td>
+			<td>canēbat</td>
+			<td>canēbāmus</td>
+			<td>canēbātis</td>
+			<td>canēbant</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Future</th>
+			<td>canam</td>
+			<td>canēs</td>
+			<td>canet</td>
+			<td>canēmus</td>
+			<td>canētis</td>
+			<td>canent</td>
 		</tr>
-		<tr>
-			<th class="ind">Abl</th>
-			<td>bellō</td>
-			<td>bellīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Voc</th>
-			<td>bellum</td>
-			<td>bella</td>
-		</tr>
-		<tr>
-			<th class="sub">Loc</th>
-			<td>bellī</td>
-			<td>—</td>
-		</tr>
+<<<<<<< HEAD
+=======
 	</table>
 </d:entry>
 <d:entry id="bellō"		d:title="bellō">
@@ -395,42 +675,74 @@
 		<li>(<i>locative</i>) at war</li>
 	</ol>
 	<table d:priority="2">
+>>>>>>> origin/dev
 		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singular</th>
-			<th class="ind" id="top">Plural</th>
+			<th class="ind">Perfect</th>
+			<td>cecinī</td>
+			<td>cecinistī</td>
+			<td>cecinit</td>
+			<td>cecinimus</td>
+			<td>cecinistis</td>
+			<td>cecinērunt (cecinēre)</td>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Pluperfect</th>
+			<td>cecineram</td>
+			<td>cecinerās</td>
+			<td>cecinerat</td>
+			<td>cecinerāmus</td>
+			<td>cecinerātis</td>
+			<td>cecinerant</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>bellī</td>
-			<td>bellōrum</td>
+			<th class="ind">Future Perfect</th>
+			<td>cecinerim</td>
+			<td>cecineris</td>
+			<td>cecinerit</td>
+			<td>cecinerimus</td>
+			<td>cecineritis</td>
+			<td>cecinerint</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>bellō</td>
-			<td>bellīs</td>
+			<th class="ind" rowspan="6">Passive</th>
+			<th class="ind">Present</th>
+			<td>canor</td>
+			<td>caneris (canere)</td>
+			<td>canitur</td>
+			<td>canimur</td>
+			<td>caniminī</td>
+			<td>canuntur</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Imperfect</th>
+			<td>canēbar</td>
+			<td>canēbāris (canēbāre)</td>
+			<td>canēbātur</td>
+			<td>canēbāmur</td>
+			<td>canēbāminī</td>
+			<td>canēbantur</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
-			<td>bellō</td>
-			<td>bellīs</td>
+			<th class="ind">Future</th>
+			<td>canar</td>
+			<td>canēris (canēre)</td>
+			<td>canētur</td>
+			<td>canēmur</td>
+			<td>canēminī</td>
+			<td>canentur</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>bellum</td>
-			<td>bella</td>
+			<th class="ind">Perfect</th>
+			<td>cantus sum</td>
+			<td>cantus es</td>
+			<td>cantus est</td>
+			<td>cantī sumus</td>
+			<td>cantī estis</td>
+			<td>cantī sunt</td>
 		</tr>
 		<tr>
+<<<<<<< HEAD
+=======
 			<th class="sub">Loc</th>
 			<td>bellī</td>
 			<td>—</td>
@@ -1064,6 +1376,7 @@
 			<td>cantī sunt</td>
 		</tr>
 		<tr>
+>>>>>>> origin/dev
 			<th class="ind">Pluperfect</th>
 			<td>cantus eram</td>
 			<td>cantus erās</td>
@@ -1072,6 +1385,8 @@
 			<td>cantī erātis</td>
 			<td>cantī erant</td>
 		</tr>
+<<<<<<< HEAD
+=======
 		<tr>
 			<th class="ind">Future Perfect</th>
 			<td>cantus erō</td>
@@ -1660,41 +1975,68 @@
 		<li>a person</li>
 	</ol>
 	<table d:priority="2">
+>>>>>>> origin/dev
 		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singular</th>
-			<th class="ind" id="top">Plural</th>
+			<th class="ind">Future Perfect</th>
+			<td>cantus erō</td>
+			<td>cantus eris</td>
+			<td>cantus erit</td>
+			<td>cantī erimus</td>
+			<td>cantī eritis</td>
+			<td>cantī erunt</td>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="sub" id="top" colspan="2" rowspan="2">Subjunctive</th>
+			<th class="sub" id="top" colspan="3">Singular</th>
+			<th class="sub" id="top" colspan="3">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>hominis</td>
-			<td>hominum</td>
+			<th class="sub" id="top">First</th>
+			<th class="sub" id="top">Second</th>
+			<th class="sub" id="top">Third</th>
+			<th class="sub" id="top">First</th>
+			<th class="sub" id="top">Second</th>
+			<th class="sub" id="top">Third</th>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>hominī</td>
-			<td>hominibus</td>
+			<th class="sub" rowspan="4">Active</th>
+			<th class="sub">Present</th>
+			<td>canam</td>
+			<td>canās</td>
+			<td>canat</td>
+			<td>canāmus</td>
+			<td>canātis</td>
+			<td>canant</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>hominem</td>
-			<td>hominēs</td>
+			<th class="sub">Imperfect</th>
+			<td>canerem</td>
+			<td>canerēs</td>
+			<td>caneret</td>
+			<td>canerēmus</td>
+			<td>canerētis</td>
+			<td>canerent</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
-			<td>homine</td>
-			<td>hominibus</td>
+			<th class="sub">Perfect</th>
+			<td>cecinerim</td>
+			<td>cecinerīs</td>
+			<td>cecinerit</td>
+			<td>cecinerīmus</td>
+			<td>cecinerītis</td>
+			<td>cecinerint</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="sub">Pluperfect</th>
+			<td>cecinissem</td>
+			<td>cecinissēs</td>
+			<td>cecinisset</td>
+			<td>cecinissēmus</td>
+			<td>cecinissētis</td>
+			<td>cecinissent</td>
 		</tr>
+<<<<<<< HEAD
+=======
 	</table>
 </d:entry>
 <d:entry id="hominibus"	d:title="hominibus">
@@ -1722,41 +2064,69 @@
 		<li>a person</li>
 	</ol>
 	<table d:priority="2">
+>>>>>>> origin/dev
 		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singular</th>
-			<th class="ind" id="top">Plural</th>
+			<th class="sub" rowspan="4">Passive</th>
+			<th class="sub">Present</th>
+			<td>canar</td>
+			<td>canāris (canāre)</td>
+			<td>canātur</td>
+			<td>canāmur</td>
+			<td>canāminī</td>
+			<td>canantur</td>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="sub">Imperfect</th>
+			<td>canerer</td>
+			<td>canerēris (canerēre)</td>
+			<td>canerētur</td>
+			<td>canerēmur</td>
+			<td>canerēminī</td>
+			<td>canerentur</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>hominis</td>
-			<td>hominum</td>
+			<th class="sub">Perfect</th>
+			<td>cantus sim</td>
+			<td>cantus sīs</td>
+			<td>cantus sit</td>
+			<td>cantī sīmus</td>
+			<td>cantī sītis</td>
+			<td>cantī sint</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>hominī</td>
-			<td>hominibus</td>
+			<th class="sub">Pluperfect</th>
+			<td>cantus essem</td>
+			<td>cantus essēs</td>
+			<td>cantus esset</td>
+			<td>cantī essēmus</td>
+			<td>cantī essētis</td>
+			<td>cantī essent</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>hominem</td>
-			<td>hominēs</td>
+			<th class="imp" id="top" colspan="2" rowspan="2">Imperative</th>
+			<th class="imp" id="top" colspan="3">Singular</th>
+			<th class="imp" id="top" colspan="3">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
-			<td>homine</td>
-			<td>hominibus</td>
+			<th class="imp" id="top">First</th>
+			<th class="imp" id="top">Second</th>
+			<th class="imp" id="top">Third</th>
+			<th class="imp" id="top">First</th>
+			<th class="imp" id="top">Second</th>
+			<th class="imp" id="top">Third</th>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="imp" rowspan="2">Active</th>
+			<th class="imp">Present</th>
+			<td>—</td>
+			<td>cane</td>
+			<td>—</td>
+			<td>—</td>
+			<td>canite</td>
+			<td>—</td>
 		</tr>
+<<<<<<< HEAD
+=======
 	</table>
 </d:entry>
 <d:entry id="hominis"	d:title="hominis">
@@ -1783,43 +2153,92 @@
 		<li>a person</li>
 	</ol>
 	<table d:priority="2">
+>>>>>>> origin/dev
 		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singular</th>
-			<th class="ind" id="top">Plural</th>
+			<th class="imp">Future</th>
+			<td>—</td>
+			<td>canitō</td>
+			<td>canitō</td>
+			<td>—</td>
+			<td>canitōte</td>
+			<td>canuntō</td>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="imp" rowspan="2">Passive</th>
+			<th class="imp">Present</th>
+			<td>—</td>
+			<td>canere</td>
+			<td>—</td>
+			<td>—</td>
+			<td>caniminī</td>
+			<td>—</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
-			<td>hominis</td>
-			<td>hominum</td>
+			<th class="imp">Future</th>
+			<td>—</td>
+			<td>canitor</td>
+			<td>canitor</td>
+			<td>—</td>
+			<td>—</td>
+			<td>canuntor</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
-			<td>hominī</td>
-			<td>hominibus</td>
+			<th class="inf" id="top" colspan="2" rowspan="2">Non-finite</th>
+			<th class="inf" id="top" colspan="3">Active</th>
+			<th class="inf" id="top" colspan="3">Passive</th>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
-			<td>hominem</td>
-			<td>hominēs</td>
+			<th class="inf" id="top">Present</th>
+			<th class="inf" id="top">Perfect</th>
+			<th class="inf" id="top">Future</th>
+			<th class="inf" id="top">Present</th>
+			<th class="inf" id="top">Perfect</th>
+			<th class="inf" id="top">Future</th>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
-			<td>homine</td>
-			<td>hominibus</td>
+			<th class="inf" colspan="2">Inifintive</th>
+			<td>canere</td>
+			<td>cecinisse</td>
+			<td>cantūrus esse</td>
+			<td>canī</td>
+			<td>cantus esse</td>
+			<td>cantum īrī</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>homō</td>
-			<td>hominēs</td>
+			<th class="inf" colspan="2">Participle</th>
+			<td>canēns</td>
+			<td>—</td>
+			<td>cantūrus</td>
+			<td>—</td>
+			<td>cantus</td>
+			<td>canendus</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
+
+<!-- D -->
+
+<!-- E -->
+
+<!-- F -->
+
+<!-- G -->
+
+<!-- H -->
+<d:entry id="homō"		d:title="homō">
+	<d:index d:value="homō"			d:title="homō"/>
+	<d:index d:value="hominis"		d:title="hominis"/>
+	<d:index d:value="hominī"		d:title="hominī"/>
+	<d:index d:value="hominem"		d:title="hominem"/>
+	<d:index d:value="homine"		d:title="homine"/>
+	<d:index d:value="hominēs"		d:title="hominēs"/>
+	<d:index d:value="hominum"		d:title="hominum"/>
+	<d:index d:value="hominvm"		d:title="hominum"/> <!-- Capital -->
+	<d:index d:value="hominibus"	d:title="hominibus"/>
+	<d:index d:value="hominibvs"	d:title="hominibus"/> <!-- Capital -->
+=======
 <d:entry id="hominum"	d:title="hominum">
 	<d:index d:value="hominum" d:title="hominum"/>
 	<span class="title">hominum </span>
@@ -1832,18 +2251,21 @@
 		<li>genitive plural of <b>homō</b></li>
 	</ol>
 	<br />
+>>>>>>> origin/dev
 	<span class="title">homō </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈhɔ.moː |</span>
-		<span d:pr="VA_IPA">| ˈhɔ.mo |</span>
+		<span d:pr="VA_IPA">| ˈhɔ.mɔ |</span>
 	</span>
 	<br />
-	<p>noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
-	<ol>
-		<li>a man (<i>not an animal</i>)</li>
-		<li>a human being</li>
-		<li>a person</li>
-	</ol>
+	<p id="desc">noun, masculine or feminine, 3<sup>rd</sup> declension (genitive: <b>hominis</b>)</p>
+	<br />
+	<p><b>1</b> a human being</p>
+	<p><b>2</b> a person</p>
+	<p><b>3</b> (<i>figuratively</i>) mankind</p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind"></th>
@@ -1851,36 +2273,37 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>homō</td>
 			<td>hominēs</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>hominis</td>
 			<td>hominum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>hominī</td>
 			<td>hominibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>hominem</td>
 			<td>hominēs</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>homine</td>
 			<td>hominibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>homō</td>
 			<td>hominēs</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 <d:entry id="homō"		d:title="homō">
 	<d:index d:value="homō" d:title="homō"/>
@@ -1950,6 +2373,38 @@
 <!-- P -->
 
 <!-- Q -->
+<<<<<<< HEAD
+<d:entry id="quī"		d:title="quī">
+	<d:index d:value="quī"		d:title="quī"/>
+	<d:index d:value="qvī"		d:title="quī"/> <!-- Capital -->
+	<d:index d:value="cuius"	d:title="cuius"/>
+	<d:index d:value="cvivs"	d:title="cuius"/> <!-- Capital -->
+	<d:index d:value="cui"		d:title="cui"/>
+	<d:index d:value="cvi"		d:title="cui"/> <!-- Capital -->
+	<d:index d:value="quem"		d:title="quem"/>
+	<d:index d:value="qvem"		d:title="quem"/> <!-- Capital -->
+	<d:index d:value="quō"		d:title="quō"/>
+	<d:index d:value="qvō"		d:title="quō"/> <!-- Capital -->
+	<d:index d:value="quae"		d:title="quae"/>
+	<d:index d:value="qvae"		d:title="quae"/> <!-- Capital -->
+	<d:index d:value="quam"		d:title="quam"/>
+	<d:index d:value="qvam"		d:title="quam"/> <!-- Capital -->
+	<d:index d:value="quā"		d:title="quā"/>
+	<d:index d:value="qvā"		d:title="quā"/> <!-- Capital -->
+	<d:index d:value="quod"		d:title="quod"/>
+	<d:index d:value="qvod"		d:title="quod"/> <!-- Capital -->
+	<d:index d:value="quōrum"	d:title="quōrum"/>
+	<d:index d:value="qvōrvm"	d:title="quōrum"/> <!-- Capital -->
+	<d:index d:value="quibus"	d:title="quibus"/>
+	<d:index d:value="qvibvs"	d:title="quibus"/> <!-- Capital -->
+	<d:index d:value="quōs"		d:title="quōs"/>
+	<d:index d:value="qvōs"		d:title="quōs"/> <!-- Capital -->
+	<d:index d:value="quārum"	d:title="quārum"/>
+	<d:index d:value="qvārvm"	d:title="quārum"/> <!-- Capital -->
+	<d:index d:value="quās"		d:title="quās"/>
+	<d:index d:value="qvās"		d:title="quās"/> <!-- Capital -->
+	<span class="title">quī </span>
+=======
 <d:entry id="quem"		d:title="quem">
 	<d:index d:value="quem" d:title="quem"/>
 	<d:index d:value="qvem" d:title="quem"/>
@@ -2142,16 +2597,21 @@
 	<d:index d:value="quis" d:title="quis"/>
 	<d:index d:value="qvis" d:title="quis"/>
 	<span class="title">quis </span>
+>>>>>>> origin/dev
 	<span class="syntax">
-		<span d:pr="SP_IPA">| kʷɪs |</span>
-		<span d:pr="VA_IPA">| kwɪs |</span>
+		<span d:pr="SP_IPA">| kʷiː |</span>
+		<span d:pr="VA_IPA">| kwi |</span>
 	</span>
 	<br />
-	<p>interrogative pronoun</p>
-	<ol>
-		<li>who?</li>
-		<li>what?</li>
-	</ol>
+	<br />
+	<p><i>relative pronoun</i></p>
+	<p class="sub"><b>1</b> who, which, that</p>
+	<br />
+	<p><i>interrogative adjective</i></p>
+	<p class="sub"><b>1</b> which?, what?</p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind" id="top" rowspan="2"></th>
@@ -2167,16 +2627,16 @@
 			<th class="ind" id="top">Neuter</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
-			<td>quis</td>
-			<td>quis</td>
-			<td>quid</td>
+			<th class="ind">Nominative</th>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quod</td>
 			<td>quī</td>
 			<td>quae</td>
 			<td>quae</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>cuius</td>
 			<td>cuius</td>
 			<td>cuius</td>
@@ -2185,7 +2645,7 @@
 			<td>quōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>cui</td>
 			<td>cui</td>
 			<td>cui</td>
@@ -2194,34 +2654,66 @@
 			<td>quibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>quem</td>
-			<td>quem</td>
-			<td>quid</td>
+			<td>quam</td>
+			<td>quod</td>
 			<td>quōs</td>
 			<td>quās</td>
 			<td>quae</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>quō</td>
-			<td>quō</td>
+			<td>quā</td>
 			<td>quō</td>
 			<td>quibus</td>
 			<td>quibus</td>
 			<td>quibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
-			<td>quis</td>
-			<td>quis</td>
-			<td>quid</td>
+			<th class="ind">Vocative</th>
+			<td>quī</td>
+			<td>quae</td>
+			<td>quod</td>
 			<td>quī</td>
 			<td>quae</td>
 			<td>quae</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
+<<<<<<< HEAD
+<d:entry id="quis"		d:title="quis">
+	<d:index d:value="quis"		d:title="quis"/>
+	<d:index d:value="qvis"		d:title="quis"/> <!-- Capital -->
+	<d:index d:value="cuius"	d:title="cuius"/>
+	<d:index d:value="cvivs"	d:title="cuius"/> <!-- Capital -->
+	<d:index d:value="cui"		d:title="cui"/>
+	<d:index d:value="cvi"		d:title="cui"/> <!-- Capital -->
+	<d:index d:value="quem"		d:title="quem"/>
+	<d:index d:value="qvem"		d:title="quem"/> <!-- Capital -->
+	<d:index d:value="quō"		d:title="quō"/>
+	<d:index d:value="qvō"		d:title="quō"/> <!-- Capital -->
+	<d:index d:value="quā"		d:title="quā"/>
+	<d:index d:value="qvā"		d:title="quā"/> <!-- Capital -->
+	<d:index d:value="quid"		d:title="quid"/>
+	<d:index d:value="qvid"		d:title="quid"/> <!-- Capital -->
+	<d:index d:value="quī"		d:title="quī"/>
+	<d:index d:value="qvī"		d:title="quī"/> <!-- Capital -->
+	<d:index d:value="quōrum"	d:title="quōrum"/>
+	<d:index d:value="qvōrvm"	d:title="quōrum"/> <!-- Capital -->
+	<d:index d:value="quibus"	d:title="quibus"/>
+	<d:index d:value="qvibvs"	d:title="quibus"/> <!-- Capital -->
+	<d:index d:value="quōs"		d:title="quōs"/>
+	<d:index d:value="qvōs"		d:title="quōs"/> <!-- Capital -->
+	<d:index d:value="quae"		d:title="quae"/>
+	<d:index d:value="qvae"		d:title="quae"/> <!-- Capital -->
+	<d:index d:value="quārum"	d:title="quārum"/>
+	<d:index d:value="qvārvm"	d:title="quārum"/> <!-- Capital -->
+	<d:index d:value="quās"		d:title="quās"/>
+	<d:index d:value="qvās"		d:title="quās"/> <!-- Capital -->
+=======
 <d:entry id="quō"		d:title="quō">
 	<d:index d:value="quō" d:title="quō"/>
 	<d:index d:value="qvō" d:title="quō"/>
@@ -2235,17 +2727,20 @@
 		<li>ablative singular of <b>quis</b></li>
 	</ol>
 	<br />
+>>>>>>> origin/dev
 	<span class="title">quis </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| kʷɪs |</span>
 		<span d:pr="VA_IPA">| kwɪs |</span>
 	</span>
 	<br />
-	<p>interrogative pronoun</p>
-	<ol>
-		<li>who?</li>
-		<li>what?</li>
-	</ol>
+	<p id="desc">interrogative pronoun</p>
+	<br />
+	<p><b>1</b> who?, what?</p>
+	<p><b>2</b> (<i>after</i> si, nisi, ne, num) someone, something; anyone, anything</p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind" id="top" rowspan="2"></th>
@@ -2261,7 +2756,7 @@
 			<th class="ind" id="top">Neuter</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>quis</td>
 			<td>quis</td>
 			<td>quid</td>
@@ -2270,7 +2765,7 @@
 			<td>quae</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>cuius</td>
 			<td>cuius</td>
 			<td>cuius</td>
@@ -2279,7 +2774,7 @@
 			<td>quōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>cui</td>
 			<td>cui</td>
 			<td>cui</td>
@@ -2288,7 +2783,7 @@
 			<td>quibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>quem</td>
 			<td>quem</td>
 			<td>quid</td>
@@ -2297,16 +2792,16 @@
 			<td>quae</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>quō</td>
-			<td>quō</td>
+			<td>quā</td>
 			<td>quō</td>
 			<td>quibus</td>
 			<td>quibus</td>
 			<td>quibus</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>quis</td>
 			<td>quis</td>
 			<td>quid</td>
@@ -2315,6 +2810,7 @@
 			<td>quae</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 
 <!-- R -->
@@ -2323,19 +2819,28 @@
 
 <!-- T -->
 <d:entry id="thea"		d:title="thea">
-	<d:index d:value="thea" d:title="thea"/>
+	<d:index d:value="thea"		d:title="thea"/>
+	<d:index d:value="theae"	d:title="theae"/>
+	<d:index d:value="theam"	d:title="theam"/>
+	<d:index d:value="theā"		d:title="theā"/>
+	<d:index d:value="theārum"	d:title="theārum"/>
+	<d:index d:value="theārvm"	d:title="theārum"/> <!-- Capital -->
+	<d:index d:value="theīs"	d:title="theīs"/>
+	<d:index d:value="theās"	d:title="theās"/>
 	<span class="title">thea </span>
 	<span class="syntax">
 		<span d:pr="LA_IPA">| ˈtʰe.a |</span>
 	</span>
 	<br />
-	<p>noun, feminine, 1<sup>st</sup> declension (genitive: <b>theae</b>)</p>
-	<ol>
-		<li>tea</li>
-		<li>any type of tea</li>
-	</ol>
+	<p id="desc">noun, feminine, 1<sup>st</sup> declension (genitive: <b>theae</b>)</p>
+	<br />
+	<p><b>1</b> tea</p>
+	<p class="sub">• (<i>by extension</i>) any type of tea<span d:priority="2"> : <i>thea menthae</i> – mint tea</span></p>
+	<br />
 	<p>ORIGIN French, from thè 'tea', based on Chinese <b>茶 (chá) 'tea'</b></p>
 	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind"></th>
@@ -2343,54 +2848,71 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>thea</td>
 			<td>theae</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>theae</td>
 			<td>theārum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>theae</td>
 			<td>theīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>theam</td>
 			<td>theās</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>theā</td>
 			<td>theīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>thea</td>
 			<td>theae</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 
 <!-- V -->
 <d:entry id="uir"		d:title="uir">
-	<d:index d:value="uir" d:title="uir"/>
-	<d:index d:value="vir" d:title="uir"/>
+	<d:index d:value="uir"		d:title="uir"/>
+	<d:index d:value="vir"		d:title="uir"/> <!-- Capital -->
+	<d:index d:value="uirī"		d:title="uirī"/>
+	<d:index d:value="virī"		d:title="uirī"/> <!-- Capital -->
+	<d:index d:value="uirō"		d:title="uirō"/>
+	<d:index d:value="virō"		d:title="uirō"/> <!-- Capital -->
+	<d:index d:value="uirum"	d:title="uirum"/>
+	<d:index d:value="virum"	d:title="uirum"/> <!-- V form -->
+	<d:index d:value="virvm"	d:title="uirum"/> <!-- Capital -->
+	<d:index d:value="uirōrum"	d:title="uirōrum"/>
+	<d:index d:value="virōrum"	d:title="uirōrum"/> <!-- V form -->
+	<d:index d:value="virōrvm"	d:title="uirōrum"/> <!-- Capital -->
+	<d:index d:value="uirīs"	d:title="uirīs"/>
+	<d:index d:value="virīs"	d:title="uirīs"/> <!-- Capital -->
+	<d:index d:value="uirōs"	d:title="uirōs"/>
+	<d:index d:value="virōs"	d:title="uirōs"/> <!-- Capital -->
 	<span class="title">uir </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| ˈwir |</span>
 		<span d:pr="VA_IPA">| ˈvir |</span>
 	</span>
 	<br />
-	<p>noun, masculine, 2<sup>nd</sup> declension (genitive: <b>uirī</b>)</p>
-	<ol>
-		<li>a man (<i>not a woman</i>)</li>
-		<li>a husband</li>
-		<li>(<i>in war</i>) a soldier</li>
-	</ol>
+	<p id="desc">noun, masculine, 2<sup>nd</sup> declension (genitive: <b>uirī</b>)</p>
+	<br />
+	<p><b>1</b> a man</p>
+	<p><b>2</b> a husband</p>
+	<p><b>3</b> (<i>in war</i>) a soldier</p>
+	<br />
+	<p d:priority="2">DECLENSION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind"></th>
@@ -2398,58 +2920,446 @@
 			<th class="ind" id="top">Plural</th>
 		</tr>
 		<tr>
-			<th class="ind">Nom</th>
+			<th class="ind">Nominative</th>
 			<td>uir</td>
 			<td>uirī</td>
 		</tr>
 		<tr>
-			<th class="ind">Gen</th>
+			<th class="ind">Genitive</th>
 			<td>uirī</td>
 			<td>uirōrum</td>
 		</tr>
 		<tr>
-			<th class="ind">Dat</th>
+			<th class="ind">Dative</th>
 			<td>uirō</td>
 			<td>uirīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Acc</th>
+			<th class="ind">Accusative</th>
 			<td>uirum</td>
 			<td>uirōs</td>
 		</tr>
 		<tr>
-			<th class="ind">Abl</th>
+			<th class="ind">Ablative</th>
 			<td>uirō</td>
 			<td>uirīs</td>
 		</tr>
 		<tr>
-			<th class="ind">Voc</th>
+			<th class="ind">Vocative</th>
 			<td>uir</td>
 			<td>uirī</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 <d:entry id="uocare"	d:title="uocāre">
-	<d:index d:value="uocāre" d:title="uocāre"/>
-	<d:index d:value="vocāre" d:title="uocāre"/>
+	<!-- Present Indicative Active -->
+	<d:index d:value="uocō"				d:title="uocō"/>
+	<d:index d:value="vocō"				d:title="uocō"/> <!-- Capital -->
+	<d:index d:value="uocās"			d:title="uocās"/>
+	<d:index d:value="vocās"			d:title="uocās"/> <!-- Capital -->
+	<d:index d:value="uocat"			d:title="uocat"/>
+	<d:index d:value="vocat"			d:title="uocat"/> <!-- Capital -->
+	<d:index d:value="uocāmus"			d:title="uocāmus"/>
+	<d:index d:value="vocāmus"			d:title="uocāmus"/> <!-- V form -->
+	<d:index d:value="vocāmvs"			d:title="uocāmus"/> <!-- Capital -->
+	<d:index d:value="uocātis"			d:title="uocātis"/>
+	<d:index d:value="vocātis"			d:title="uocātis"/> <!-- Capital -->
+	<d:index d:value="uocant"			d:title="uocant"/>
+	<d:index d:value="vocant"			d:title="uocant"/> <!-- Capital -->
+	
+	<!-- Imperfect Indicative Active -->
+	<d:index d:value="uocābam"			d:title="uocābam"/>
+	<d:index d:value="vocābam"			d:title="uocābam"/> <!-- Capital -->
+	<d:index d:value="uocābās"			d:title="uocābās"/>
+	<d:index d:value="vocābās"			d:title="uocābās"/> <!-- Capital -->
+	<d:index d:value="uocābat"			d:title="uocābat"/>
+	<d:index d:value="vocābat"			d:title="uocābat"/> <!-- Capital -->
+	<d:index d:value="uocābāmus"		d:title="uocābāmus"/>
+	<d:index d:value="vocābāmus"		d:title="uocābāmus"/> <!-- V form -->
+	<d:index d:value="vocābāmvs"		d:title="uocābāmus"/> <!-- Capital -->
+	<d:index d:value="uocābātis"		d:title="uocābātis"/>
+	<d:index d:value="vocābātis"		d:title="uocābātis"/> <!-- Capital -->
+	<d:index d:value="uocābant"			d:title="uocābant"/>
+	<d:index d:value="vocābant"			d:title="uocābant"/> <!-- Capital -->
+	
+	<!-- Future Indicative Active -->
+	<d:index d:value="uocābō"			d:title="uocābō"/>
+	<d:index d:value="vocābō"			d:title="uocābō"/> <!-- Capital -->
+	<d:index d:value="uocābis"			d:title="uocābis"/>
+	<d:index d:value="vocābis"			d:title="uocābis"/> <!-- Capital -->
+	<d:index d:value="uocābit"			d:title="uocābit"/>
+	<d:index d:value="vocābit"			d:title="uocābit"/> <!-- Capital -->
+	<d:index d:value="uocābimus"		d:title="uocābimus"/>
+	<d:index d:value="vocābimus"		d:title="uocābimus"/> <!-- V form -->
+	<d:index d:value="vocābimvs"		d:title="uocābimus"/> <!-- Capital -->
+	<d:index d:value="uocābitis"		d:title="uocābitis"/>
+	<d:index d:value="vocābitis"		d:title="uocābitis"/> <!-- Capital -->
+	<d:index d:value="uocābunt"			d:title="uocābunt"/>
+	<d:index d:value="vocābunt"			d:title="uocābunt"/> <!-- V form -->
+	<d:index d:value="vocābvnt"			d:title="uocābunt"/> <!-- Capital -->
+	
+	<!-- Perfect Indicative Active -->
+	<d:index d:value="uocāuī"			d:title="uocāuī"/>
+	<d:index d:value="vocāvī"			d:title="uocāuī"/> <!-- Capital -->
+	<d:index d:value="uocāuistī"		d:title="uocāuistī"/>
+	<d:index d:value="vocāvistī"		d:title="uocāuistī"/> <!-- Capital -->
+	<d:index d:value="uocāuit"			d:title="uocāuit"/>
+	<d:index d:value="vocāvit"			d:title="uocāuit"/> <!-- Capital -->
+	<d:index d:value="uocāuimus"		d:title="uocāuimus"/>
+	<d:index d:value="vocāvimus"		d:title="uocāuimus"/> <!-- V form -->
+	<d:index d:value="vocāvimvs"		d:title="uocāuimus"/> <!-- Capital -->
+	<d:index d:value="uocāuistis"		d:title="uocāuistis"/>
+	<d:index d:value="vocāvistis"		d:title="uocāuistis"/> <!-- Capital -->
+	<d:index d:value="uocāuērunt"		d:title="uocāuērunt"/>
+	<d:index d:value="vocāvērunt"		d:title="uocāuērunt"/> <!-- V form -->
+	<d:index d:value="vocāvērvnt"		d:title="uocāuērunt"/> <!-- Capital -->
+	<d:index d:value="uocāuēre"			d:title="uocāuēre"/> <!-- Alter. -->
+	<d:index d:value="vocāvēre"			d:title="uocāuēre"/> <!-- Capital -->
+	
+	<!-- Pluperfect Indicative Active -->
+	<d:index d:value="uocāueram"		d:title="uocāueram"/>
+	<d:index d:value="vocāveram"		d:title="uocāueram"/> <!-- Capital -->
+	<d:index d:value="uocāuerās"		d:title="uocāuerās"/>
+	<d:index d:value="vocāverās"		d:title="uocāuerās"/> <!-- Capital -->
+	<d:index d:value="uocāuerat"		d:title="uocāuerat"/>
+	<d:index d:value="vocāverat"		d:title="uocāuerat"/> <!-- Capital -->
+	<d:index d:value="uocāuerāmus"		d:title="uocāuerāmus"/>
+	<d:index d:value="vocāverāmus"		d:title="uocāuerāmus"/> <!-- V form -->
+	<d:index d:value="vocāverāmvs"		d:title="uocāuerāmus"/> <!-- Capital -->
+	<d:index d:value="uocāuerātis"		d:title="uocāuerātis"/>
+	<d:index d:value="vocāverātis"		d:title="uocāuerātis"/> <!-- Capital -->
+	<d:index d:value="uocāuerant"		d:title="uocāuerant"/>
+	<d:index d:value="vocāverant"		d:title="uocāuerant"/> <!-- Capital -->
+	
+	<!-- Future Perfect Indicative Active -->
+	<d:index d:value="uocāuerim"		d:title="uocāuerim"/>
+	<d:index d:value="vocāverim"		d:title="uocāuerim"/> <!-- Capital -->
+	<d:index d:value="uocāueris"		d:title="uocāueris"/>
+	<d:index d:value="vocāveris"		d:title="uocāueris"/> <!-- Capital -->
+	<d:index d:value="uocāuerit"		d:title="uocāuerit"/>
+	<d:index d:value="vocāverit"		d:title="uocāuerit"/> <!-- Capital -->
+	<d:index d:value="uocāuerimus"		d:title="uocāuerimus"/>
+	<d:index d:value="vocāverimus"		d:title="uocāuerimus"/> <!-- V form -->
+	<d:index d:value="vocāverimvs"		d:title="uocāuerimus"/> <!-- Capital -->
+	<d:index d:value="uocāueritis"		d:title="uocāueritis"/>
+	<d:index d:value="vocāveritis"		d:title="uocāueritis"/> <!-- Capital -->
+	<d:index d:value="uocāuerint"		d:title="uocāuerint"/>
+	<d:index d:value="vocāverint"		d:title="uocāuerint"/> <!-- Capital -->
+	
+	<!-- Present Indicative Passive -->
+	<d:index d:value="uocor"			d:title="uocor"/>
+	<d:index d:value="vocor"			d:title="uocor"/> <!-- Capital -->
+	<d:index d:value="uocāris"			d:title="uocāris"/>
+	<d:index d:value="vocāris"			d:title="uocāris"/> <!-- Capital -->
+	<d:index d:value="uocāre"			d:title="uocāre"/>
+	<d:index d:value="vocāre"			d:title="uocāre"/> <!-- Capital -->
+	<d:index d:value="uocātur"			d:title="uocātur"/>
+	<d:index d:value="vocātur"			d:title="uocātur"/> <!-- V form -->
+	<d:index d:value="vocātvr"			d:title="uocātur"/> <!-- Capital -->
+	<d:index d:value="uocāmur"			d:title="uocāmur"/>
+	<d:index d:value="vocāmur"			d:title="uocāmur"/> <!-- V form -->
+	<d:index d:value="vocāmvr"			d:title="uocāmur"/> <!-- Capital -->
+	<d:index d:value="uocāminī"			d:title="uocāminī"/>
+	<d:index d:value="vocāminī"			d:title="uocāminī"/> <!-- Capital -->
+	<d:index d:value="uocāntur"			d:title="uocāntur"/>
+	<d:index d:value="vocāntur"			d:title="uocāntur"/> <!-- V form -->
+	<d:index d:value="vocāntvr"			d:title="uocāntur"/> <!-- Capital -->
+	
+	<!-- Imperfect Indicative Passive -->
+	<d:index d:value="uocābar"			d:title="uocābar"/>
+	<d:index d:value="vocābar"			d:title="uocābar"/> <!-- Capital -->
+	<d:index d:value="uocābāris"		d:title="uocābāris"/>
+	<d:index d:value="vocābāris"		d:title="uocābāris"/> <!-- Capital -->
+	<d:index d:value="uocābāre"			d:title="uocābāre"/> <!-- Alter. -->
+	<d:index d:value="vocābāre"			d:title="uocābāre"/> <!-- Capital -->
+	<d:index d:value="uocābātur"		d:title="uocābātur"/>
+	<d:index d:value="vocābātur"		d:title="uocābātur"/> <!-- V form -->
+	<d:index d:value="vocābātvr"		d:title="uocābātur"/> <!-- Capital -->
+	<d:index d:value="uocābāmur"		d:title="uocābāmur"/>
+	<d:index d:value="vocābāmur"		d:title="uocābāmur"/> <!-- V form -->
+	<d:index d:value="vocābāmvr"		d:title="uocābāmur"/> <!-- Capital -->
+	<d:index d:value="uocābāminī"		d:title="uocābāminī"/>
+	<d:index d:value="vocābāminī"		d:title="uocābāminī"/> <!-- Capital -->
+	<d:index d:value="uocābantur"		d:title="uocābantur"/>
+	<d:index d:value="vocābantur"		d:title="uocābantur"/> <!-- V form -->
+	<d:index d:value="vocābantvr"		d:title="uocābantur"/> <!-- Capital -->
+	
+	<!-- Future Indicative Passive -->
+	<d:index d:value="uocābor"			d:title="uocābor"/>
+	<d:index d:value="vocābor"			d:title="uocābor"/> <!-- Capital -->
+	<d:index d:value="uocāberis"		d:title="uocāberis"/>
+	<d:index d:value="vocāberis"		d:title="uocāberis"/> <!-- Capital -->
+	<d:index d:value="uocābere"			d:title="uocābere"/>
+	<d:index d:value="vocābere"			d:title="uocābere"/> <!-- Capital -->
+	<d:index d:value="uocābitur"		d:title="uocābitur"/>
+	<d:index d:value="vocābitur"		d:title="uocābitur"/> <!-- V form -->
+	<d:index d:value="vocābitvr"		d:title="uocābitur"/> <!-- Capital -->
+	<d:index d:value="uocābimur"		d:title="uocābimur"/>
+	<d:index d:value="vocābimur"		d:title="uocābimur"/> <!-- V form -->
+	<d:index d:value="vocābimvr"		d:title="uocābimur"/> <!-- Capital -->
+	<d:index d:value="uocābiminī"		d:title="uocābiminī"/>
+	<d:index d:value="vocābiminī"		d:title="uocābiminī"/> <!-- Capital -->
+	<d:index d:value="uocābuntur"		d:title="uocābuntur"/>
+	<d:index d:value="vocābuntur"		d:title="uocābuntur"/> <!-- V form -->
+	<d:index d:value="vocābvntvr"		d:title="uocābuntur"/> <!-- Capital -->
+	
+	<!-- Perfect Indicative Passive -->
+	<d:index d:value="uocātus sum"		d:title="uocātus sum"/>
+	<d:index d:value="vocātus sum"		d:title="uocātus sum"/> <!-- V form -->
+	<d:index d:value="vocātvs svm"		d:title="uocātus sum"/> <!-- Capital -->
+	<d:index d:value="uocātus es"		d:title="uocātus es"/>
+	<d:index d:value="vocātus es"		d:title="uocātus es"/> <!-- V form -->
+	<d:index d:value="vocātvs es"		d:title="uocātus es"/> <!-- Capital -->
+	<d:index d:value="uocātus est"		d:title="uocātus est"/>
+	<d:index d:value="vocātus est"		d:title="uocātus est"/> <!-- V form -->
+	<d:index d:value="vocātvs est"		d:title="uocātus est"/> <!-- Capital -->
+	<d:index d:value="uocātī sumus"		d:title="uocātī sumus"/>
+	<d:index d:value="vocātī sumus"		d:title="uocātī sumus"/> <!-- V form -->
+	<d:index d:value="vocātī svmvs"		d:title="uocātī sumus"/> <!-- Capital -->
+	<d:index d:value="uocātī estis"		d:title="uocātī estis"/>
+	<d:index d:value="vocātī estis"		d:title="uocātī estis"/> <!-- Capital -->
+	<d:index d:value="uocātī sunt"		d:title="uocātī sunt"/>
+	<d:index d:value="vocātī sunt"		d:title="uocātī sunt"/> <!-- V form -->
+	<d:index d:value="vocātī svnt"		d:title="uocātī sunt"/> <!-- Capital -->
+	
+	<!-- Pluperfect Indicative Passive -->
+	<d:index d:value="uocātus eram"		d:title="uocātus eram"/>
+	<d:index d:value="vocātus eram"		d:title="uocātus eram"/> <!-- V form -->
+	<d:index d:value="vocātvs eram"		d:title="uocātus eram"/> <!-- Capital -->
+	<d:index d:value="uocātus erās"		d:title="uocātus erās"/>
+	<d:index d:value="vocātus erās"		d:title="uocātus erās"/> <!-- V form -->
+	<d:index d:value="vocātvs erās"		d:title="uocātus erās"/> <!-- Capital -->
+	<d:index d:value="uocātus erat"		d:title="uocātus erat"/>
+	<d:index d:value="vocātus erat"		d:title="uocātus erat"/> <!-- V form -->
+	<d:index d:value="vocātvs erat"		d:title="uocātus erat"/> <!-- Capital -->
+	<d:index d:value="uocātī erāmus"	d:title="uocātī erāmus"/>
+	<d:index d:value="vocātī erāmus"	d:title="uocātī erāmus"/> <!-- V form -->
+	<d:index d:value="vocātī erāmvs"	d:title="uocātī erāmus"/> <!-- Capital -->
+	<d:index d:value="uocātī erātis"	d:title="uocātī erātis"/>
+	<d:index d:value="vocātī erātis"	d:title="uocātī erātis"/> <!-- Capital -->
+	<d:index d:value="uocātī erant"		d:title="uocātī erant"/>
+	<d:index d:value="vocātī erant"		d:title="uocātī erant"/> <!-- Capital -->
+	
+	<!-- Future Perfect Indicative Passive -->
+	<d:index d:value="uocātus erō"		d:title="uocātus erō"/>
+	<d:index d:value="uocātus erō"		d:title="uocātus erō"/> <!-- V form -->
+	<d:index d:value="uocātus erō"		d:title="uocātus erō"/> <!-- Capital -->
+	<d:index d:value="uocātus eris"		d:title="uocātus eris"/>
+	<d:index d:value="uocātus eris"		d:title="uocātus eris"/> <!-- V form -->
+	<d:index d:value="uocātus eris"		d:title="uocātus eris"/> <!-- Capital -->
+	<d:index d:value="uocātus erit"		d:title="uocātus erit"/>
+	<d:index d:value="uocātus erit"		d:title="uocātus erit"/> <!-- V form -->
+	<d:index d:value="uocātus erit"		d:title="uocātus erit"/> <!-- Capital -->
+	<d:index d:value="uocātī erimus"	d:title="uocātī erimus"/>
+	<d:index d:value="uocātī erimus"	d:title="uocātī erimus"/> <!-- V form -->
+	<d:index d:value="uocātī erimus"	d:title="uocātī erimus"/> <!-- Capital -->
+	<d:index d:value="uocātī eritis"	d:title="uocātī eritis"/>
+	<d:index d:value="uocātī eritis"	d:title="uocātī eritis"/> <!-- Capital -->
+	<d:index d:value="uocātī erunt"		d:title="uocātī erunt"/>
+	<d:index d:value="uocātī erunt"		d:title="uocātī erunt"/> <!-- V form -->
+	<d:index d:value="uocātī erunt"		d:title="uocātī erunt"/> <!-- Capital -->
+	
+	<!-- Present Subjunctive Active -->
+	<d:index d:value="uocem"			d:title="uocem"/>
+	<d:index d:value="vocem"			d:title="uocem"/> <!-- Capital -->
+	<d:index d:value="uocēs"			d:title="uocēs"/>
+	<d:index d:value="vocēs"			d:title="uocēs"/> <!-- Capital -->
+	<d:index d:value="uocet"			d:title="uocet"/>
+	<d:index d:value="vocet"			d:title="uocet"/> <!-- Capital -->
+	<d:index d:value="uocēmus"			d:title="uocēmus"/>
+	<d:index d:value="vocēmus"			d:title="uocēmus"/> <!-- V form -->
+	<d:index d:value="vocēmvs"			d:title="uocēmus"/> <!-- Capital -->
+	<d:index d:value="uocētis"			d:title="uocētis"/>
+	<d:index d:value="vocētis"			d:title="uocētis"/> <!-- Capital -->
+	<d:index d:value="uocent"			d:title="uocent"/>
+	<d:index d:value="vocent"			d:title="uocent"/> <!-- Capital -->
+	
+	<!-- Imperfect Subjunctive Active -->
+	<d:index d:value="uocārem"			d:title="uocārem"/>
+	<d:index d:value="vocārem"			d:title="uocārem"/> <!-- Capital -->
+	<d:index d:value="uocārēs"			d:title="uocārēs"/>
+	<d:index d:value="vocārēs"			d:title="uocārēs"/> <!-- Capital -->
+	<d:index d:value="uocāret"			d:title="uocāret"/>
+	<d:index d:value="vocāret"			d:title="uocāret"/> <!-- Capital -->
+	<d:index d:value="uocārēmus"		d:title="uocārēmus"/>
+	<d:index d:value="vocārēmus"		d:title="uocārēmus"/> <!-- V form -->
+	<d:index d:value="vocārēmvs"		d:title="uocārēmus"/> <!-- Capital -->
+	<d:index d:value="uocārētis"		d:title="uocārētis"/>
+	<d:index d:value="vocārētis"		d:title="uocārētis"/> <!-- Capital -->
+	<d:index d:value="uocārent"			d:title="uocārent"/>
+	<d:index d:value="vocārent"			d:title="uocārent"/> <!-- Capital -->
+	
+	<!-- Perfect Subjunctive Active -->
+	<d:index d:value="uocāuerim"		d:title="uocāuerim"/>
+	<d:index d:value="vocāverim"		d:title="uocāuerim"/> <!-- Capital -->
+	<d:index d:value="uocāuerīs"		d:title="uocāuerīs"/>
+	<d:index d:value="vocāverīs"		d:title="uocāuerīs"/> <!-- Capital -->
+	<d:index d:value="uocāuerit"		d:title="uocāuerit"/>
+	<d:index d:value="vocāverit"		d:title="uocāuerit"/> <!-- Capital -->
+	<d:index d:value="uocāuerīmus"		d:title="uocāuerīmus"/>
+	<d:index d:value="vocāverīmus"		d:title="uocāuerīmus"/> <!-- V form -->
+	<d:index d:value="vocāverīmvs"		d:title="uocāuerīmus"/> <!-- Capital -->
+	<d:index d:value="uocāuerītis"		d:title="uocāuerītis"/>
+	<d:index d:value="vocāverītis"		d:title="uocāuerītis"/> <!-- Capital -->
+	<d:index d:value="uocāuerint"		d:title="uocāuerint"/>
+	<d:index d:value="vocāverint"		d:title="uocāuerint"/> <!-- Capital -->
+	
+	<!-- Pluperfect Subjunctive Active -->
+	<d:index d:value="uocāuissem"		d:title="uocāuissem"/>
+	<d:index d:value="vocāvissem"		d:title="uocāuissem"/> <!-- Capital -->
+	<d:index d:value="uocāuissēs"		d:title="uocāuissēs"/>
+	<d:index d:value="vocāvissēs"		d:title="uocāuissēs"/> <!-- Capital -->
+	<d:index d:value="uocāuisset"		d:title="uocāuisset"/>
+	<d:index d:value="vocāvisset"		d:title="uocāuisset"/> <!-- Capital -->
+	<d:index d:value="uocāuissēmus"		d:title="uocāuissēmus"/>
+	<d:index d:value="vocāvissēmus"		d:title="uocāuissēmus"/> <!-- V form -->
+	<d:index d:value="vocāvissēmvs"		d:title="uocāuissēmus"/> <!-- Capital -->
+	<d:index d:value="uocāuissētis"		d:title="uocāuissētis"/>
+	<d:index d:value="vocāvissētis"		d:title="uocāuissētis"/> <!-- Capital -->
+	<d:index d:value="uocāuissent"		d:title="uocāuissent"/>
+	<d:index d:value="vocāvissent"		d:title="uocāuissent"/> <!-- Capital -->
+	
+	<!-- Present Subjunctive Passive -->
+	<d:index d:value="uocer"			d:title="uocer"/>
+	<d:index d:value="vocer"			d:title="uocer"/> <!-- Capital -->
+	<d:index d:value="uocēris"			d:title="uocēris"/>
+	<d:index d:value="vocēris"			d:title="uocēris"/> <!-- Capital -->
+	<d:index d:value="uocēre"			d:title="uocēre"/> <!-- Alter. -->
+	<d:index d:value="vocēre"			d:title="uocēre"/> <!-- Capital -->
+	<d:index d:value="uocētur"			d:title="uocētur"/>
+	<d:index d:value="vocētur"			d:title="uocētur"/> <!-- V form -->
+	<d:index d:value="vocētvr"			d:title="uocētur"/> <!-- Capital -->
+	<d:index d:value="uocēmur"			d:title="uocēmur"/>
+	<d:index d:value="vocēmur"			d:title="uocēmur"/> <!-- V form -->
+	<d:index d:value="vocēmvr"			d:title="uocēmur"/> <!-- Capital -->
+	<d:index d:value="uocēminī"			d:title="uocēminī"/>
+	<d:index d:value="vocēminī"			d:title="uocēminī"/> <!-- Capital -->
+	<d:index d:value="uocentur"			d:title="uocentur"/>
+	<d:index d:value="vocentur"			d:title="uocentur"/> <!-- V form -->
+	<d:index d:value="vocentvr"			d:title="uocentur"/> <!-- Capital -->
+	
+	<!-- Imperfect Subjunctive Passive -->
+	<d:index d:value="uocārer"			d:title="uocārer"/>
+	<d:index d:value="vocārer"			d:title="uocārer"/> <!-- Capital -->
+	<d:index d:value="uocārēris"		d:title="uocārēris"/>
+	<d:index d:value="vocārēris"		d:title="uocārēris"/> <!-- Capital -->
+	<d:index d:value="uocārēre"			d:title="uocārēre"/>
+	<d:index d:value="vocārēre"			d:title="uocārēre"/> <!-- Capital -->
+	<d:index d:value="uocārētur"		d:title="uocārētur"/>
+	<d:index d:value="vocārētur"		d:title="uocārētur"/> <!-- V form -->
+	<d:index d:value="vocārētvr"		d:title="uocārētur"/> <!-- Capital -->
+	<d:index d:value="uocārēmur"		d:title="uocārēmur"/>
+	<d:index d:value="vocārēmur"		d:title="uocārēmur"/> <!-- V form -->
+	<d:index d:value="vocārēmvr"		d:title="uocārēmur"/> <!-- Capital -->
+	<d:index d:value="uocārēminī"		d:title="uocārēminī"/>
+	<d:index d:value="vocārēminī"		d:title="uocārēminī"/> <!-- Capital -->
+	<d:index d:value="uocārentur"		d:title="uocārentur"/>
+	<d:index d:value="vocārentur"		d:title="uocārentur"/> <!-- V form -->
+	<d:index d:value="vocārentvr"		d:title="uocārentur"/> <!-- Capital -->
+	
+	<!-- Perfect Subjunctive Passive -->
+	<d:index d:value="uocātus sim"		d:title="uocātus sim"/>
+	<d:index d:value="vocātus sim"		d:title="uocātus sim"/> <!-- V form -->
+	<d:index d:value="vocātvs sim"		d:title="uocātus sim"/> <!-- Capital -->
+	<d:index d:value="uocātus sīs"		d:title="uocātus sīs"/>
+	<d:index d:value="vocātus sīs"		d:title="uocātus sīs"/> <!-- V form -->
+	<d:index d:value="vocātvs sīs"		d:title="uocātus sīs"/> <!-- Capital -->
+	<d:index d:value="uocātus sit"		d:title="uocātus sit"/>
+	<d:index d:value="vocātus sit"		d:title="uocātus sit"/> <!-- V form -->
+	<d:index d:value="vocātvs sit"		d:title="uocātus sit"/> <!-- Capital -->
+	<d:index d:value="uocātī sīmus"		d:title="uocātī sīmus"/>
+	<d:index d:value="vocātī sīmus"		d:title="uocātī sīmus"/> <!-- V form -->
+	<d:index d:value="vocātī sīmvs"		d:title="uocātī sīmus"/> <!-- Capital -->
+	<d:index d:value="uocātī sītis"		d:title="uocātī sītis"/>
+	<d:index d:value="vocātī sītis"		d:title="uocātī sītis"/> <!-- Capital -->
+	<d:index d:value="uocātī sint"		d:title="uocātī sint"/>
+	<d:index d:value="vocātī sint"		d:title="uocātī sint"/> <!-- Capital -->
+	
+	<!-- Pluperfect subjunctive Passive -->
+	<d:index d:value="uocātus essem"	d:title="uocātus essem"/>
+	<d:index d:value="vocātus essem"	d:title="uocātus essem"/> <!-- V form -->
+	<d:index d:value="vocātvs essem"	d:title="uocātus essem"/> <!-- Capital -->
+	<d:index d:value="uocātus essēs"	d:title="uocātus essēs"/>
+	<d:index d:value="vocātus essēs"	d:title="uocātus essēs"/> <!-- V form -->
+	<d:index d:value="vocātvs essēs"	d:title="uocātus essēs"/> <!-- Capital -->
+	<d:index d:value="uocātus esset"	d:title="uocātus esset"/>
+	<d:index d:value="vocātus esset"	d:title="uocātus esset"/> <!-- V form -->
+	<d:index d:value="vocātvs esset"	d:title="uocātus esset"/> <!-- Capital -->
+	<d:index d:value="uocātī essēmus"	d:title="uocātī essēmus"/>
+	<d:index d:value="vocātī essēmus"	d:title="uocātī essēmus"/> <!-- V form -->
+	<d:index d:value="vocātī essēmvs"	d:title="uocātī essēmus"/> <!-- Capital -->
+	<d:index d:value="uocātī essētis"	d:title="uocātī essētis"/>
+	<d:index d:value="vocātī essētis"	d:title="uocātī essētis"/> <!-- Capital -->
+	<d:index d:value="uocātī essent"	d:title="uocātī essent"/>
+	<d:index d:value="vocātī essent"	d:title="uocātī essent"/> <!-- Capital -->
+	
+	<!-- Present Imperative Active -->
+	<d:index d:value="uocā"				d:title="uocā"/>
+	<d:index d:value="vocā"				d:title="uocā"/> <!-- Capital -->
+	<d:index d:value="uocāte"			d:title="uocāte"/>
+	<d:index d:value="vocāte"			d:title="uocāte"/> <!-- Capital -->
+	
+	<!-- Future Imperative Active -->
+	<d:index d:value="uocātō"			d:title="uocātō"/>
+	<d:index d:value="vocātō"			d:title="uocātō"/> <!-- Capital -->
+	<d:index d:value="uocātōte"			d:title="uocātōte"/>
+	<d:index d:value="vocātōte"			d:title="uocātōte"/> <!-- Capital -->
+	<d:index d:value="uocantō"			d:title="uocantō"/>
+	<d:index d:value="vocantō"			d:title="uocantō"/> <!-- Capital -->
+	
+	<!-- Future Imperative Passive -->
+	<d:index d:value="uocātor"			d:title="uocātor"/>
+	<d:index d:value="vocātor"			d:title="uocātor"/> <!-- Capital -->
+	<d:index d:value="uocantor"			d:title="uocantor"/>
+	<d:index d:value="vocantor"			d:title="uocantor"/> <!-- Capital -->
+	
+	<!-- Infinitives -->
+	<d:index d:value="uocāuisse"		d:title="uocāuisse"/>
+	<d:index d:value="vocāvisse"		d:title="uocāuisse"/> <!-- Capital -->
+	<d:index d:value="uocātūrus esse"	d:title="uocātūrus esse"/>
+	<d:index d:value="vocātūrus esse"	d:title="uocātūrus esse"/> <!-- V form -->
+	<d:index d:value="vocātv̄rvs esse"	d:title="uocātūrus esse"/> <!-- Capital -->
+	<d:index d:value="uocārī"			d:title="uocārī"/>
+	<d:index d:value="vocārī"			d:title="uocārī"/> <!-- Capital -->
+	<d:index d:value="uocātus esse"		d:title="uocātus esse"/>
+	<d:index d:value="vocātus esse"		d:title="uocātus esse"/> <!-- V form -->
+	<d:index d:value="vocātvs esse"		d:title="uocātus esse"/> <!-- Capital -->
+	<d:index d:value="uocātum īrī"		d:title="uocātum īrī"/>
+	<d:index d:value="vocātum īrī"		d:title="uocātum īrī"/> <!-- V form -->
+	<d:index d:value="vocātvm īrī"		d:title="uocātum īrī"/> <!-- Capital -->
+	
+	<!-- Participles -->
+	<d:index d:value="uocāns"			d:title="uocāns"/>
+	<d:index d:value="vocāns"			d:title="uocāns"/> <!-- Capital -->
+	<d:index d:value="uocātūrus"		d:title="uocātūrus"/>
+	<d:index d:value="vocātūrus"		d:title="uocātūrus"/> <!-- V form -->
+	<d:index d:value="vocātv̄rvs"		d:title="uocātūrus"/> <!-- Capital -->
+	<d:index d:value="uocātus"			d:title="uocātus"/>
+	<d:index d:value="vocātus"			d:title="uocātus"/> <!-- V form -->
+	<d:index d:value="vocātvs"			d:title="uocātus"/> <!-- Capital -->
+	<d:index d:value="uocandus"			d:title="uocandus"/>
+	<d:index d:value="vocandus"			d:title="uocandus"/> <!-- V form -->
+	<d:index d:value="vocandvs"			d:title="uocandus"/> <!-- Capital -->
+	
 	<span class="title">uocāre </span>
 	<span class="syntax">
 		<span d:pr="SP_IPA">| woˈkaː.re |</span>
 		<span d:pr="VA_IPA">| voˈka.re |</span>
 	</span>
 	<br />
-	<p>verb, 1<sup>st</sup> conjugation (perfect infinitive: <b>uocāvisse</b>; supine: <b>uocātum</b>)</p>
+	<p id="desc">verb, 1<sup>st</sup> conjugation (perfect infinitive: <b>uocāuisse</b>; supine: <b>uocātum</b>)</p>
 	<br />
-	<i>transitive</i>
-	<ol>
-		<li>to call, summon, invoke (<i>someone or something</i>)</li>
-		<li>(<i>with doub. acc.</i>) to name, designate<span d:priority="2"> : <i>eum amicum uoco</i> – I call him a friend</span></li>
-		<li>to bring or put into a state or condition<span d:priority="2"> : <i>uocare in dubium</i> – to call into question</span></li>
-	</ol>
-	<i>intrasitive</i>
-	<ol>
-		<li>to call</li>
-	</ol>
+	<p><i>transitive</i></p>
+	<p class="sub"><b>1</b> to call, summon, invoke (<i>someone or something</i>)</p>
+	<p class="sub"><b>2</b> (<i>with double accusative</i>) to name, designate<span d:priority="2"> : <i>eum amicum uoco</i> – I call him a friend</span></p>
+	<p class="sub"><b>3</b> to bring or put into a state or condition<span d:priority="2"> : <i>uocare in dubium</i> – to call into question</span></p>
+	<br />
+	<p><i>intransitive</i></p>
+	<p class="sub"><b>1</b> to call</p>
+	<br />
+	<p d:priority="2">CONJUGATION</p>
+	<br d:priority="2" />
 	<table d:priority="2">
 		<tr>
 			<th class="ind" id="top" colspan="2" rowspan="2">Indicative</th>
@@ -2494,36 +3404,36 @@
 		</tr>
 		<tr>
 			<th class="ind">Perfect</th>
-			<td>uocāvī</td>
-			<td>uocāvistī</td>
-			<td>uocāvit</td>
-			<td>uocāvimus</td>
-			<td>uocāvistis</td>
-			<td>uocāvērunt</td>
+			<td>uocāuī</td>
+			<td>uocāuistī</td>
+			<td>uocāuit</td>
+			<td>uocāuimus</td>
+			<td>uocāuistis</td>
+			<td>uocāuērunt (uocāuēre)</td>
 		</tr>
 		<tr>
 			<th class="ind">Pluperfect</th>
-			<td>uocāveram</td>
-			<td>uocāverās</td>
-			<td>uocāverat</td>
-			<td>uocāverāmus</td>
-			<td>uocāverātis</td>
-			<td>uocāverant</td>
+			<td>uocāueram</td>
+			<td>uocāuerās</td>
+			<td>uocāuerat</td>
+			<td>uocāuerāmus</td>
+			<td>uocāuerātis</td>
+			<td>uocāuerant</td>
 		</tr>
 		<tr>
 			<th class="ind">Future Perfect</th>
-			<td>uocāverim</td>
-			<td>uocāveris</td>
-			<td>uocāverit</td>
-			<td>uocāverimus</td>
-			<td>uocāveritis</td>
-			<td>uocāverint</td>
+			<td>uocāuerim</td>
+			<td>uocāueris</td>
+			<td>uocāuerit</td>
+			<td>uocāuerimus</td>
+			<td>uocāueritis</td>
+			<td>uocāuerint</td>
 		</tr>
 		<tr>
 			<th class="ind" rowspan="6">Passive</th>
 			<th class="ind">Present</th>
 			<td>uocor</td>
-			<td>uocāris</td>
+			<td>uocāris (uocāre)</td>
 			<td>uocātur</td>
 			<td>uocāmur</td>
 			<td>uocāminī</td>
@@ -2532,7 +3442,7 @@
 		<tr>
 			<th class="ind">Imperfect</th>
 			<td>uocābar</td>
-			<td>uocābāris</td>
+			<td>uocābāris (uocābāre)</td>
 			<td>uocābātur</td>
 			<td>uocābāmur</td>
 			<td>uocābāminī</td>
@@ -2541,7 +3451,7 @@
 		<tr>
 			<th class="ind">Future</th>
 			<td>uocābor</td>
-			<td>uocāberis</td>
+			<td>uocāberis (uocābere)</td>
 			<td>uocābitur</td>
 			<td>uocābimur</td>
 			<td>uocābiminī</td>
@@ -2591,7 +3501,7 @@
 			<th class="sub" rowspan="4">Active</th>
 			<th class="sub">Present</th>
 			<td>uocem</td>
-			<td>uovēs</td>
+			<td>uocēs</td>
 			<td>uocet</td>
 			<td>uocēmus</td>
 			<td>uocētis</td>
@@ -2608,27 +3518,27 @@
 		</tr>
 		<tr>
 			<th class="sub">Perfect</th>
-			<td>uocāverim</td>
-			<td>uocāverīs</td>
-			<td>uocāverit</td>
-			<td>uocāverimus</td>
-			<td>uocāveritis</td>
-			<td>uocāverint</td>
+			<td>uocāuerim</td>
+			<td>uocāuerīs</td>
+			<td>uocāuerit</td>
+			<td>uocāuerīmus</td>
+			<td>uocāuerītis</td>
+			<td>uocāuerint</td>
 		</tr>
 		<tr>
 			<th class="sub">Pluperfect</th>
-			<td>uocāvissem</td>
-			<td>uocāvissēs</td>
-			<td>uocāvisset</td>
-			<td>uocāvissēmus</td>
-			<td>uocāvissētis</td>
-			<td>uocāvissent</td>
+			<td>uocāuissem</td>
+			<td>uocāuissēs</td>
+			<td>uocāuisset</td>
+			<td>uocāuissēmus</td>
+			<td>uocāuissētis</td>
+			<td>uocāuissent</td>
 		</tr>
 		<tr>
 			<th class="sub" rowspan="4">Passive</th>
 			<th class="sub">Present</th>
 			<td>uocer</td>
-			<td>uocēris</td>
+			<td>uocēris (uocēre)</td>
 			<td>uocētur</td>
 			<td>uocēmur</td>
 			<td>uocēminī</td>
@@ -2637,7 +3547,7 @@
 		<tr>
 			<th class="sub">Imperfect</th>
 			<td>uocārer</td>
-			<td>uocārēris</td>
+			<td>uocārēris (uocārēre)</td>
 			<td>uocārētur</td>
 			<td>uocārēmur</td>
 			<td>uocārēminī</td>
@@ -2691,7 +3601,7 @@
 			<td>uocātō</td>
 			<td>—</td>
 			<td>uocātōte</td>
-			<td>uocāntō</td>
+			<td>uocantō</td>
 		</tr>
 		<tr>
 			<th class="imp" rowspan="2">Passive</th>
@@ -2728,7 +3638,7 @@
 		<tr>
 			<th class="inf" colspan="2">Inifintive</th>
 			<td>uocāre</td>
-			<td>uocāvisse</td>
+			<td>uocāuisse</td>
 			<td>uocātūrus esse</td>
 			<td>uocārī</td>
 			<td>uocātus esse</td>
@@ -2744,6 +3654,7 @@
 			<td>uocāndus</td>
 		</tr>
 	</table>
+	<br d:priority="2" />
 </d:entry>
 
 <!-- X -->
