@@ -31,80 +31,71 @@
         <hr>
 
         <section id="main_content">
-          <h1>
-<a id="about" class="anchor" href="#about" aria-hidden="true"><span class="octicon octicon-link"></span></a>About</h1>
+          <h1><a id="about" class="anchor" href="#about" aria-hidden="true"><span class="octicon octicon-link"></span></a>About</h1>
 
-<p>This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
-Developer Tools from Apple. Entries include both Latin-English and English-Latin
-definitions.</p>
+          <p>This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
+            Developer Tools from Apple. Entries include both Latin-English and English-Latin
+            definitions.</p>
 
-<h3>
-<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started</h3>
+          <h3><a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started</h3>
 
-<p>NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
-possible to edit the XML file that contains all of the entries on any OS with
-a text editor, and to commit changes to the project with Git, but building and
-using the dictionary requires Mac OS X.</p>
+          <p>NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
+            possible to edit the XML file that contains all of the entries on any OS with
+            a text editor, and to commit changes to the project with Git, but building and
+            using the dictionary requires Mac OS X.</p>
 
-<h4>
-<a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Setting up the development environment</h4>
+          <h4><a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Setting up the development environment</h4>
 
-<h5>
-<a id="1-install-xcode" class="anchor" href="#1-install-xcode" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Install Xcode</h5>
+          <h5><a id="1-install-xcode" class="anchor" href="#1-install-xcode" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Install Xcode</h5>
 
-<p>Xcode is available gratis from the <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">Mac App Store</a>.</p>
+          <p>Xcode is available gratis from the <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">Mac App Store</a>.</p>
 
-<p><img src="https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png" alt="Xcode on the App Store"></p>
+          <p><img src="https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png" alt="Xcode on the App Store"></p>
 
-<h5>
-<a id="2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" class="anchor" href="#2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. Download the "Auxiliary Tools for Xcode" from the Apple developer page</h5>
+          <h5><a id="2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" class="anchor" href="#2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. Download the "Auxiliary Tools for Xcode" from the Apple developer page</h5>
 
-<p>First, navigate to the <a href="https://developer.apple.com/devcenter/mac/index.action">Mac Dev Center Website</a>
-and sign in. If you do not have an apple developer account, you can register 
-your apple ID as free developer account. (NOTE: This is not the same as the
-yearly subscription to the Mac Developer Program which costs $99/yr)</p>
 
-<p>Once you've signed in, click on "View all downloads" under the section labeled
-"Additional Downloads". This will take you to the search dialog for all of the
-developer resources for Mac development.</p>
+          <p>First, navigate to the <a href="https://developer.apple.com/devcenter/mac/index.action">Mac Dev Center Website</a>
+            and sign in. If you do not have an apple developer account, you can register 
+            your apple ID as free developer account. (NOTE: This is not the same as the
+            yearly subscription to the Mac Developer Program which costs $99/yr)</p>
 
-<p>Here you are looking for the "Auxiliary Tools for Xcode". Download the most recent
-version and open the DMG file.</p>
+          <p>Once you've signed in, click on "View all downloads" under the section labeled
+            "Additional Downloads". This will take you to the search dialog for all of the
+            developer resources for Mac development.</p>
 
-<p>From the DMG, copy the "Dictionary Development Kit" into "/Applications/Utilities/".
-The Makefile for this project is preconfigured to use that directory.</p>
+          <p>Here you are looking for the "Auxiliary Tools for Xcode". Download the most recent
+            version and open the DMG file.</p>
 
-<h4>
-<a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Editing the Code</h4>
+          <p>From the DMG, copy the "Dictionary Development Kit" into "/Applications/Utilities/".
+            The Makefile for this project is preconfigured to use that directory.</p>
 
-<p>To edit the code, simply clone the repository onto your own machine, and open the
-project with Xcode. We recommend using the Github desktop app for ease of use.</p>
+          <h4><a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Editing the Code</h4>
 
-<h4>
-<a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building the Dictionary</h4>
+          <p>To edit the code, simply clone the repository onto your own machine, and open the
+            project with Xcode. We recommend using the Github desktop app for ease of use.</p>
 
-<p>The project is preconfigured to use the Makefile for building and automatically 
-puts the resulting .dictionary file into the "~/Library/Dictionaries" directory.</p>
+          <h4><a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building the Dictionary</h4>
 
-<h5>
-<a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Style Guidelines</h5>
+          <p>The project is preconfigured to use the Makefile for building and automatically 
+            puts the resulting .dictionary file into the "~/Library/Dictionaries" directory.</p>
 
-<p>In general follow the standards set by the existing entries.</p>
+          <h5><a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Style Guidelines</h5>
 
-<ol>
-<li>Normal Latin text does not have macrons; Only the dictionary entries
-themselves include macrons. All of the search terms and English-Latin
-definitions have to have macrons, whereas all example sentences should not
-have macrons</li>
-</ol>
+          <p>In general follow the standards set by the existing entries.</p>
+
+          <ol>
+            <li>Normal Latin text does not have macrons; Only the dictionary entries
+              themselves include macrons. All of the search terms and English-Latin
+              definitions have to have macrons, whereas all example sentences should not
+              have macrons</li>
+          </ol>
         </section>
 
         <footer>
           Modern Latin Dictionary is maintained by <a href="https://github.com/NLBuescher">NLBuescher</a><br>
           This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
         </footer>
-
-        
       </div>
     </div>
   </body>
