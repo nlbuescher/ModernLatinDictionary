@@ -1,4 +1,7 @@
 
 *.xcuserstate
 
-ModernLatinDictionary.xcodeproj/project.xcworkspace/xcuserdata/*
+ModernLatinDictionary.xcodeproj/project.xcworkspace/xcuserdata/
+
+ModernLatinDictionary.xcodeproj/xcuserdata/
+
