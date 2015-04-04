@@ -126,12 +126,12 @@
 <!-- C -->
 <d:entry id="caffeum"	d:title="caffeum">
 	<d:index d:value="caffeum"		d:title="caffeum"/>
-	<d:index d:value="caffevm"		d:title="caffeum"/>		<!-- Capital V form -->
+	<d:index d:value="caffevm"		d:title="caffeum"/> <!-- Capital -->
 	<d:index d:value="caffeī"		d:title="caffeī"/>
 	<d:index d:value="caffeō"		d:title="caffeō"/>
 	<d:index d:value="caffea"		d:title="caffea"/>
 	<d:index d:value="caffeōrum"	d:title="caffeōrum"/>
-	<d:index d:value="caffeōrvm"	d:title="caffeōrum"/>	<!-- Capital V form -->
+	<d:index d:value="caffeōrvm"	d:title="caffeōrum"/> <!-- Capital -->
 	<d:index d:value="caffeīs"		d:title="caffeīs"/>
 	<span class="title">caffeum </span>
 	<span class="syntax">
