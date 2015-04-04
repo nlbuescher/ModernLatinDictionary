@@ -15,9 +15,9 @@ using the dictionary requires Mac OS X.
 
 ##### 1. Install Xcode
 
-Xcode is available gratis from the Mac App Store.
+Xcode is available gratis from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 
-[![Xcode on the App Store](https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+![Xcode on the App Store](https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png)
 
 ##### 2. Download the "Auxiliary Tools for Xcode" from the Apple developer page
 
@@ -39,9 +39,12 @@ The Makefile for this project is preconfigured to use that directory.
 #### Editing the Code
 
 To edit the code, simply clone the repository onto your own machine, and open the
-project with Xcode. The project is preconfigured to use the Makefile for building
-and automatically puts the resulting .dictionary file into the
-"~/Library/Dictionaries" directory
+project with Xcode. We recommend using the Github desktop app for ease of use.
+
+#### Building the Dictionary
+
+The project is preconfigured to use the Makefile for building and automatically 
+puts the resulting .dictionary file into the "~/Library/Dictionaries" directory.
 
 ##### Style Guidelines
 
