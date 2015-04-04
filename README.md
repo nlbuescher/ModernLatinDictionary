@@ -17,7 +17,7 @@ using the dictionary requires Mac OS X.
 
 Xcode is available gratis from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 
-<img alt="Xcode on the App Store" src="https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png">
+![Xcode on the App Store](https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png)
 
 ##### 2. Download the "Auxiliary Tools for Xcode" from the Apple developer page
 
