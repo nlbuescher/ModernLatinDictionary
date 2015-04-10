@@ -29,8 +29,16 @@ p#desc {
 	margin-top: .2em;
 }
 
-p.sub {
+p#sub1 {
 	text-indent: 1em;
+}
+
+p#sub2 {
+	text-indent: 2em;
+}
+
+p#sub3 {
+	text-indent: 3em;
 }
 
 span .column {
