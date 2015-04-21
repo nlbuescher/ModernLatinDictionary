@@ -28,6 +28,7 @@ p {
 p#desc {
 	margin-top: .2em;
 }
+p { margin: 0; }
 
 p#sub1 {
 	text-indent: 1em;
