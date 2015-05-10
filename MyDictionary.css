@@ -1,45 +1,33 @@
 @charset "UTF-8";
 @namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
-d|entry {
-}
+d|entry {  }
 
-h1 {
-	font-size: 150%;
-}
+h1 { font-size: 150%; }
 
-h3 {
-	font-size: 100%;
-}
+h3 { font-size: 100%; }
 
 span.title {
 	font-size: 150%;
 	margin-bottom: 2em;
 }
 
-span.syntax {
-	color: #808080;
-}
+span.syntax { color: #808080; }
 
-p {
-	margin: 0;
-}
+p { margin: 0; }
 
-p#desc {
-	margin-top: .2em;
-}
+p#desc { margin-top: .2em; }
 
-p#sub1 {
-	text-indent: 1em;
-}
+p#sub1 { text-indent: 1em; }
+p#sub2 { text-indent: 2em; }
+p#sub3 { text-indent: 3em; }
 
-p#sub2 {
-	text-indent: 2em;
+sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
 }
-
-p#sub3 {
-	text-indent: 3em;
-}
+sub { top: 0.4em; }
 
 span .column {
 	display: block;
@@ -57,9 +45,7 @@ table {
 	border-collapse: collapse;
 }
 
-.col {
-	text-align: left;
-}
+.col { text-align: left; }
 
 th {
 	padding: 0.3em;
@@ -69,25 +55,12 @@ th {
 	background-color: #C0C0C0;
 }
 
-#top {
-	text-align: center;
-}
+#top { text-align: center; }
 
-th.ind {
-	background-color: #C0CFE4;
-}
-
-th.sub {
-	background-color: #C0E4C0;
-}
-
-th.imp {
-	background-color: #E4D4C0;
-}
-
-th.inf {
-	background-color: #E2E4C0;
-}
+th.ind { background-color: #C0CFE4; }
+th.subj { background-color: #C0E4C0; }
+th.imp { background-color: #E4D4C0; }
+th.inf { background-color: #E2E4C0; }
 
 td {
 	padding: 0.3em;
