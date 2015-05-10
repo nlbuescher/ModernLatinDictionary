@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
-d|entry { 
+d:entry { 
   margin-top: 4em;
 }
 
