@@ -10,7 +10,7 @@ h3 { font-size: 100%; }
 span.title {
   font-size: 150%;
   margin-bottom: 2em;
-  margin-top: 10em;
+  padding-top: 10em;
 }
 
 span.syntax { color: #808080; }
