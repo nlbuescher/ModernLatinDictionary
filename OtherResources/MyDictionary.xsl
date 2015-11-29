@@ -56,44 +56,28 @@
 	</xsl:if>
 </xsl:template>
 
+<xsl:template match="*[@d:pr='SP_IPA']">
+    <xsl:if test="$la_pronunciation = '0'">
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()" />
+        </xsl:copy>
+    </xsl:if>
+</xsl:template>
+
+<xsl:template match="*[@d:pr='VA_IPA']">
+    <xsl:if test="$la_pronunciation = '1'">
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()" />
+        </xsl:copy>
+    </xsl:if>
+</xsl:template>
+
 <xsl:template match="*[@d:pr='EN_IPA']">
 	<xsl:if test="$en_pronunciation = '0'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
-	<xsl:if test="$en_pronunciation = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='SP_IPA']">
-	<xsl:if test="$la_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='VA_IPA']">
-	<xsl:if test="$la_pronunciation = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='US_IPA']">
-	<xsl:if test="$en_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='UK_IPA']">
 	<xsl:if test="$en_pronunciation = '1'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
