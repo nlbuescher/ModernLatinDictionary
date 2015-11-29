@@ -50,3 +50,7 @@ In general follow the standards set by the existing entries.
    themselves include macrons. All of the search terms and English-Latin
    definitions have to have macrons, whereas all example sentences should not
    have macrons
+
+2. This project treats 'V' and 'U' as the same letter, so all Latin text should
+   have only capital 'V's and only lower-case 'U's. The index for each entry
+   accounts for searching by all valid permutations of 'V' and 'U'.
