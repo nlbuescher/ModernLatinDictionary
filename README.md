@@ -21,17 +21,13 @@ Xcode is available gratis from the [Mac App Store](https://itunes.apple.com/us/a
 
 ##### 2. Download the "Auxiliary Tools for Xcode" from the Apple developer page
 
-First, navigate to the [Mac Dev Center Website](https://developer.apple.com/devcenter/mac/index.action)
+First, navigate to the [Apple Developer Downloads page](https://developer.apple.com/downloads/)
 and sign in. If you do not have an apple developer account, you can register 
-your apple ID as free developer account. (NOTE: This is not the same as the
+your apple ID as a free developer account. (NOTE: This is not the same as the
 yearly subscription to the Mac Developer Program which costs $99/yr)
 
-Once you've signed in, click on "View all downloads" under the section labeled
-"Additional Downloads". This will take you to the search dialog for all of the
-developer resources for Mac development.
-
-Here you are looking for the "Auxiliary Tools for Xcode". Download the most recent
-version and open the DMG file.
+Once you've signed in, click on the search bar in the top left and search for
+"Auxiliary Tools". Download the most recent version and open the DMG file.
 
 From the DMG, copy the "Dictionary Development Kit" into "/Applications/Utilities/".
 The Makefile for this project is preconfigured to use that directory.
