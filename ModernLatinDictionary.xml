@@ -73,38 +73,50 @@
 </d:entry>
 
 <!-- C -->
-<d:entry id="caffeum"	d:title="caffeum">
-	<d:index d:value="caffeum"		d:title="caffeum"/>
-	<d:index d:value="caffevm"		d:title="caffeum"/> <!-- Capital -->
-	<d:index d:value="caffeī"		d:title="caffeī"/>
-	<d:index d:value="caffeō"		d:title="caffeō"/>
-	<d:index d:value="caffea"		d:title="caffea"/>
-	<d:index d:value="caffeōrum"	d:title="caffeōrum"/>
-	<d:index d:value="caffeōrvm"	d:title="caffeōrum"/> <!-- Capital -->
-	<d:index d:value="caffeīs"		d:title="caffeīs"/>
-	<span class="title">caffeum </span>
+<d:entry id="coffeum"	d:title="coffeum">
+	<d:index d:value="coffeum"		d:title="coffeum"/>
+	<d:index d:value="coffevm"		d:title="coffeum"/> <!-- Capital -->
+	<d:index d:value="coffeī"		d:title="coffeī"/>
+	<d:index d:value="coffeō"		d:title="coffeō"/>
+	<d:index d:value="coffea"		d:title="coffea"/>
+	<d:index d:value="coffeōrum"	d:title="coffeōrum"/>
+	<d:index d:value="coffeōrvm"	d:title="coffeōrum"/> <!-- Capital -->
+	<d:index d:value="coffeīs"		d:title="coffeīs"/>
+	<!-- Alternate Spelling: caffeum -->
+	<d:index d:value="caffeum"		d:title="coffeum"/>
+	<d:index d:value="caffevm"		d:title="coffeum"/> <!-- Capital -->
+	<d:index d:value="caffeī"		d:title="coffeī"/>
+	<d:index d:value="caffeō"		d:title="coffeō"/>
+	<d:index d:value="caffea"		d:title="coffea"/>
+	<d:index d:value="caffeōrum"	d:title="coffeōrum"/>
+	<d:index d:value="caffeōrvm"	d:title="coffeōrum"/> <!-- Capital -->
+	<d:index d:value="caffeīs"		d:title="coffeīs"/>
+	<span class="title">coffeum </span>
 	<span class="syntax">
-		<span d:pr="SP_IPA">| ˈkaf.fɛ.ũ |</span>
-		<span d:pr="VA_IPA">| ˈkaf.fɛ.ʊm |</span>
+		<span d:pr="SP_IPA">| ˈkof.fɛ.ũ |</span>
+		<span d:pr="VA_IPA">| ˈkof.fɛ.ʊm |</span>
 	</span>
 	<br />
-	<p id="desc">nomen, neutri, 2<sup>ae</sup> declinationis (genitiuus: <b>caffeī</b>)</p>
+	<p id="desc">nomen, neutri, 2<sup>ae</sup> declinationis (genitiuus: <b>coffeī</b>)</p>
 	<br />
 	<p><b>1.</b> coffee</p>
-	<p id="sub1">• (<i>per extentionem</i>) any type of coffee<span d:priority="2"> : <i>caffeum Colombiae</i> – Colombian coffee</span></p>
+	<p id="sub1">• (<i>per extentionem</i>) any type of coffee<span d:priority="2"> : <i>coffeum Colombiae</i> – a Colombian coffee</span></p>
 	<br />
-	<p>ORIGO ex lingua Italica, de <i><b>caffè</b></i></p>
+	<p>ORIGO ex lingua Arabica, de <span class="arabic"><i><b>قهوة</b></i></span> (<i>qahwa</i>)</p>
+	<br />
+	<p>FORMA ALIA</p>
+	<p id="sub1">• caffeum</p>
 	<br />
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
 		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
-		<tr><th class="ind">Nominatiuus</th>	<td>caffeum</td>	<td>caffea</td></tr>
-		<tr><th class="ind">Genitiuus</th>		<td>caffeī</td>		<td>caffeōrum</td></tr>
-		<tr><th class="ind">Datiuus</th>		<td>caffeō</td>		<td>caffeīs</td></tr>
-		<tr><th class="ind">Accusatiuus</th>	<td>caffeum</td>	<td>caffea</td></tr>
-		<tr><th class="ind">Ablatiuus</th>		<td>caffeō</td>		<td>caffeīs</td></tr>
-		<tr><th class="ind">Vocatiuus</th>		<td>caffeum</td>	<td>caffea</td></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>coffeum</td>	<td>coffea</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>coffeī</td>		<td>coffeōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>coffeō</td>		<td>coffeīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>coffeum</td>	<td>coffea</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>coffeō</td>		<td>coffeīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>coffeum</td>	<td>coffea</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -615,7 +627,7 @@
 	<p id="sub1"><b>2.</b> (<i>mathematica</i>) plus<span d:priority="2"> : <i>Duo et tria sunt quinque</i> – two plus three equals five</span></p>
 	<br />
 	<p>NOTA VSVS</p>
-	<p id="sub1">• When used in pairs, <b>et ... et</b> equates to English <i>'both ... and'</i></p>
+	<p id="sub1">• Latinum <b>'et ... et'</b> Anglice significat <i>'both ... and'</i></p>
 	<br />
 	<p>SYNONYMA</p>
 	<p id="sub1">• atque</p>
@@ -683,6 +695,27 @@
 <!-- P -->
 
 <!-- Q -->
+<d:entry id="-que"		d:title="-que">
+	<d:index d:value="-que"	d:title="-que"/>
+	<d:index d:value="-qve"	d:title="-que"/> <!-- Capital -->
+	<span class="title">-que </span>
+	<span class="syntax">
+		<span d:pr="SP_IPA">| kʷɛ |</span>
+		<span d:pr="VA_IPA">| kwɛ |</span>
+	</span>
+	<br />
+	<p id="desc">enclitica coniunctio</p>
+	<br />
+	<p>• and</p>
+	<br />
+	<p>NOTA VSVS</p>
+	<p id="sub1">• Latinum '<b>...que ...que</b>' Anglice significat '<i>both ... and ...</i>'</p>
+	<br />
+	<p>SYNONYMA</p>
+	<p id="sub1">• atque</p>
+	<p id="sub1">• et</p>
+	<br />
+</d:entry>
 <d:entry id="quī"		d:title="quī">
 	<d:index d:value="quī"		d:title="quī"/>
 	<d:index d:value="qvī"		d:title="quī"/> <!-- Capital -->
@@ -819,7 +852,7 @@
 	<p><b>1.</b> tea</p>
 	<p id="sub1">• (<i>per extentionem</i>) any type of tea<span d:priority="2"> : <i>thea menthae</i> – mint tea</span></p>
 	<br />
-	<p>ORIGO ex lingua Gallica, de <i><b>thè</b></i>, quod de linguae Sericae 茶 <i>(chá)</i></p>
+	<p>ORIGO ex lingua Gallica, de <i><b>thè</b></i>, quod de linguae Sericae 茶 (<i>chá</i>)</p>
 	<br />
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
