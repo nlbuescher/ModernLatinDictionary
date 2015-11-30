@@ -17,9 +17,9 @@
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
-	<string>MyDictionary_prefs.html</string>
+	<string>ModernLatinDictionary_prefs.html</string>
 	<key>DCSDictionaryXSL</key>
-	<string>MyDictionary.xsl</string>
+	<string>ModernLatinDictionary.xsl</string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
 		<key>la_pronunciation</key>

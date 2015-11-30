@@ -1,17 +1,15 @@
 #
 # Makefile
 #
-#
-#
 
 ###########################
 
 # You need to edit these values.
 
-DICT_NAME		=	"Dictionarium Modernae Linguae Latinae - Latina-Anglicam • Anglica-Latinam (Latin-English)"
-DICT_SRC_PATH	=	MyDictionary.xml
-CSS_PATH		=	MyDictionary.css
-PLIST_PATH		=	MyInfo.plist
+DICT_NAME		=	"Modernum Dictionarium Latinae - Latina-Anglicam • Anglica-Latinam"
+DICT_SRC_PATH	=	ModernLatinDictionary.xml
+CSS_PATH		=	ModernLatinDictionary.css
+PLIST_PATH		=	Info.plist
 
 # DICT_BUILD_OPTS	=	-s 0	# Suppress adding supplementary key.
 
