@@ -25,34 +25,13 @@
 	<p>DECLINATIO solum formas plurales habet</p>
 	<br />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>arma</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>armōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>armīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>arma</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>armīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>arma</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>arma</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>armōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>armīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>arma</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>armīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>arma</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -81,46 +60,14 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singularis</th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>bellum</td>
-			<td>bella</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>bellī</td>
-			<td>bellōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>bellō</td>
-			<td>bellīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>bellum</td>
-			<td>bella</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>bellō</td>
-			<td>bellīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>bellum</td>
-			<td>bella</td>
-		</tr>
-		<tr>
-			<th class="subj">Locatiuus</th>
-			<td>bellī</td>
-			<td>—</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>bellum</td>	<td>bella</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>bellī</td>	<td>bellōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>bellō</td>	<td>bellīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>bellum</td>	<td>bella</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>bellō</td>	<td>bellīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>bellum</td>	<td>bella</td></tr>
+		<tr><th class="subj">Locatiuus</th>		<td>bellī</td>	<td>—</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -151,41 +98,13 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singularis</th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>caffeum</td>
-			<td>caffea</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>caffeī</td>
-			<td>caffeōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>caffeō</td>
-			<td>caffeīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>caffeum</td>
-			<td>caffea</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>caffeō</td>
-			<td>caffeīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>caffeum</td>
-			<td>caffea</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>caffeum</td>	<td>caffea</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>caffeī</td>		<td>caffeōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>caffeō</td>		<td>caffeīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>caffeum</td>	<td>caffea</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>caffeō</td>		<td>caffeīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>caffeum</td>	<td>caffea</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -454,298 +373,40 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th>
-			<th class="ind" id="top" colspan="3">Singularis</th>
-			<th class="ind" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="ind" rowspan="6">Actiuus</th>
-			<th class="ind">Praesens</th>
-			<td>canō</td>
-			<td>canis</td>
-			<td>canit</td>
-			<td>canimus</td>
-			<td>canitis</td>
-			<td>canunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Infectum</th>
-			<td>canēbam</td>
-			<td>canēbās</td>
-			<td>canēbat</td>
-			<td>canēbāmus</td>
-			<td>canēbātis</td>
-			<td>canēbant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum</th>
-			<td>canam</td>
-			<td>canēs</td>
-			<td>canet</td>
-			<td>canēmus</td>
-			<td>canētis</td>
-			<td>canent</td>
-		</tr>
-		<tr>
-			<th class="ind">Perfectum</th>
-			<td>cecinī</td>
-			<td>cecinistī</td>
-			<td>cecinit</td>
-			<td>cecinimus</td>
-			<td>cecinistis</td>
-			<td>cecinērunt (cecinēre)</td>
-		</tr>
-		<tr>
-			<th class="ind">Plusquam Perfectum</th>
-			<td>cecineram</td>
-			<td>cecinerās</td>
-			<td>cecinerat</td>
-			<td>cecinerāmus</td>
-			<td>cecinerātis</td>
-			<td>cecinerant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum Perfectum</th>
-			<td>cecinerō</td>
-			<td>cecineris</td>
-			<td>cecinerit</td>
-			<td>cecinerimus</td>
-			<td>cecineritis</td>
-			<td>cecinerint</td>
-		</tr>
-		<tr>
-			<th class="ind" rowspan="6">Passiuus</th>
-			<th class="ind">Praesens</th>
-			<td>canor</td>
-			<td>caneris (canere)</td>
-			<td>canitur</td>
-			<td>canimur</td>
-			<td>caniminī</td>
-			<td>canuntur</td>
-		</tr>
-		<tr>
-			<th class="ind">Infectum</th>
-			<td>canēbar</td>
-			<td>canēbāris (canēbāre)</td>
-			<td>canēbātur</td>
-			<td>canēbāmur</td>
-			<td>canēbāminī</td>
-			<td>canēbantur</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum</th>
-			<td>canar</td>
-			<td>canēris (canēre)</td>
-			<td>canētur</td>
-			<td>canēmur</td>
-			<td>canēminī</td>
-			<td>canentur</td>
-		</tr>
-		<tr>
-			<th class="ind">Perfectum</th>
-			<td>cantus sum</td>
-			<td>cantus es</td>
-			<td>cantus est</td>
-			<td>cantī sumus</td>
-			<td>cantī estis</td>
-			<td>cantī sunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Plusquam Perfectum</th>
-			<td>cantus eram</td>
-			<td>cantus erās</td>
-			<td>cantus erat</td>
-			<td>cantī erāmus</td>
-			<td>cantī erātis</td>
-			<td>cantī erant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum Perfectum</th>
-			<td>cantus erō</td>
-			<td>cantus eris</td>
-			<td>cantus erit</td>
-			<td>cantī erimus</td>
-			<td>cantī eritis</td>
-			<td>cantī erunt</td>
-		</tr>
-		<tr>
-			<th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th>
-			<th class="subj" id="top" colspan="3">Singularis</th>
-			<th class="subj" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="subj" rowspan="4">Actiuus</th>
-			<th class="subj">Praesens</th>
-			<td>canam</td>
-			<td>canās</td>
-			<td>canat</td>
-			<td>canāmus</td>
-			<td>canātis</td>
-			<td>canant</td>
-		</tr>
-		<tr>
-			<th class="subj">Infectum</th>
-			<td>canerem</td>
-			<td>canerēs</td>
-			<td>caneret</td>
-			<td>canerēmus</td>
-			<td>canerētis</td>
-			<td>canerent</td>
-		</tr>
-		<tr>
-			<th class="subj">Perfectum</th>
-			<td>cecinerim</td>
-			<td>cecinerīs</td>
-			<td>cecinerit</td>
-			<td>cecinerīmus</td>
-			<td>cecinerītis</td>
-			<td>cecinerint</td>
-		</tr>
-		<tr>
-			<th class="subj">Plusquam Perfectum</th>
-			<td>cecinissem</td>
-			<td>cecinissēs</td>
-			<td>cecinisset</td>
-			<td>cecinissēmus</td>
-			<td>cecinissētis</td>
-			<td>cecinissent</td>
-		</tr>
-		<tr>
-			<th class="subj" rowspan="4">Passiuus</th>
-			<th class="subj">Praesens</th>
-			<td>canar</td>
-			<td>canāris (canāre)</td>
-			<td>canātur</td>
-			<td>canāmur</td>
-			<td>canāminī</td>
-			<td>canantur</td>
-		</tr>
-		<tr>
-			<th class="subj">Infectum</th>
-			<td>canerer</td>
-			<td>canerēris (canerēre)</td>
-			<td>canerētur</td>
-			<td>canerēmur</td>
-			<td>canerēminī</td>
-			<td>canerentur</td>
-		</tr>
-		<tr>
-			<th class="subj">Perfectum</th>
-			<td>cantus sim</td>
-			<td>cantus sīs</td>
-			<td>cantus sit</td>
-			<td>cantī sīmus</td>
-			<td>cantī sītis</td>
-			<td>cantī sint</td>
-		</tr>
-		<tr>
-			<th class="subj">Plusquam Perfectum</th>
-			<td>cantus essem</td>
-			<td>cantus essēs</td>
-			<td>cantus esset</td>
-			<td>cantī essēmus</td>
-			<td>cantī essētis</td>
-			<td>cantī essent</td>
-		</tr>
-		<tr>
-			<th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th>
-			<th class="imp" id="top" colspan="3">Singularis</th>
-			<th class="imp" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="imp" rowspan="2">Actiuus</th>
-			<th class="imp">Praesens</th>
-			<td>—</td>
-			<td>cane</td>
-			<td>—</td>
-			<td>—</td>
-			<td>canite</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imp">Futurum</th>
-			<td>—</td>
-			<td>canitō</td>
-			<td>canitō</td>
-			<td>—</td>
-			<td>canitōte</td>
-			<td>canuntō</td>
-		</tr>
-		<tr>
-			<th class="imp" rowspan="2">Passiuus</th>
-			<th class="imp">Praesens</th>
-			<td>—</td>
-			<td>canere</td>
-			<td>—</td>
-			<td>—</td>
-			<td>caniminī</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imp">Futurum</th>
-			<td>—</td>
-			<td>canitor</td>
-			<td>canitor</td>
-			<td>—</td>
-			<td>—</td>
-			<td>canuntor</td>
-		</tr>
-		<tr>
-			<th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th>
-			<th class="inf" id="top" colspan="3">Actiuus</th>
-			<th class="inf" id="top" colspan="3">Passiuus</th>
-		</tr>
-		<tr>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Infinitiuus</th>
-			<td>canere</td>
-			<td>cecinisse</td>
-			<td>cantūrus esse</td>
-			<td>canī</td>
-			<td>cantus esse</td>
-			<td>cantum īrī</td>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Participium</th>
-			<td>canēns</td>
-			<td>—</td>
-			<td>cantūrus</td>
-			<td>—</td>
-			<td>cantus</td>
-			<td>canendus</td>
-		</tr>
+		<tr><th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th><th class="ind" id="top" colspan="3">Singularis</th><th class="ind" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th></tr>
+		<tr><th class="ind" rowspan="6">Actiuus</th>	<th class="ind">Praesens</th>					<td>canō</td>			<td>canis</td>					<td>canit</td>			<td>canimus</td>		<td>canitis</td>		<td>canunt</td></tr>
+		<tr>											<th class="ind">Infectum</th>					<td>canēbam</td>		<td>canēbās</td>				<td>canēbat</td>		<td>canēbāmus</td>		<td>canēbātis</td>		<td>canēbant</td></tr>
+		<tr>											<th class="ind">Futurum</th>					<td>canam</td>			<td>canēs</td>					<td>canet</td>			<td>canēmus</td>		<td>canētis</td>		<td>canent</td></tr>
+		<tr>											<th class="ind">Perfectum</th>					<td>cecinī</td>			<td>cecinistī</td>				<td>cecinit</td>		<td>cecinimus</td>		<td>cecinistis</td>		<td>cecinērunt (cecinēre)</td></tr>
+		<tr>											<th class="ind">Plusquam Perfectum</th>			<td>cecineram</td>		<td>cecinerās</td>				<td>cecinerat</td>		<td>cecinerāmus</td>	<td>cecinerātis</td>	<td>cecinerant</td></tr>
+		<tr>											<th class="ind">Futurum Perfectum</th>			<td>cecinerō</td>		<td>cecineris</td>				<td>cecinerit</td>		<td>cecinerimus</td>	<td>cecineritis</td>	<td>cecinerint</td></tr>
+		<tr><th class="ind" rowspan="6">Passiuus</th>	<th class="ind">Praesens</th>					<td>canor</td>			<td>caneris (canere)</td>		<td>canitur</td>		<td>canimur</td>		<td>caniminī</td>		<td>canuntur</td></tr>
+		<tr>											<th class="ind">Infectum</th>					<td>canēbar</td>		<td>canēbāris (canēbāre)</td>	<td>canēbātur</td>		<td>canēbāmur</td>		<td>canēbāminī</td>		<td>canēbantur</td></tr>
+		<tr>											<th class="ind">Futurum</th>					<td>canar</td>			<td>canēris (canēre)</td>		<td>canētur</td>		<td>canēmur</td>		<td>canēminī</td>		<td>canentur</td></tr>
+		<tr>											<th class="ind">Perfectum</th>					<td>cantus sum</td>		<td>cantus es</td>				<td>cantus est</td>		<td>cantī sumus</td>	<td>cantī estis</td>	<td>cantī sunt</td></tr>
+		<tr>											<th class="ind">Plusquam Perfectum</th>			<td>cantus eram</td>	<td>cantus erās</td>			<td>cantus erat</td>	<td>cantī erāmus</td>	<td>cantī erātis</td>	<td>cantī erant</td></tr>
+		<tr>											<th class="ind">Futurum Perfectum</th>			<td>cantus erō</td>		<td>cantus eris</td>			<td>cantus erit</td>	<td>cantī erimus</td>	<td>cantī eritis</td>	<td>cantī erunt</td></tr>
+		<tr><th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th><th class="subj" id="top" colspan="3">Singularis</th><th class="subj" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th></tr>
+		<tr><th class="subj" rowspan="4">Actiuus</th>	<th class="subj">Praesens</th>					<td>canam</td>			<td>canās</td>					<td>canat</td>			<td>canāmus</td>		<td>canātis</td>		<td>canant</td></tr>
+		<tr>											<th class="subj">Infectum</th>					<td>canerem</td>		<td>canerēs</td>				<td>caneret</td>		<td>canerēmus</td>		<td>canerētis</td>		<td>canerent</td></tr>
+		<tr>											<th class="subj">Perfectum</th>					<td>cecinerim</td>		<td>cecinerīs</td>				<td>cecinerit</td>		<td>cecinerīmus</td>	<td>cecinerītis</td>	<td>cecinerint</td></tr>
+		<tr>											<th class="subj">Plusquam Perfectum</th>		<td>cecinissem</td>		<td>cecinissēs</td>				<td>cecinisset</td>		<td>cecinissēmus</td>	<td>cecinissētis</td>	<td>cecinissent</td></tr>
+		<tr><th class="subj" rowspan="4">Passiuus</th>	<th class="subj">Praesens</th>					<td>canar</td>			<td>canāris (canāre)</td>		<td>canātur</td>		<td>canāmur</td>		<td>canāminī</td>		<td>canantur</td></tr>
+		<tr>											<th class="subj">Infectum</th>					<td>canerer</td>		<td>canerēris (canerēre)</td>	<td>canerētur</td>		<td>canerēmur</td>		<td>canerēminī</td>		<td>canerentur</td></tr>
+		<tr>											<th class="subj">Perfectum</th>					<td>cantus sim</td>		<td>cantus sīs</td>				<td>cantus sit</td>		<td>cantī sīmus</td>	<td>cantī sītis</td>	<td>cantī sint</td></tr>
+		<tr>											<th class="subj">Plusquam Perfectum</th>		<td>cantus essem</td>	<td>cantus essēs</td>			<td>cantus esset</td>	<td>cantī essēmus</td>	<td>cantī essētis</td>	<td>cantī essent</td></tr>
+		<tr><th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th><th class="imp" id="top" colspan="3">Singularis</th><th class="imp" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th></tr>
+		<tr><th class="imp" rowspan="2">Actiuus</th>	<th class="imp">Praesens</th>					<td>—</td>				<td>cane</td>					<td>—</td>				<td>—</td>				<td>canite</td>			<td>—</td></tr>
+		<tr>											<th class="imp">Futurum</th>					<td>—</td>				<td>canitō</td>					<td>canitō</td>			<td>—</td>				<td>canitōte</td>		<td>canuntō</td></tr>
+		<tr><th class="imp" rowspan="2">Passiuus</th>	<th class="imp">Praesens</th>					<td>—</td>				<td>canere</td>					<td>—</td>				<td>—</td>				<td>caniminī</td>		<td>—</td></tr>
+		<tr>											<th class="imp">Futurum</th>					<td>—</td>				<td>canitor</td>				<td>canitor</td>		<td>—</td>				<td>—</td>				<td>canuntor</td></tr>
+		<tr><th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th><th class="inf" id="top" colspan="3">Actiuus</th><th class="inf" id="top" colspan="3">Passiuus</th></tr>
+		<tr><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th></tr>
+		<tr>											<th class="inf" colspan="2">Infinitiuus</th>	<td>canere</td>			<td>cecinisse</td>				<td>cantūrus esse</td>	<td>canī</td>			<td>cantus esse</td>	<td>cantum īrī</td></tr>
+		<tr>											<th class="inf" colspan="2">Participium</th>	<td>canēns</td>			<td>—</td>						<td>cantūrus</td>		<td>—</td>				<td>cantus</td>			<td>canendus</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -915,187 +576,28 @@
 	<p>DECLINATIO forma imperatiua futura <b><i>estō</i></b> saepe mauult, sed non semper, quam forma imperatiua praesente <b><i>es</i></b></p>
 	<br />
 	<table d:priority="2">
-		<tr>
-			<th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th>
-			<th class="ind" id="top" colspan="3">Singularis</th>
-			<th class="ind" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="ind" rowspan="6">Actiuus</th>
-			<th class="ind">Praesens</th>
-			<td>sum</td>
-			<td>es</td>
-			<td>est</td>
-			<td>sumus</td>
-			<td>estis</td>
-			<td>sunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Infectum</th>
-			<td>eram</td>
-			<td>erās</td>
-			<td>erat</td>
-			<td>erāmus</td>
-			<td>erātis</td>
-			<td>erant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum</th>
-			<td>erō</td>
-			<td>eris</td>
-			<td>erit</td>
-			<td>erimus</td>
-			<td>eritis</td>
-			<td>erunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Perfectum</th>
-			<td>fuī</td>
-			<td>fuistī</td>
-			<td>fuit</td>
-			<td>fuimus</td>
-			<td>fuistis</td>
-			<td>fuērunt (fuēre)</td>
-		</tr>
-		<tr>
-			<th class="ind">Plusquam Perfectum</th>
-			<td>fueram</td>
-			<td>fuerās</td>
-			<td>fuerat</td>
-			<td>fuerāmus</td>
-			<td>fuerātis</td>
-			<td>fuerant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum Perfectum</th>
-			<td>fuerō</td>
-			<td>fueris</td>
-			<td>fuerit</td>
-			<td>fuerimus</td>
-			<td>fueritis</td>
-			<td>fuerint</td>
-		</tr>
-		<tr>
-			<th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th>
-			<th class="subj" id="top" colspan="3">Singularis</th>
-			<th class="subj" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="subj" rowspan="4">Actiuus</th>
-			<th class="subj">Praesens</th>
-			<td>sim</td>
-			<td>sīs</td>
-			<td>sit</td>
-			<td>sīmus</td>
-			<td>sītis</td>
-			<td>sint</td>
-		</tr>
-		<tr>
-			<th class="subj">Infectum</th>
-			<td>essem, forem</td>
-			<td>essēs, forēs</td>
-			<td>esset, foret</td>
-			<td>essēmus, forēmus</td>
-			<td>essētis, forētis</td>
-			<td>essent, forent</td>
-		</tr>
-		<tr>
-			<th class="subj">Perfectum</th>
-			<td>fuerim</td>
-			<td>fuerīs</td>
-			<td>fuerit</td>
-			<td>fuerīmus</td>
-			<td>fuerītis</td>
-			<td>fuerint</td>
-		</tr>
-		<tr>
-			<th class="subj">Plusquam Perfect</th>
-			<td>fuissem</td>
-			<td>fuissēs</td>
-			<td>fuisset</td>
-			<td>fuissēmus</td>
-			<td>fuissētis</td>
-			<td>fuissent</td>
-		</tr>
-		<tr>
-			<th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th>
-			<th class="imp" id="top" colspan="3">Singularis</th>
-			<th class="imp" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="imp" rowspan="2">Actiuus</th>
-			<th class="imp">Praesens</th>
-			<td>—</td>
-			<td>es</td>
-			<td>—</td>
-			<td>—</td>
-			<td>este</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imp">Futurum</th>
-			<td>—</td>
-			<td>estō</td>
-			<td>estō</td>
-			<td>—</td>
-			<td>estōte</td>
-			<td>suntō</td>
-		</tr>
-		<tr>
-			<th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th>
-			<th class="inf" id="top" colspan="3">Actiuus</th>
-			<th class="inf" id="top" colspan="3">Passiuus</th>
-		</tr>
-		<tr>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Infinitiuus</th>
-			<td>esse</td>
-			<td>fuisse</td>
-			<td>futūrus esse</td>
-			<td>—</td>
-			<td>—</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Participium</th>
-			<td>—</td>
-			<td>—</td>
-			<td>futūrus</td>
-			<td>—</td>
-			<td>—</td>
-			<td>—</td>
-		</tr>
+		<tr><th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th><th class="ind" id="top" colspan="3">Singularis</th><th class="ind" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th></tr>
+		<tr><th class="ind" rowspan="6">Actiuus</th>	<th class="ind">Praesens</th>					<td>sum</td>			<td>es</td>				<td>est</td>			<td>sumus</td>				<td>estis</td>				<td>sunt</td></tr>
+		<tr>											<th class="ind">Infectum</th>					<td>eram</td>			<td>erās</td>			<td>erat</td>			<td>erāmus</td>				<td>erātis</td>				<td>erant</td></tr>
+		<tr>											<th class="ind">Futurum</th>					<td>erō</td>			<td>eris</td>			<td>erit</td>			<td>erimus</td>				<td>eritis</td>				<td>erunt</td></tr>
+		<tr>											<th class="ind">Perfectum</th>					<td>fuī</td>			<td>fuistī</td>			<td>fuit</td>			<td>fuimus</td>				<td>fuistis</td>			<td>fuērunt (fuēre)</td></tr>
+		<tr>											<th class="ind">Plusquam Perfectum</th>			<td>fueram</td>			<td>fuerās</td>			<td>fuerat</td>			<td>fuerāmus</td>			<td>fuerātis</td>			<td>fuerant</td></tr>
+		<tr>											<th class="ind">Futurum Perfectum</th>			<td>fuerō</td>			<td>fueris</td>			<td>fuerit</td>			<td>fuerimus</td>			<td>fueritis</td>			<td>fuerint</td></tr>
+		<tr><th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th><th class="subj" id="top" colspan="3">Singularis</th><th class="subj" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th></tr>
+		<tr><th class="subj" rowspan="4">Actiuus</th>	<th class="subj">Praesens</th>					<td>sim</td>			<td>sīs</td>			<td>sit</td>			<td>sīmus</td>				<td>sītis</td>				<td>sint</td></tr>
+		<tr>											<th class="subj">Infectum</th>					<td>essem, forem</td>	<td>essēs, forēs</td>	<td>esset, foret</td>	<td>essēmus, forēmus</td>	<td>essētis, forētis</td>	<td>essent, forent</td></tr>
+		<tr>											<th class="subj">Perfectum</th>					<td>fuerim</td>			<td>fuerīs</td>			<td>fuerit</td>			<td>fuerīmus</td>			<td>fuerītis</td>			<td>fuerint</td></tr>
+		<tr>											<th class="subj">Plusquam Perfect</td>			<td>fuissem</td>		<td>fuissēs</td>		<td>fuisset</td>		<td>fuissēmus</td>			<td>fuissētis</td>			<td>fuissent</td></tr>
+		<tr><th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th><th class="imp" id="top" colspan="3">Singularis</th><th class="imp" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th></tr>
+		<tr><th class="imp" rowspan="2">Actiuus</th>	<th class="imp">Praesens</th>					<td>—</td>				<td>es</td>				<td>—</td>				<td>—</td>					<td>este</td>				<td>—</td></tr>
+		<tr>											<th class="imp">Futurum</th>					<td>—</td>				<td>estō</td>			<td>estō</td>			<td>—</td>					<td>estōte</td>				<td>suntō</td></tr>
+		<tr><th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th><th class="inf" id="top" colspan="3">Actiuus</th><th class="inf" id="top" colspan="3">Passiuus</th></tr>
+		<tr><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th></tr>
+		<tr>											<th class="inf" colspan="2">Infinitiuus</th>	<td>esse</td>			<td>fuisse</td>			<td>futūrus esse</td>	<td>—</td>					<td>—</td>					<td>—</td></tr>
+		<tr>											<th class="inf" colspan="2">Participium</th>	<td>—</td>				<td>—</td>				<td>futūrus</td>		<td>—</td>					<td>—</td>					<td>—</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1155,41 +657,13 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singularis</th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>homō</td>
-			<td>hominēs</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>hominis</td>
-			<td>hominum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>hominī</td>
-			<td>hominibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>hominem</td>
-			<td>hominēs</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>homine</td>
-			<td>hominibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>homō</td>
-			<td>hominēs</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>homō</td>		<td>hominēs</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>hominis</td>	<td>hominum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>hominī</td>		<td>hominibus</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>hominem</td>	<td>hominēs</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>homine</td>		<td>hominibus</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>homō</td>		<td>hominēs</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1255,73 +729,14 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind" id="top" rowspan="2"></th>
-			<th class="ind" id="top" colspan="3">Singularis</th>
-			<th class="ind" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind" id="top">Masculinum</th>
-			<th class="ind" id="top">Femininum</th>
-			<th class="ind" id="top">Neutrum</th>
-			<th class="ind" id="top">Masculinum</th>
-			<th class="ind" id="top">Femininum</th>
-			<th class="ind" id="top">Neutrum</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quod</td>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quae</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>cuius</td>
-			<td>cuius</td>
-			<td>cuius</td>
-			<td>quōrum</td>
-			<td>quārum</td>
-			<td>quōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>cui</td>
-			<td>cui</td>
-			<td>cui</td>
-			<td>quibus</td>
-			<td>quibus</td>
-			<td>quibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>quem</td>
-			<td>quam</td>
-			<td>quod</td>
-			<td>quōs</td>
-			<td>quās</td>
-			<td>quae</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>quō</td>
-			<td>quā</td>
-			<td>quō</td>
-			<td>quibus</td>
-			<td>quibus</td>
-			<td>quibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quod</td>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quae</td>
-		</tr>
+		<tr><th class="ind" id="top" rowspan="2"></th><th class="ind" id="top" colspan="3">Singularis</th><th class="ind" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="ind" id="top">Masculinum</th><th class="ind" id="top">Femininum</th><th class="ind" id="top">Neutrum</th><th class="ind" id="top">Masculinum</th><th class="ind" id="top">Femininum</th><th class="ind" id="top">Neutrum</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>quī</td>	<td>quae</td>	<td>quod</td>	<td>quī</td>	<td>quae</td>	<td>quae</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>cuius</td>	<td>cuius</td>	<td>cuius</td>	<td>quōrum</td>	<td>quārum</td>	<td>quōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>cui</td>	<td>cui</td>	<td>cui</td>	<td>quibus</td>	<td>quibus</td>	<td>quibus</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>quem</td>	<td>quam</td>	<td>quod</td>	<td>quōs</td>	<td>quās</td>	<td>quae</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>quō</td>	<td>quā</td>	<td>quō</td>	<td>quibus</td>	<td>quibus</td>	<td>quibus</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>quī</td>	<td>quae</td>	<td>quod</td>	<td>quī</td>	<td>quae</td>	<td>quae</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1368,73 +783,14 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind" id="top" rowspan="2"></th>
-			<th class="ind" id="top" colspan="3">Singularis</th>
-			<th class="ind" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind" id="top">Masculinum</th>
-			<th class="ind" id="top">Femininum</th>
-			<th class="ind" id="top">Neutrum</th>
-			<th class="ind" id="top">Masculinum</th>
-			<th class="ind" id="top">Femininum</th>
-			<th class="ind" id="top">Neutrum</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>quis</td>
-			<td>quis</td>
-			<td>quid</td>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quae</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>cuius</td>
-			<td>cuius</td>
-			<td>cuius</td>
-			<td>quōrum</td>
-			<td>quārum</td>
-			<td>quōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>cui</td>
-			<td>cui</td>
-			<td>cui</td>
-			<td>quibus</td>
-			<td>quibus</td>
-			<td>quibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>quem</td>
-			<td>quem</td>
-			<td>quid</td>
-			<td>quōs</td>
-			<td>quās</td>
-			<td>quae</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>quō</td>
-			<td>quā</td>
-			<td>quō</td>
-			<td>quibus</td>
-			<td>quibus</td>
-			<td>quibus</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>quis</td>
-			<td>quis</td>
-			<td>quid</td>
-			<td>quī</td>
-			<td>quae</td>
-			<td>quae</td>
-		</tr>
+		<tr><th class="ind" id="top" rowspan="2"></th><th class="ind" id="top" colspan="3">Singularis</th><th class="ind" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="ind" id="top">Masculinum</th><th class="ind" id="top">Femininum</th><th class="ind" id="top">Neutrum</th><th class="ind" id="top">Masculinum</th><th class="ind" id="top">Femininum</th><th class="ind" id="top">Neutrum</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>quis</td>	<td>quis</td>	<td>quid</td>	<td>quī</td>	<td>quae</td>	<td>quae</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>cuius</td>	<td>cuius</td>	<td>cuius</td>	<td>quōrum</td>	<td>quārum</td>	<td>quōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>cui</td>	<td>cui</td>	<td>cui</td>	<td>quibus</td>	<td>quibus</td>	<td>quibus</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>quem</td>	<td>quem</td>	<td>quid</td>	<td>quōs</td>	<td>quās</td>	<td>quae</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>quō</td>	<td>quā</td>	<td>quō</td>	<td>quibus</td>	<td>quibus</td>	<td>quibus</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>quis</td>	<td>quis</td>	<td>quid</td>	<td>quī</td>	<td>quae</td>	<td>quae</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1468,41 +824,13 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singularis</th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>thea</td>
-			<td>theae</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>theae</td>
-			<td>theārum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>theae</td>
-			<td>theīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>theam</td>
-			<td>theās</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>theā</td>
-			<td>theīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>thea</td>
-			<td>theae</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>thea</td>	<td>theae</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>theae</td>	<td>theārum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>theae</td>	<td>theīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>theam</td>	<td>theās</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>theā</td>	<td>theīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>thea</td>	<td>theae</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1540,41 +868,13 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind"></th>
-			<th class="ind" id="top">Singularis</th>
-			<th class="ind" id="top">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind">Nominatiuus</th>
-			<td>uir</td>
-			<td>uirī</td>
-		</tr>
-		<tr>
-			<th class="ind">Genitiuus</th>
-			<td>uirī</td>
-			<td>uirōrum</td>
-		</tr>
-		<tr>
-			<th class="ind">Datiuus</th>
-			<td>uirō</td>
-			<td>uirīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Accusatiuus</th>
-			<td>uirum</td>
-			<td>uirōs</td>
-		</tr>
-		<tr>
-			<th class="ind">Ablatiuus</th>
-			<td>uirō</td>
-			<td>uirīs</td>
-		</tr>
-		<tr>
-			<th class="ind">Vocatiuus</th>
-			<td>uir</td>
-			<td>uirī</td>
-		</tr>
+		<tr><th class="ind"></th><th class="ind" id="top">Singularis</th><th class="ind" id="top">Pluralis</th></tr>
+		<tr><th class="ind">Nominatiuus</th>	<td>uir</td>	<td>uirī</td></tr>
+		<tr><th class="ind">Genitiuus</th>		<td>uirī</td>	<td>uirōrum</td></tr>
+		<tr><th class="ind">Datiuus</th>		<td>uirō</td>	<td>uirīs</td></tr>
+		<tr><th class="ind">Accusatiuus</th>	<td>uirum</td>	<td>uirōs</td></tr>
+		<tr><th class="ind">Ablatiuus</th>		<td>uirō</td>	<td>uirīs</td></tr>
+		<tr><th class="ind">Vocatiuus</th>		<td>uir</td>	<td>uirī</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
@@ -1987,298 +1287,40 @@
 	<p d:priority="2">DECLINATIO</p>
 	<br d:priority="2" />
 	<table d:priority="2">
-		<tr>
-			<th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th>
-			<th class="ind" id="top" colspan="3">Singularis</th>
-			<th class="ind" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-			<th class="ind" id="top">Prima</th>
-			<th class="ind" id="top">Secunda</th>
-			<th class="ind" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="ind" rowspan="6">Actiuus</th>
-			<th class="ind">Praesens</th>
-			<td>uocō</td>
-			<td>uocās</td>
-			<td>uocat</td>
-			<td>uocāmus</td>
-			<td>uocātis</td>
-			<td>uocant</td>
-		</tr>
-		<tr>
-			<th class="ind">Infectum</th>
-			<td>uocābam</td>
-			<td>uocābās</td>
-			<td>uocābat</td>
-			<td>uocābāmus</td>
-			<td>uocābātis</td>
-			<td>uocābant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum</th>
-			<td>uocābō</td>
-			<td>uocābis</td>
-			<td>uocābit</td>
-			<td>uocābimus</td>
-			<td>uocābitis</td>
-			<td>uocābunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Perfectum</th>
-			<td>uocāuī</td>
-			<td>uocāuistī</td>
-			<td>uocāuit</td>
-			<td>uocāuimus</td>
-			<td>uocāuistis</td>
-			<td>uocāuērunt (uocāuēre)</td>
-		</tr>
-		<tr>
-			<th class="ind">Plusquam Perfectum</th>
-			<td>uocāueram</td>
-			<td>uocāuerās</td>
-			<td>uocāuerat</td>
-			<td>uocāuerāmus</td>
-			<td>uocāuerātis</td>
-			<td>uocāuerant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum Perfectum</th>
-			<td>uocāuerō</td>
-			<td>uocāueris</td>
-			<td>uocāuerit</td>
-			<td>uocāuerimus</td>
-			<td>uocāueritis</td>
-			<td>uocāuerint</td>
-		</tr>
-		<tr>
-			<th class="ind" rowspan="6">Passiuus</th>
-			<th class="ind">Praesens</th>
-			<td>uocor</td>
-			<td>uocāris (uocāre)</td>
-			<td>uocātur</td>
-			<td>uocāmur</td>
-			<td>uocāminī</td>
-			<td>uocantur</td>
-		</tr>
-		<tr>
-			<th class="ind">Infectum</th>
-			<td>uocābar</td>
-			<td>uocābāris (uocābāre)</td>
-			<td>uocābātur</td>
-			<td>uocābāmur</td>
-			<td>uocābāminī</td>
-			<td>uocābantur</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum</th>
-			<td>uocābor</td>
-			<td>uocāberis (uocābere)</td>
-			<td>uocābitur</td>
-			<td>uocābimur</td>
-			<td>uocābiminī</td>
-			<td>uocābuntur</td>
-		</tr>
-		<tr>
-			<th class="ind">Perfectum</th>
-			<td>uocātus sum</td>
-			<td>uocātus es</td>
-			<td>uocātus est</td>
-			<td>uocātī sumus</td>
-			<td>uocātī estis</td>
-			<td>uocātī sunt</td>
-		</tr>
-		<tr>
-			<th class="ind">Plusquam Perfectum</th>
-			<td>uocātus eram</td>
-			<td>uocātus erās</td>
-			<td>uocātus erat</td>
-			<td>uocātī erāmus</td>
-			<td>uocātī erātis</td>
-			<td>uocātī erant</td>
-		</tr>
-		<tr>
-			<th class="ind">Futurum Perfectum</th>
-			<td>uocātus erō</td>
-			<td>uocātus eris</td>
-			<td>uocātus erit</td>
-			<td>uocātī erimus</td>
-			<td>uocātī eritis</td>
-			<td>uocātī erunt</td>
-		</tr>
-		<tr>
-			<th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th>
-			<th class="subj" id="top" colspan="3">Singularis</th>
-			<th class="subj" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-			<th class="subj" id="top">Prima</th>
-			<th class="subj" id="top">Secunda</th>
-			<th class="subj" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="subj" rowspan="4">Actiuus</th>
-			<th class="subj">Praesens</th>
-			<td>uocem</td>
-			<td>uocēs</td>
-			<td>uocet</td>
-			<td>uocēmus</td>
-			<td>uocētis</td>
-			<td>uocent</td>
-		</tr>
-		<tr>
-			<th class="subj">Infectum</th>
-			<td>uocārem</td>
-			<td>uocārēs</td>
-			<td>uocāret</td>
-			<td>uocārēmus</td>
-			<td>uocārētis</td>
-			<td>uocārent</td>
-		</tr>
-		<tr>
-			<th class="subj">Perfectum</th>
-			<td>uocāuerim</td>
-			<td>uocāuerīs</td>
-			<td>uocāuerit</td>
-			<td>uocāuerīmus</td>
-			<td>uocāuerītis</td>
-			<td>uocāuerint</td>
-		</tr>
-		<tr>
-			<th class="subj">Plusquam Perfect</th>
-			<td>uocāuissem</td>
-			<td>uocāuissēs</td>
-			<td>uocāuisset</td>
-			<td>uocāuissēmus</td>
-			<td>uocāuissētis</td>
-			<td>uocāuissent</td>
-		</tr>
-		<tr>
-			<th class="subj" rowspan="4">Passiuus</th>
-			<th class="subj">Praesens</th>
-			<td>uocer</td>
-			<td>uocēris (uocēre)</td>
-			<td>uocētur</td>
-			<td>uocēmur</td>
-			<td>uocēminī</td>
-			<td>uocentur</td>
-		</tr>
-		<tr>
-			<th class="subj">Infectum</th>
-			<td>uocārer</td>
-			<td>uocārēris (uocārēre)</td>
-			<td>uocārētur</td>
-			<td>uocārēmur</td>
-			<td>uocārēminī</td>
-			<td>uocārentur</td>
-		</tr>
-		<tr>
-			<th class="subj">Perfectum</th>
-			<td>uocātus sim</td>
-			<td>uocātus sīs</td>
-			<td>uocātus sit</td>
-			<td>uocātī sīmus</td>
-			<td>uocātī sītis</td>
-			<td>uocātī sint</td>
-		</tr>
-		<tr>
-			<th class="subj">Plusquam Perfectum</th>
-			<td>uocātus essem</td>
-			<td>uocātus essēs</td>
-			<td>uocātus esset</td>
-			<td>uocātī essēmus</td>
-			<td>uocātī essētis</td>
-			<td>uocātī essent</td>
-		</tr>
-		<tr>
-			<th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th>
-			<th class="imp" id="top" colspan="3">Singularis</th>
-			<th class="imp" id="top" colspan="3">Pluralis</th>
-		</tr>
-		<tr>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-			<th class="imp" id="top">Prima</th>
-			<th class="imp" id="top">Secunda</th>
-			<th class="imp" id="top">Tertia</th>
-		</tr>
-		<tr>
-			<th class="imp" rowspan="2">Actiuus</th>
-			<th class="imp">Praesens</th>
-			<td>—</td>
-			<td>uocā</td>
-			<td>—</td>
-			<td>—</td>
-			<td>uocāte</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imp">Futurum</th>
-			<td>—</td>
-			<td>uocātō</td>
-			<td>uocātō</td>
-			<td>—</td>
-			<td>uocātōte</td>
-			<td>uocantō</td>
-		</tr>
-		<tr>
-			<th class="imp" rowspan="2">Passiuus</th>
-			<th class="imp">Praesens</th>
-			<td>—</td>
-			<td>uocāre</td>
-			<td>—</td>
-			<td>—</td>
-			<td>uocāminī</td>
-			<td>—</td>
-		</tr>
-		<tr>
-			<th class="imp">Futurum</th>
-			<td>—</td>
-			<td>uocātor</td>
-			<td>uocātor</td>
-			<td>—</td>
-			<td>—</td>
-			<td>uocantor</td>
-		</tr>
-		<tr>
-			<th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th>
-			<th class="inf" id="top" colspan="3">Actiuus</th>
-			<th class="inf" id="top" colspan="3">Passiuus</th>
-		</tr>
-		<tr>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-			<th class="inf" id="top">Praesens</th>
-			<th class="inf" id="top">Perfectum</th>
-			<th class="inf" id="top">Futurum</th>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Infinitiuus</th>
-			<td>uocāre</td>
-			<td>uocāuisse</td>
-			<td>uocātūrus esse</td>
-			<td>uocārī</td>
-			<td>uocātus esse</td>
-			<td>uocātum īrī</td>
-		</tr>
-		<tr>
-			<th class="inf" colspan="2">Participium</th>
-			<td>uocāns</td>
-			<td>—</td>
-			<td>uocātūrus</td>
-			<td>—</td>
-			<td>uocātus</td>
-			<td>uocāndus</td>
-		</tr>
+		<tr><th class="ind" id="top" colspan="2" rowspan="2">Indicatiuus</th><th class="ind" id="top" colspan="3">Singularis</th><th class="ind" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th><th class="ind" id="top">Prima</th><th class="ind" id="top">Secunda</th><th class="ind" id="top">Tertia</th></tr>
+		<tr><th class="ind" rowspan="6">Actiuus</th>	<th class="ind">Praesens</th>					<td>uocō</td>			<td>uocās</td>					<td>uocat</td>			<td>uocāmus</td>		<td>uocātis</td>		<td>uocant</td></tr>
+		<tr>											<th class="ind">Infectum</th>					<td>uocābam</td>		<td>uocābās</td>				<td>uocābat</td>		<td>uocābāmus</td>		<td>uocābātis</td>		<td>uocābant</td></tr>
+		<tr>											<th class="ind">Futurum</th>					<td>uocābō</td>			<td>uocābis</td>				<td>uocābit</td>		<td>uocābimus</td>		<td>uocābitis</td>		<td>uocābunt</td></tr>
+		<tr>											<th class="ind">Perfectum</th>					<td>uocāuī</td>			<td>uocāuistī</td>				<td>uocāuit</td>		<td>uocāuimus</td>		<td>uocāuistis</td>		<td>uocāuērunt (uocāuēre)</td></tr>
+		<tr>											<th class="ind">Plusquam Perfectum</th>			<td>uocāueram</td>		<td>uocāuerās</td>				<td>uocāuerat</td>		<td>uocāuerāmus</td>	<td>uocāuerātis</td>	<td>uocāuerant</td></tr>
+		<tr>											<th class="ind">Futurum Perfectum</th>			<td>uocāuerō</td>		<td>uocāueris</td>				<td>uocāuerit</td>		<td>uocāuerimus</td>	<td>uocāueritis</td>	<td>uocāuerint</td></tr>
+		<tr><th class="ind" rowspan="6">Passiuus</th>	<th class="ind">Praesens</th>					<td>uocor</td>			<td>uocāris (uocāre)</td>		<td>uocātur</td>		<td>uocāmur</td>		<td>uocāminī</td>		<td>uocantur</td></tr>
+		<tr>											<th class="ind">Infectum</th>					<td>uocābar</td>		<td>uocābāris (uocābāre)</td>	<td>uocābātur</td>		<td>uocābāmur</td>		<td>uocābāminī</td>		<td>uocābantur</td></tr>
+		<tr>											<th class="ind">Futurum</th>					<td>uocābor</td>		<td>uocāberis (uocābere)</td>	<td>uocābitur</td>		<td>uocābimur</td>		<td>uocābiminī</td>		<td>uocābuntur</td></tr>
+		<tr>											<th class="ind">Perfectum</th>					<td>uocātus sum</td>	<td>uocātus es</td>				<td>uocātus est</td>	<td>uocātī sumus</td>	<td>uocātī estis</td>	<td>uocātī sunt</td></tr>
+		<tr>											<th class="ind">Plusquam Perfectum</th>			<td>uocātus eram</td>	<td>uocātus erās</td>			<td>uocātus erat</td>	<td>uocātī erāmus</td>	<td>uocātī erātis</td>	<td>uocātī erant</td></tr>
+		<tr>											<th class="ind">Futurum Perfectum</th>			<td>uocātus erō</td>	<td>uocātus eris</td>			<td>uocātus erit</td>	<td>uocātī erimus</td>	<td>uocātī eritis</td>	<td>uocātī erunt</td></tr>
+		<tr><th class="subj" id="top" colspan="2" rowspan="2">Subiunctiuus</th><th class="subj" id="top" colspan="3">Singularis</th><th class="subj" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th><th class="subj" id="top">Prima</th><th class="subj" id="top">Secunda</th><th class="subj" id="top">Tertia</th></tr>
+		<tr><th class="subj" rowspan="4">Actiuus</th>	<th class="subj">Praesens</th>					<td>uocem</td>			<td>uocēs</td>					<td>uocet</td>			<td>uocēmus</td>		<td>uocētis</td>		<td>uocent</td></tr>
+		<tr>											<th class="subj">Infectum</th>					<td>uocārem</td>		<td>uocārēs</td>				<td>uocāret</td>		<td>uocārēmus</td>		<td>uocārētis</td>		<td>uocārent</td></tr>
+		<tr>											<th class="subj">Perfectum</th>					<td>uocāuerim</td>		<td>uocāuerīs</td>				<td>uocāuerit</td>		<td>uocāuerīmus</td>	<td>uocāuerītis</td>	<td>uocāuerint</td></tr>
+		<tr>											<th class="subj">Plusquam Perfect</th>			<td>uocāuissem</td>		<td>uocāuissēs</td>				<td>uocāuisset</td>		<td>uocāuissēmus</td>	<td>uocāuissētis</td>	<td>uocāuissent</td></tr>
+		<tr><th class="subj" rowspan="4">Passiuus</th>	<th class="subj">Praesens</th>					<td>uocer</td>			<td>uocēris (uocēre)</td>		<td>uocētur</td>		<td>uocēmur</td>		<td>uocēminī</td>		<td>uocentur</td></tr>
+		<tr>											<th class="subj">Infectum</th>					<td>uocārer</td>		<td>uocārēris (uocārēre)</td>	<td>uocārētur</td>		<td>uocārēmur</td>		<td>uocārēminī</td>		<td>uocārentur</td></tr>
+		<tr>											<th class="subj">Perfectum</th>					<td>uocātus sim</td>	<td>uocātus sīs</td>			<td>uocātus sit</td>	<td>uocātī sīmus</td>	<td>uocātī sītis</td>	<td>uocātī sint</td></tr>
+		<tr>											<th class="subj">Plusquam Perfectum</th>		<td>uocātus essem</td>	<td>uocātus essēs</td>			<td>uocātus esset</td>	<td>uocātī essēmus</td>	<td>uocātī essētis</td>	<td>uocātī essent</td></tr>
+		<tr><th class="imp" id="top" colspan="2" rowspan="2">Imperatiuus</th><th class="imp" id="top" colspan="3">Singularis</th><th class="imp" id="top" colspan="3">Pluralis</th></tr>
+		<tr><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th><th class="imp" id="top">Prima</th><th class="imp" id="top">Secunda</th><th class="imp" id="top">Tertia</th></tr>
+		<tr><th class="imp" rowspan="2">Actiuus</th>	<th class="imp">Praesens</th>					<td>—</td>				<td>uocā</td>					<td>—</td>				<td>—</td>				<td>uocāte</td>			<td>—</td></tr>
+		<tr>											<th class="imp">Futurum</th>					<td>—</td>				<td>uocātō</td>					<td>uocātō</td>			<td>—</td>				<td>uocātōte</td>		<td>uocantō</td></tr>
+		<tr><th class="imp" rowspan="2">Passiuus</th>	<th class="imp">Praesens</th>					<td>—</td>				<td>uocāre</td>					<td>—</td>				<td>—</td>				<td>uocāminī</td>		<td>—</td></tr>
+		<tr>											<th class="imp">Futurum</th>					<td>—</td>				<td>uocātor</td>				<td>uocātor</td>		<td>—</td>				<td>—</td>				<td>uocantor</td></tr>
+		<tr><th class="inf" id="top" colspan="2" rowspan="2">Non Finitiuus</th><th class="inf" id="top" colspan="3">Actiuus</th><th class="inf" id="top" colspan="3">Passiuus</th></tr>
+		<tr><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th><th class="inf" id="top">Praesens</th><th class="inf" id="top">Perfectum</th><th class="inf" id="top">Futurum</th></tr>
+		<tr>											<th class="inf" colspan="2">Infinitiuus</th>	<td>uocāre</td>			<td>uocāuisse</td>				<td>uocātūrus esse</td>	<td>uocārī</td>			<td>uocātus esse</td>	<td>uocātum īrī</td></tr>
+		<tr>											<th class="inf" colspan="2">Participium</th>	<td>uocāns</td>			<td>—</td>						<td>uocātūrus</td>		<td>—</td>				<td>uocātus</td>		<td>uocāndus</td></tr>
 	</table>
 	<br d:priority="2" />
 </d:entry>
