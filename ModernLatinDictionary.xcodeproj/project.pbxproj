@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		03448FC118B7F33B00438B45 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
 		03448FC318B7F33B00438B45 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		037F95481C10B22F00A267B8 /* Wordlist.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Wordlist.txt; sourceTree = "<group>"; };
 		03B5A3CD18B96B0400F2DB52 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		03F5188918BC660200A8E731 /* OtherResources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherResources; sourceTree = "<group>"; };
 		03F6AF791C0BC5F500D2DA38 /* ModernLatinDictionary.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = ModernLatinDictionary.css; sourceTree = "<group>"; };
@@ -20,6 +21,7 @@
 		03448FB918B7F33B00438B45 = {
 			isa = PBXGroup;
 			children = (
+				037F95481C10B22F00A267B8 /* Wordlist.txt */,
 				03B5A3CD18B96B0400F2DB52 /* Makefile */,
 				03F6AF791C0BC5F500D2DA38 /* ModernLatinDictionary.css */,
 				03F6AF7A1C0BC5F500D2DA38 /* ModernLatinDictionary.xml */,
