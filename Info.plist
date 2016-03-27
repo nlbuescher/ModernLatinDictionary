@@ -13,7 +13,7 @@
 	<key>CFBundleName</key>
 	<string>Latin - English</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>2.0</string>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Nicola Buescher</string>
 	<key>DCSDictionaryPrimaryLanguage</key>
@@ -48,7 +48,7 @@
 		<key>display-picture</key>
 		<string>1</string>
 		<key>version</key>
-		<string>1</string>
+		<string>2</string>
 	</dict>
 </dict>
 </plist>
