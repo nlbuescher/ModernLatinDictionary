@@ -1,36 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Modern Latin Dictionary : This is a Modern Latin dictionary project written in XML using Mac OS X and the Dictionary Developer Kit from Apple.">
+    <title>Modern Latin Dictionary by NLBuescher</title>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <title>Modern Latin Dictionary</title>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/NLBuescher/ModernLatinDictionary">View on GitHub</a>
-
-          <h1 id="project_title">Modern Latin Dictionary</h1>
-          <h2 id="project_tagline">This is a Modern Latin dictionary project written in XML using Mac OS X and the Dictionary Developer Kit from Apple.</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/NLBuescher/ModernLatinDictionary/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/NLBuescher/ModernLatinDictionary/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+    <div class="wrapper">
+      <header>
+        <h1>Modern Latin Dictionary</h1>
+        <p>This is a Modern Latin dictionary project written in XML using Mac OS X and the Dictionary Developer Kit from Apple.</p>
+        <p class="view"><a href="https://github.com/NLBuescher/ModernLatinDictionary">View the Project on GitHub <small>NLBuescher/ModernLatinDictionary</small></a></p>
+        <ul>
+          <li><a href="https://github.com/NLBuescher/ModernLatinDictionary/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/NLBuescher/ModernLatinDictionary/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/NLBuescher/ModernLatinDictionary">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
         <h1>
 <a id="about" class="anchor" href="#about" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About</h1>
 
@@ -38,40 +34,40 @@
 Developer Tools from Apple. Entries include both Latin-English and English-Latin
 definitions.</p>
 
-<h3>
-<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Getting Started</h3>
+<h1>
+<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Getting Started</h1>
 
 <p>NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
 possible to edit the XML file that contains all of the entries on any OS with
 a text editor, and to commit changes to the project with Git, but building and
 using the dictionary requires Mac OS X.</p>
 
-<h4>
-<a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Setting up the development environment</h4>
+<h2>
+<a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Setting up the development environment</h2>
 
-<h5>
-<a id="1-install-atom" class="anchor" href="#1-install-atom" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1. Install Atom</h5>
+<h3>
+<a id="1-install-atom" class="anchor" href="#1-install-atom" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1. Install Atom</h3>
 
 <p>Atom is my personal preferred choice of text editor, so that's what I use and
 recommend, but you can use any text editor of your choice. If you also want to
 use Atom, you can find the download <a href="https://atom.io">here</a>.</p>
 
-<h5>
-<a id="2-auxiliary-tools-for-xcode" class="anchor" href="#2-auxiliary-tools-for-xcode" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2. Auxiliary Tools for Xcode</h5>
+<h3>
+<a id="2-auxiliary-tools-for-xcode" class="anchor" href="#2-auxiliary-tools-for-xcode" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2. Auxiliary Tools for Xcode</h3>
 
 <p>As of my switch to Atom I've included the Dictionary Development Kit from Apple
 in the project files (I couldn't find any document in it saying that I <em>couldn't</em>
 do that), so you no longer need to download this separately.</p>
 
-<h4>
-<a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Editing the Code</h4>
+<h2>
+<a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Editing the Code</h2>
 
 <p>To edit the code, simply clone the repository onto your own machine, and open the
 <code>ModernLatinDictionary.xhtml</code> file. Please see the section on <a href="#style-guidelines">Style Guidelines</a>
 before making changes. I also recommend using the Github desktop app for ease of use.</p>
 
-<h5>
-<a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Style Guidelines</h5>
+<h3>
+<a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Style Guidelines</h3>
 
 <p>In general follow the standards set by the existing entries.</p>
 
@@ -88,8 +84,8 @@ still allows searching for terms by their alternate spellings, including the
 'v' and 'j' variants.</li>
 </ol>
 
-<h4>
-<a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Building the Dictionary</h4>
+<h2>
+<a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Building the Dictionary</h2>
 
 <p>For convenience, I've added a <code>build.sh</code> bash script to build and install the <code>.dictionary</code> file.
 It simply automates the process described below. To run the build script simply run it from the terminal
@@ -109,16 +105,11 @@ project directory (<code>make clean</code>). You can run each of these commands 
 that they must be run in that order to have the desired effect.</p>
       </section>
     </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Modern Latin Dictionary maintained by <a href="https://github.com/NLBuescher">NLBuescher</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
+    <footer>
+      <p>Project maintained by <a href="https://github.com/NLBuescher">NLBuescher</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
-
   </body>
 </html>
