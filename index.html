@@ -3,9 +3,9 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href="https://fonts.googleapis.com/css?family=Chivo:900" rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -27,79 +27,90 @@
           <a href="https://github.com/NLBuescher/ModernLatinDictionary/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
           <a href="https://github.com/NLBuescher/ModernLatinDictionary" id="view-on-github" class="button"><span>View on GitHub</span></a>
         </section>
-        
-        <section class="clearfix">
-          <a href="http://nlbuescher.github.io/ModernLatinDictionary/dictionary/dictionary.html" class="button"><span style="padding-left:10px;">See the Dictionary</span></a>
-        </section>
-        
+
         <hr>
 
         <section id="main_content">
-          <h1><a id="about" class="anchor" href="#about" aria-hidden="true"><span class="octicon octicon-link"></span></a>About</h1>
+          <h1>
+<a id="about" class="anchor" href="#about" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About</h1>
 
-          <p>This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
-            Developer Tools from Apple. Entries include both Latin-English and English-Latin
-            definitions.</p>
+<p>This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
+Developer Tools from Apple. Entries include both Latin-English and English-Latin
+definitions.</p>
 
-          <h3><a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started</h3>
+<h3>
+<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Getting Started</h3>
 
-          <p>NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
-            possible to edit the XML file that contains all of the entries on any OS with
-            a text editor, and to commit changes to the project with Git, but building and
-            using the dictionary requires Mac OS X.</p>
+<p>NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
+possible to edit the XML file that contains all of the entries on any OS with
+a text editor, and to commit changes to the project with Git, but building and
+using the dictionary requires Mac OS X.</p>
 
-          <h4><a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Setting up the development environment</h4>
+<h4>
+<a id="setting-up-the-development-environment" class="anchor" href="#setting-up-the-development-environment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Setting up the development environment</h4>
 
-          <h5><a id="1-install-xcode" class="anchor" href="#1-install-xcode" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Install Xcode</h5>
+<h5>
+<a id="1-install-atom" class="anchor" href="#1-install-atom" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1. Install Atom</h5>
 
-          <p>Xcode is available gratis from the <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">Mac App Store</a>.</p>
+<p>Atom is my personal preferred choice of text editor, so that's what I use and
+recommend, but you can use any text editor of your choice. If you also want to
+use Atom, you can find the download <a href="https://atom.io">here</a>.</p>
 
-          <p><img src="https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png" alt="Xcode on the App Store"></p>
+<h5>
+<a id="2-auxiliary-tools-for-xcode" class="anchor" href="#2-auxiliary-tools-for-xcode" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2. Auxiliary Tools for Xcode</h5>
 
-          <h5><a id="2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" class="anchor" href="#2-download-the-auxiliary-tools-for-xcode-from-the-apple-developer-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. Download the "Auxiliary Tools for Xcode" from the Apple developer page</h5>
+<p>As of my switch to Atom I've included the Dictionary Development Kit from Apple
+in the project files (I couldn't find any document in it saying that I <em>couldn't</em>
+do that), so you no longer need to download this separately.</p>
 
+<h4>
+<a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Editing the Code</h4>
 
-          <p>First, navigate to the <a href="https://developer.apple.com/devcenter/mac/index.action">Mac Dev Center Website</a>
-            and sign in. If you do not have an apple developer account, you can register 
-            your apple ID as free developer account. (NOTE: This is not the same as the
-            yearly subscription to the Mac Developer Program which costs $99/yr)</p>
+<p>To edit the code, simply clone the repository onto your own machine, and open the
+<code>ModernLatinDictionary.xhtml</code> file. Please see the section on <a href="#style-guidelines">Style Guidelines</a>
+before making changes. I also recommend using the Github desktop app for ease of use.</p>
 
-          <p>Once you've signed in, click on "View all downloads" under the section labeled
-            "Additional Downloads". This will take you to the search dialog for all of the
-            developer resources for Mac development.</p>
+<h5>
+<a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Style Guidelines</h5>
 
-          <p>Here you are looking for the "Auxiliary Tools for Xcode". Download the most recent
-            version and open the DMG file.</p>
+<p>In general follow the standards set by the existing entries.</p>
 
-          <p>From the DMG, copy the "Dictionary Development Kit" into "/Applications/Utilities/".
-            The Makefile for this project is preconfigured to use that directory.</p>
+<ol>
+<li>Normal Latin text does not have macrons; Only the dictionary entry titles
+themselves include macrons. All of the search terms and English-Latin
+definitions have to have macrons, whereas all example sentences, etc. should
+NOT
+have macrons.</li>
+<li>The dictionary adheres to the "VuIi" standard of classical Latin, meaning that
+there is no distinction between 'U' and 'V', and neither 'J' nor 'j' used. 
+'V' is the uppercase 'u', and 'U' and 'v' are not used. However, the dictionary
+still allows searching for terms by their alternate spellings, including the
+'v' and 'j' variants.</li>
+</ol>
 
-          <h4><a id="editing-the-code" class="anchor" href="#editing-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Editing the Code</h4>
+<h4>
+<a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Building the Dictionary</h4>
 
-          <p>To edit the code, simply clone the repository onto your own machine, and open the
-            project with Xcode. We recommend using the Github desktop app for ease of use.</p>
+<p>The Makefile is preconfigured to build the project using the included "Dictionary Development Kit".
+It automatically installs the resulting .dictionary file into the "~/Library/Dictionaries" directory.
+To build and install the Dictionary, simply open a Terminal window, navigate to the project directory
+(where the Makefile is), and run the following:</p>
 
-          <h4><a id="building-the-dictionary" class="anchor" href="#building-the-dictionary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building the Dictionary</h4>
+<pre><code>make all install clean
+</code></pre>
 
-          <p>The project is preconfigured to use the Makefile for building and automatically 
-            puts the resulting .dictionary file into the "~/Library/Dictionaries" directory.</p>
-
-          <h5><a id="style-guidelines" class="anchor" href="#style-guidelines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Style Guidelines</h5>
-
-          <p>In general follow the standards set by the existing entries.</p>
-
-          <ol>
-            <li>Normal Latin text does not have macrons; Only the dictionary entries
-              themselves include macrons. All of the search terms and English-Latin
-              definitions have to have macrons, whereas all example sentences should not
-              have macrons</li>
-          </ol>
+<p>This will first build the dictionary file from the source code (<code>make all</code>), then install the <code>.dictionary</code>
+file in the user Dictionaries directory (<code>make install</code>), and finally delete the build files from the
+project directory (<code>make clean</code>). You can run each of these commands separately if you wish, but note
+that they must be run in that order to have the desired effect.</p>
         </section>
 
         <footer>
           Modern Latin Dictionary is maintained by <a href="https://github.com/NLBuescher">NLBuescher</a><br>
           This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
         </footer>
+
+        
       </div>
     </div>
   </body>
