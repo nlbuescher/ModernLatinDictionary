@@ -4,53 +4,62 @@ This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
 Developer Tools from Apple. Entries include both Latin-English and English-Latin
 definitions.
 
-### Getting Started
+# Getting Started
 
 NOTE: You must be running Mac OS X 10.7+ to build and run the project. It is
 possible to edit the XML file that contains all of the entries on any OS with
 a text editor, and to commit changes to the project with Git, but building and
 using the dictionary requires Mac OS X.
 
-#### Setting up the development environment
+## Setting up the development environment
 
-##### 1. Install Xcode
+### 1. Install Atom
 
-Xcode is available gratis from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
+Atom is my personal preferred choice of text editor, so that's what I use and
+recommend, but you can use any text editor of your choice. If you also want to
+use Atom, you can find the download [here](https://atom.io).
 
-![Xcode on the App Store](https://raw.github.com/NLBuescher/ModernLatinDictionary/gh-pages/images/xcode_app_store.png)
+### 2. Auxiliary Tools for Xcode
 
-##### 2. Download the "Auxiliary Tools for Xcode" from the Apple developer page
+As of my switch to Atom I've included the Dictionary Development Kit from Apple
+in the project files (I couldn't find any document in it saying that I *couldn't*
+do that), so you no longer need to download this separately.
 
-First, navigate to the [Apple Developer Downloads page](https://developer.apple.com/downloads/)
-and sign in. If you do not have an apple developer account, you can register 
-your apple ID as a free developer account. (NOTE: This is not the same as the
-yearly subscription to the Mac Developer Program which costs $99/yr)
-
-Once you've signed in, click on the search bar in the top left and search for
-"Auxiliary Tools". Download the most recent version and open the DMG file.
-
-From the DMG, copy the "Dictionary Development Kit" into "/Applications/Utilities/".
-The Makefile for this project is preconfigured to use that directory.
-
-#### Editing the Code
+## Editing the Code
 
 To edit the code, simply clone the repository onto your own machine, and open the
-project with Xcode. We recommend using the Github desktop app for ease of use.
+`ModernLatinDictionary.xhtml` file. Please see the section on [Style Guidelines](#style-guidelines)
+before making changes. I also recommend using the Github desktop app for ease of use.
 
-#### Building the Dictionary
-
-The project is preconfigured to use the Makefile for building and automatically 
-puts the resulting .dictionary file into the "~/Library/Dictionaries" directory.
-
-##### Style Guidelines
+### Style Guidelines
 
 In general follow the standards set by the existing entries.
 
-1. Normal Latin text does not have macrons; Only the dictionary entries
+1. Normal Latin text does not have macrons; Only the dictionary entry titles
    themselves include macrons. All of the search terms and English-Latin
-   definitions have to have macrons, whereas all example sentences should not
-   have macrons
+   definitions have to have macrons, whereas all example sentences, etc. should
+   NOT
+   have macrons.
+2. The dictionary adheres to the "VuIi" standard of classical Latin, meaning that
+   there is no distinction between 'U' and 'V', and neither 'J' nor 'j' used. 
+   'V' is the uppercase 'u', and 'U' and 'v' are not used. However, the dictionary
+   still allows searching for terms by their alternate spellings, including the
+   'v' and 'j' variants.
 
-2. This project treats 'V' and 'U' as the same letter, so all Latin text should
-   have only capital 'V's and only lower-case 'U's. The index for each entry
-   accounts for searching by all valid permutations of 'V' and 'U'.
+## Building the Dictionary
+
+For convenience, I've added a `build.sh` bash script to build and install the `.dictionary` file.
+It simply automates the process described below. To run the build script simply run it from the terminal
+while in the project directory.
+
+The Makefile is preconfigured to build the project using the included "Dictionary Development Kit".
+It automatically installs the resulting .dictionary file into the "~/Library/Dictionaries" directory.
+To build and install the Dictionary, simply open a Terminal window, navigate to the project directory
+(where the Makefile is), and run the following:
+
+    make all install clean
+
+This will first build the dictionary file from the source code (`make all`), then install the `.dictionary`
+file in the user Dictionaries directory (`make install`), and finally delete the build files from the
+project directory (`make clean`). You can run each of these commands separately if you wish, but note
+that they must be run in that order to have the desired effect.
