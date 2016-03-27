@@ -23,9 +23,9 @@ p { margin: 0; }
 
 p#desc { margin-top: .2em; }
 
-p#sub1 { text-indent: 1em; }
-p#sub2 { text-indent: 2em; }
-p#sub3 { text-indent: 3em; }
+p#sub1 { text-indent: -.75em; padding-left: 2em; }
+p#sub2 { text-indent: -.75em; padding-left: 3.25em; }
+p#sub3 { text-indent: -.75em; padding-left: 4.5em; }
 
 sup, sub {
     vertical-align: baseline;
