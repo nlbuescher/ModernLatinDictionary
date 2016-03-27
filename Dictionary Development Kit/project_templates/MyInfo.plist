@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>Latin</string>
+	<string>English</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.nicolabuescher.dictionary.ModernLatinDictionary</string>
+	<string>com.apple.dictionary.MySample</string>
 	<key>CFBundleName</key>
-	<string>Latin-English</string>
+	<string>MyDictionary</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
-	<string>Copyright © 2014 Nicola Buescher</string>
+	<string>Copyright © 2007 Apple Inc.</string>
 	<key>DCSDictionaryManufacturerName</key>
-	<string>Nicola Buescher</string>
+	<string>Apple Inc.</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
@@ -22,9 +22,7 @@
 	<string>MyDictionary.xsl</string>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
-		<key>la_pronunciation</key>
-		<string>0</string>
-		<key>en_pronunciation</key>
+		<key>pronunciation</key>
 		<string>0</string>
 		<key>display-column</key>
 		<string>1</string>

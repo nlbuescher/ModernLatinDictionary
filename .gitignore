@@ -1,7 +1,1 @@
-
-*.xcuserstate
-
-ModernLatinDictionary.xcodeproj/project.xcworkspace/xcuserdata/
-
-ModernLatinDictionary.xcodeproj/xcuserdata/
-
+.DS_Store

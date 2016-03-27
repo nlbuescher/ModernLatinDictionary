@@ -6,92 +6,60 @@
 	doctype-public="-//W3C//DTD XHTML 1.1//EN"
 	doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" />
 
-<!--	
+<!--
+	This XSL file is an example to illustrate how to implement dictionary-specific preferences.
+	This file is not necessary if you don't need preference for the dictionary.
+	
 	This XSL does the followings.
 	- Add style to mask unwanted pronunciation formats. 
 	- $pronunciation is externally provided.
 -->
 
-<!--<xsl:template match="*[@d:pr='']">
+<xsl:template match="*[@d:pr='US']">
 	<xsl:if test="$pronunciation = '0'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
-</xsl:template>-->
+</xsl:template>
 
 <xsl:template match="*[@d:pr='IPA']">
-	<xsl:if test="$la_pronunciation = '0'">
+	<xsl:if test="$pronunciation = '1'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
-	<xsl:if test="$la_pronunciation = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$en_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$en_pronunciation = '1'">
+	<xsl:if test="$pronunciation = '2'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
 </xsl:template>
 
-<xsl:template match="*[@d:pr='LA_IPA']">
-	<xsl:if test="$la_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_pronunciation = '1'">
+<xsl:template match="*[@d:pr='US_IPA']">
+	<xsl:if test="$pronunciation = '1'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
 </xsl:template>
 
-<xsl:template match="*[@d:pr='SP_IPA']">
-    <xsl:if test="$la_pronunciation = '0'">
-        <xsl:copy>
-            <xsl:apply-templates select="@*|node()" />
-        </xsl:copy>
-    </xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='VA_IPA']">
-    <xsl:if test="$la_pronunciation = '1'">
-        <xsl:copy>
-            <xsl:apply-templates select="@*|node()" />
-        </xsl:copy>
-    </xsl:if>
-</xsl:template>
-
-<xsl:template match="*[@d:pr='EN_IPA']">
-	<xsl:if test="$en_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$en_pronunciation = '1'">
+<xsl:template match="*[@d:pr='UK_IPA']">
+	<xsl:if test="$pronunciation = '2'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
 </xsl:template>
 
-<!--<xsl:template match="span[@class='column']">
+
+<xsl:template match="span[@class='column']">
 	<xsl:if test="$display-column = '1'">
 		<xsl:copy>
 			<xsl:apply-templates select="@*|node()" />
 		</xsl:copy>
 	</xsl:if>
-</xsl:template>-->
+</xsl:template>
 
 <xsl:template match="span[@class='picture']">
 	<xsl:if test="$display-picture = '1'">

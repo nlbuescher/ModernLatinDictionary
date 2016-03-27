@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nlbuescher.dictionary.ModernLatinDictionary</string>
+	<key>DCSDictionaryNativeDisplayName</key>
+	<string>Anglica-Latinam</string>
+	<key>CFBundleDisplayName</key>
+	<string>Modernum Dictionarium Latinae - Latina-Anglicam • Anglica-Latinam</string>
+	<key>CFBundleName</key>
+	<string>Latin - English</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Nicola Buescher</string>
+	<key>DCSDictionaryPrimaryLanguage</key>
+	<string>la</string>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>front_back_matter</string>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>ModernLatinDictionary_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>ModernLatinDictionary.xsl</string>
+	<key>DCSDictionaryLanguages</key>
+	<array>
+		<dict>
+			<key>DCSDictionaryIndexLanguage</key>
+			<string>la</string>
+			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>en</string>
+		</dict>
+		<dict>
+			<key>DCSDictionaryIndexLanguage</key>
+			<string>en</string>
+			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>la</string>
+		</dict>
+	</array>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>la_pronunciation</key>
+		<string>0</string>
+		<key>en_pronunciation</key>
+		<string>0</string>
+		<key>display-picture</key>
+		<string>1</string>
+		<key>version</key>
+		<string>2</string>
+	</dict>
+</dict>
+</plist>
