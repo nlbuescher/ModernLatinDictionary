@@ -34,11 +34,6 @@
 	</html>
 </xsl:template>
 
-<xsl:template match="j">v</xsl:template>
-<xsl:template match="J">v</xsl:template>
-<xsl:template match="U">v</xsl:template>
-<xsl:template match="v">v</xsl:template>
-
 <xsl:template match="*[@d:pr='CL_IPA']">
 	<xsl:if test="$la_pronunciation = '0'">
 		<xsl:copy>
