@@ -53,51 +53,27 @@
 </xsl:template>
 
 <xsl:template match="J">
-	<xsl:if test="$la_text = '0'">
-		<xsl:copy>I</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '1'">
-		<xsl:copy>I</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '2'">
-		<xsl:copy>J</xsl:copy>
-	</xsl:if>
+	<xsl:if test="$la_text = '0'">I</xsl:if>
+	<xsl:if test="$la_text = '1'">I</xsl:if>
+	<xsl:if test="$la_text = '2'">J</xsl:if>
 </xsl:template>
 
 <xsl:template match="j">
-	<xsl:if test="$la_text = '0'">
-		<xsl:copy>i</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '1'">
-		<xsl:copy>i</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '2'">
-		<xsl:copy>j</xsl:copy>
-	</xsl:if>
+	<xsl:if test="$la_text = '0'">i</xsl:if>
+	<xsl:if test="$la_text = '1'">i</xsl:if>
+	<xsl:if test="$la_text = '2'">j</xsl:if>
 </xsl:template>
 
 <xsl:template match="v">
-	<xsl:if test="$la_text = '0'">
-		<xsl:copy>u</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '1'">
-		<xsl:copy>v</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '2'">
-		<xsl:copy>v</xsl:copy>
-	</xsl:if>
+	<xsl:if test="$la_text = '0'">u</xsl:if>
+	<xsl:if test="$la_text = '1'">v</xsl:if>
+	<xsl:if test="$la_text = '2'">v</xsl:if>
 </xsl:template>
 
 <xsl:template match="U">
-	<xsl:if test="$la_text = '0'">
-		<xsl:copy>V</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '1'">
-		<xsl:copy>U</xsl:copy>
-	</xsl:if>
-	<xsl:if test="$la_text = '2'">
-		<xsl:copy>U</xsl:copy>
-	</xsl:if>
+	<xsl:if test="$la_text = '0'">V</xsl:if>
+	<xsl:if test="$la_text = '1'">U</xsl:if>
+	<xsl:if test="$la_text = '2'">U</xsl:if>
 </xsl:template>
 
 <!-- <xsl:template match="span[@class='column']">
