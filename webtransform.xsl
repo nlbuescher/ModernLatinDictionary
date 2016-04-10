@@ -24,16 +24,14 @@
 </xsl:template>-->
 
 <xsl:template match="d:dictionary">
-	<xsl:copy>
-		<html>
-			<head>
-				<title>Modern Latin Dictionary</title>
-			</head>
-			<body>
-				<xsl:apply-templates select="@*|node()" />
-			</body>
-		</html>
-	</xsl:copy>
+	<html>
+		<head>
+			<title>Modern Latin Dictionary</title>
+		</head>
+		<body>
+			<xsl:apply-templates select="@*|node()" />
+		</body>
+	</html>
 </xsl:template>
 
 <xsl:template match="j">v</xsl:template>
