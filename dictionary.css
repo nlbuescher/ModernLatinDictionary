@@ -1,0 +1,137 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {  }
+
+h1 { font-size: 150%; }
+h3 { font-size: 100%; }
+
+ol {
+	margin: 0;
+	padding-left: 0;
+	counter-reset: item;
+}
+ol > li { 
+	counter-increment: item; 
+	list-style-type: none;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+ol > li:before {
+	font-weight: bold;
+	content: counter(item) ". ";
+}
+ol > ol {
+	padding-left: 1.25em;
+}
+ol > ul { padding-left: 1.25em; }
+
+p { margin: 0; }
+p#desc { margin-top: .2em; }
+
+span.title {
+	font-size: 150%;
+	margin-bottom: 2em;
+}
+span.syntax { color: #808080; }
+span .column {
+	display: block;
+	border: solid 1px #AAAAAA;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding: 0.5em;
+}
+
+sub, sup {
+	vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+sub { top: 0.4em; }
+
+table {
+	margin: 0em;
+	background-color: #FFFFFF;
+	border-collapse: collapse;
+}
+table.numbers {
+	clear: right;
+	float: right;
+	position: relative;
+}
+
+td {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	border: solid 1px #AAAAAA;
+	border-collapse: collapse;
+	font-weight: normal;
+}
+td.numleft {
+	width: 3.75em;
+	text-align: center;
+	background-color: #DDDDDD;
+}
+td.numright {
+	width: 3.75em;
+	text-align: center;
+	background-color: #DDDDDD;
+}
+
+th {
+	padding: 0.25em;
+	border: solid 1px #AAAAAA;
+	border-collapse: collapse;
+	text-align: left;
+	background-color: #DDDDDD;
+}
+th.number {
+	width: 3.75em;
+	font-size: 150%;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+
+th.imp { background-color: #E4D4C0; }
+th.ind { background-color: #C0CFE4; }
+th.inf { background-color: #E2E4C0; }
+th.subj { background-color: #C0E4C0; }
+
+ul { 
+	margin: 0;
+	padding-left: 0;
+}
+ul > li {
+	list-style-type: none;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+ul > li:before {
+	font-weight: bold;
+	content: "• ";
+}
+ul > ol { padding-left: 1.25em; }
+ul > ul { padding-left: 1.25em; }
+ul > ul > li {
+	list-style-type: none;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+ul > ul > li:before {
+	font-weight: bold;
+	content: "◦ ";
+}
+ul.example > li {
+	padding-left: 2em;
+}
+ul.example > li:before {
+	content: ": ";
+}
+
+.col { text-align: left; }
+
+#top { text-align: center; }
