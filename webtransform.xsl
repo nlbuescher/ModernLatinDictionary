@@ -23,11 +23,6 @@
 	</xsl:if>
 </xsl:template>-->
 
-<xsl:value-of select="replace('<v/>',<v/>,v)"/>
-<xsl:value-of select="replace('<j/>',<j/>,i)"/>
-<xsl:value-of select="replace('<J/>',<J/>,I)"/>
-<xsl:value-of select="replace('<U/>',<U/>,U)"/>
-
 <xsl:template match="d:dictionary">
 	<xsl:copy>
 		<html>
@@ -40,6 +35,11 @@
 		</html>
 	</xsl:copy>
 </xsl:template>
+
+<xsl:template match="j">v</xsl:template>
+<xsl:template match="J">v</xsl:template>
+<xsl:template match="U">v</xsl:template>
+<xsl:template match="v">v</xsl:template>
 
 <xsl:template match="*[@d:pr='CL_IPA']">
 	<xsl:if test="$la_pronunciation = '0'">
