@@ -40,11 +40,6 @@ In general follow the standards set by the existing entries.
    definitions have to have macrons, whereas all example sentences, etc. should
    NOT
    have macrons.
-2. The dictionary adheres to the "VuIi" standard of classical Latin, meaning that
-   there is no distinction between 'U' and 'V', and neither 'J' nor 'j' used. 
-   'V' is the uppercase 'u', and 'U' and 'v' are not used. However, the dictionary
-   still allows searching for terms by their alternate spellings, including the
-   'v' and 'j' variants.
 
 ## Building the Dictionary
 
@@ -52,8 +47,12 @@ For convenience, I've added a `build.sh` bash script to build and install the `.
 It simply automates the process described below. To run the build script simply run it from the terminal
 while in the project directory.
 
-The Makefile is preconfigured to build the project using the included "Dictionary Development Kit".
-It automatically installs the resulting .dictionary file into the "~/Library/Dictionaries" directory.
+The Makefile is preconfigured to build the project using the "Dictionary Development Kit" which it expects
+to find in `/Applications/Utilities`. You can download [on Apple's developer website] (http://adcdownload.apple.com/Developer_Tools/Additional_Tools_for_Xcode_8/Additional_Tools_for_Xcode_8_beta.dmg)
+(you'll need to register your AppleID as a developer ID, which is free. **You DO NOT need to pay for a 
+Developer Subscription to download the developer tools**). It automatically installs the resulting 
+`.dictionary` file into the `~/Library/Dictionaries` directory.
+
 To build and install the Dictionary, simply open a Terminal window, navigate to the project directory
 (where the Makefile is), and run the following:
 
