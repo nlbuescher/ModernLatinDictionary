@@ -6,9 +6,9 @@
 
 # You need to edit these values.
 
-DICT_NAME			=	"Latin - English"
+DICT_NAME		=	"Latin - English"
 DICT_SRC_PATH	=	ModernLatinDictionary.xhtml
-CSS_PATH			=	style.css
+CSS_PATH		=	style.css
 PLIST_PATH		=	Info.plist
 
 # DICT_BUILD_OPTS	=	-s 0	# Suppress adding supplementary key.
@@ -18,7 +18,7 @@ PLIST_PATH		=	Info.plist
 # The DICT_BUILD_TOOL_DIR value is used also in "build_dict.sh" script.
 # You need to set it when you invoke the script directly.
 
-DICT_BUILD_TOOL_DIR	=	"Dictionary Development Kit"
+DICT_BUILD_TOOL_DIR	=	"/Applications/Utilities/Dictionary Development Kit"
 DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
 
 ###########################
