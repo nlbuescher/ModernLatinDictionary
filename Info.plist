@@ -41,6 +41,8 @@
 	</array>
 	<key>DCSDictionaryDefaultPrefs</key>
 	<dict>
+		<key>la_text</key>
+		<string>0</string>
 		<key>la_pronunciation</key>
 		<string>0</string>
 		<key>en_pronunciation</key>

@@ -9,17 +9,19 @@
 	</head>
 	<body>
 		<div id="copyright"></div>
-		<hr />
+		<hr/>
 		<div class="query">
 			<input type="hidden" name="version" value="1" />
 		</div>
 		<div class="query">
-			Latin Pronunciation:<br />
+			Ortographia latina:<br />
+			<input type="radio" name="la_text" value="0">Moderna (IiUuVv)</input><br /> 
+			<input type="radio" name="la_text" value="1">Classica (IiVu)</input><br />
+			<input type="radio" name="la_text" value="2">Altera (IiJjUuVv)</input><br />
+			<hr />
+			Pronuntiatio latina:<br />
 			<input type="radio" name="la_pronunciation" value="0">Latina Classica (IPA)</input><br />
 			<input type="radio" name="la_pronunciation" value="1">Latina Ecclesiae (IPA)</input><br />
-			<hr />
-			Display:<br />
-			<input type="checkbox" name="display" value="picture">Picture</input><br />
 		</div>
 	</body>
 </html>

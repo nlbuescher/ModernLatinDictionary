@@ -1,65 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-				xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"
-				version="1.0">
-<xsl:output method="xml" encoding="UTF-8" indent="no"
-	doctype-public="-//W3C//DTD XHTML 1.1//EN"
-	doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" />
+                xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"
+                version="1.0">
 
-<!--
-	This XSL does the followings.
-	- Add style to mask unwanted pronunciation formats.
-	- $pronunciation is externally provided.
--->
+    <xsl:output method="xml" encoding="UTF-8" indent="no"
+        doctype-public="-//W3C//DTD XHTML 1.1//EN"
+        doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" />
 
-<!--<xsl:template match="*[@d:pr='']">
-	<xsl:if test="$pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>-->
+    <xsl:variable name="small_j">
+        <xsl:if test="$la_text = '0'"><xsl:text>i</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '1'"><xsl:text>i</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '2'"><xsl:text>j</xsl:text></xsl:if>
+    </xsl:variable>
 
-<xsl:template match="*[@d:pr='CL_IPA']">
-	<xsl:if test="$la_pronunciation = '0'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
+    <xsl:variable name="big_j">
+        <xsl:if test="$la_text = '0'"><xsl:text>I</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '1'"><xsl:text>I</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '2'"><xsl:text>J</xsl:text></xsl:if>
+    </xsl:variable>
 
-<xsl:template match="*[@d:pr='VA_IPA']">
-    <xsl:if test="$la_pronunciation = '1'">
+    <xsl:variable name="small_v">
+        <xsl:if test="$la_text = '0'"><xsl:text>v</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '1'"><xsl:text>u</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '2'"><xsl:text>v</xsl:text></xsl:if>
+    </xsl:variable>
+
+    <xsl:variable name="big_u">
+        <xsl:if test="$la_text = '0'"><xsl:text>U</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '1'"><xsl:text>V</xsl:text></xsl:if>
+        <xsl:if test="$la_text = '2'"><xsl:text>U</xsl:text></xsl:if>
+    </xsl:variable>
+
+
+    <!-- Default rule -->
+    <xsl:template match="@*|node()">
         <xsl:copy>
             <xsl:apply-templates select="@*|node()" />
         </xsl:copy>
-    </xsl:if>
-</xsl:template>
+    </xsl:template>
 
-<!-- <xsl:template match="span[@class='column']">
-	<xsl:if test="$display-column = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template> -->
+    <xsl:template match="*[@d:pr='cl']">
+        <xsl:if test="$la_pronunciation = '0'">
+            <xsl:copy>
+                <xsl:apply-templates select="@*|node()" />
+            </xsl:copy>
+        </xsl:if>
+    </xsl:template>
 
-<xsl:template match="span[@class='picture']">
-	<xsl:if test="$display-picture = '1'">
-		<xsl:copy>
-			<xsl:apply-templates select="@*|node()" />
-		</xsl:copy>
-	</xsl:if>
-</xsl:template>
+    <xsl:template match="*[@d:pr='va']">
+        <xsl:if test="$la_pronunciation = '1'">
+            <xsl:copy>
+                <xsl:apply-templates select="@*|node()" />
+            </xsl:copy>
+        </xsl:if>
+    </xsl:template>
+
+    <xsl:template match="j">
+        <xsl:value-of select="$small_j"/>
+    </xsl:template>
+
+    <xsl:template match="J">
+        <xsl:value-of select="$big_j"/>
+    </xsl:template>
+
+    <xsl:template match="v">
+        <xsl:value-of select="$small_v"/>
+    </xsl:template>
+
+    <xsl:template match="U">
+        <xsl:value-of select="$big_u"/>
+    </xsl:template>
 
 
-<!--
-	Default rule for all other tags
--->
-<xsl:template match="@*|node()">
-	<xsl:copy>
-		<xsl:apply-templates select="@*|node()" />
-	</xsl:copy>
-</xsl:template>
+    <xsl:template name="string-replace-all">
+        <xsl:param name="text" />
+        <xsl:param name="replace" />
+        <xsl:param name="by" />
+        <xsl:choose>
+            <xsl:when test="$text = '' or $replace = ''or not($replace)" >
+                <!-- Prevent this routine from hanging -->
+                <xsl:value-of select="$text" />
+            </xsl:when>
+            <xsl:when test="contains($text, $replace)">
+                <xsl:value-of select="substring-before($text,$replace)" />
+                <xsl:value-of select="$by" />
+                <xsl:call-template name="string-replace-all">
+                    <xsl:with-param name="text" select="substring-after($text,$replace)" />
+                    <xsl:with-param name="replace" select="$replace" />
+                    <xsl:with-param name="by" select="$by" />
+                </xsl:call-template>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="$text" />
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
 </xsl:stylesheet>
