@@ -1,5 +1,7 @@
 # About
 
+NOT MAINTAINED DUE TO LACK OF TIME
+
 This is a dictionary project written using Mac OS X, Xcode 6, and the Dictionary
 Developer Tools from Apple. Entries include both Latin-English and English-Latin
 definitions.
