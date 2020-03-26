@@ -36,7 +36,7 @@ all:
 	echo "Done."
 
 
-install: all
+install:
 	echo "Clearing dictionary caches."
 	$(RM) -rf ~/Library/Preferences/com.apple.DictionaryServices.plist
 	$(RM) -rf ~/Library/Preferences/com.apple.Dictionary.plist

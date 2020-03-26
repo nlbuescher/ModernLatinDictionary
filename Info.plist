@@ -2,28 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleName</key>
-	<string>Latin - English</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.nlbuescher.dictionary.ModernLatinDictionary</string>
-	<key>CFBundleDisplayName</key>
-	<string>Modernum Dictionarium Latinae - Latina-Anglicam • Anglica-Latinam</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Modernum Dictionarium Latinae - Latina-Anglicam • Anglica-Latinam</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nlbuescher.dictionary.ModernLatinDictionary</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Latin - English</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryNativeDisplayName</key>
 	<string>Anglica-Latinam</string>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Nicola Buescher</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Modern Latin Dictionary&lt;br/&gt;Copyright © 2014, 2020 Nicola Buescher</string>
 	<key>DCSDictionaryPrimaryLanguage</key>
 	<string>la</string>
-	<key>DCSDictionaryFrontMatterReferenceID</key>
-	<string>front_back_matter</string>
-	<key>DCSDictionaryPrefsHTML</key>
-	<string>ModernLatinDictionary_prefs.html</string>
-	<key>DCSDictionaryXSL</key>
-	<string>ModernLatinDictionary.xsl</string>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>orthography</key>
+		<string>1</string>
+		<key>pronunciation</key>
+		<string>0</string>
+		<key>version</key>
+		<string>1</string>
+	</dict>
 	<key>DCSDictionaryLanguages</key>
 	<array>
 		<dict>
@@ -39,14 +46,13 @@
 			<string>la</string>
 		</dict>
 	</array>
-	<key>DCSDictionaryDefaultPrefs</key>
-	<dict>
-		<key>la_txt</key>
-		<string>0</string>
-		<key>la_pr</key>
-		<string>0</string>
-		<key>version</key>
-		<string>1</string>
-	</dict>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>front_back_matter</string>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>ModernLatinDictionary_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>ModernLatinDictionary.xsl</string>
+	<key>DCSDictionaryUseSystemAppearance</key>
+	<true/>
 </dict>
 </plist>
