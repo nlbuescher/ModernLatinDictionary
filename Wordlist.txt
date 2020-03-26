@@ -6,27 +6,27 @@
 
 # http://www.unm.edu/~blanter/Grammar_Term_Origins.pdf
 
-ablātīuus (cāsus)						- ablative (case)
+ablātīvus (cāsus)						- ablative (case)
 accentum								- accent
-accūsātīuus (cāsus)						- accusative (case)
+accūsātīvus (cāsus)						- accusative (case)
 acūtus									- acute (accent)
-actīuus (modus)							- active (voice)
-adiectīuus (4th c.)						- adjective
-aduerbium								- adverb
+actīvus (modus)							- active (voice)
+adjectīvus (4th c.)						- adjective
+adverbium								- adverb
 articulus								- article
 cāsus									- case
 circumflexus							- circumflex (accent)
 clausula								- clause
-comparātīuum							- comparative
-compositum (uerbum)						- compound (word)
-coniugātio								- conjugation
-coniunctio								- conjunction
+comparātīvum							- comparative
+compositum (verbum)						- compound (word)
+conjugātio								- conjugation
+conjunctio								- conjunction
 cōnsona (littera)						- consonant
 cōnsonāns								- consonant
-datīuus (casus)							- dative (case)
+datīvus (casus)							- dative (case)
 declinātio								- conjugation / declension
-deminutiuum (3rd c.)					- deminutive
-deminutiuus (nomen)						- deminutive noun
+deminutivum (3rd c.)					- deminutive
+deminutivus (nomen)						- deminutive noun
 diphthongus, -i, f.						- diphthong
 duālis (numerus)						- dual (number)
 fēminīnum (genus)						- feminine (gender)
@@ -35,42 +35,42 @@ flexus									- inflection
 finītus									- finite
 futūrum (tempus)						- future (tense)
 genus									- gender
-genitīuus (cāsus)						- genitive (case)
+genitīvus (cāsus)						- genitive (case)
 gerundium								- gerund
-gerundīuus (Late Latin)					- gerundive
+gerundīvus (Late Latin)					- gerundive
 masculīnus (genus)						- masculine (gender)
 modus									- mood / voice
 neutrum (genus)							- neuter gender
-nominatīuus (cāsus)						- nominative (case)
+nominatīvus (cāsus)						- nominative (case)
 nomen									- noun
 numerus									- number
 oblīquus (cāsus)						- oblique (case)
-optatīuus (4th c.)						- optative
+optatīvus (4th c.)						- optative
 paragraphus (Neo-Latin)					- paragraph
 pars ōrātiōnis							- part of speech
 participium								- participle
 particula								- particle
-passiuus (modus)						- passive (voice)
+passivus (modus)						- passive (voice)
 patricus (cāsus)						- genitive (case)
 perfectum (tempus)						- perfect (tense)
 persōna									- person
 (tempus praeteritum) plusquam perfectum	- pluperfect tense
 plūrālis (numerus)						- plural (number)
-possessīuus								- possessive
+possessīvus								- possessive
 praepositiō								- preposition
 praesens (tempus)						- present (tense)
 praeteritum (tempus)					- preterite / past (tense)
 pronomen								- pronoun
 radix									- root
-reflexiuus (Neo-Latin)					- reflexive
+reflexivus (Neo-Latin)					- reflexive
 sententia								- sentence
 singulāris (numerus)					- singular (number)
-subiunctīuus (modus)					- sunjunctive (mood)
-substantīuus (5th c.)					- substantive
-superlātīuum							- superlative
+subjunctīvus (modus)					- sunjunctive (mood)
+substantīvus (5th c.)					- substantive
+superlātīvum							- superlative
 syllaba									- syllable
 tempus									- tense / time
-uerbum									- word / verb
-uirīlis (genus)							- masculine (gender)
-uocātīuus (cāsus)						- vocative (case)
-uocālis (littera)						- vowel
+verbum									- word / verb
+virīlis (genus)							- masculine (gender)
+vocātīvus (cāsus)						- vocative (case)
+vocālis (littera)						- vowel

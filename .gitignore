@@ -1,3 +1,9 @@
 .DS_Store
-oed.css
-help.xml
+
+# build files
+objects
+
+# project files
+.idea
+
+Dictionary Development Kit
